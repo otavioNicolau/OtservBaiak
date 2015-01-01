@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Mega Seller" script="data/npc/scripts/default.lua" walkinterval="2000" floorchange="0">
+	<health now="100" max="100"/>
+	<look type="300" head="64" body="44" legs="42" feet="54" addons="3"/>
+	<parameters>
+		<parameter key="module_shop" value="1"/>
+		<parameter key="shop_buyable" value="Baiakzik Sword,7959,1000000;Baiakzik Axe,10943,1000000;Baiakzik Star,12391,1000000;Baiakzik Club,12574,1000000;Baiakzik Staff,7735,1000000;"/>
+	</parameters>
+1</npc>

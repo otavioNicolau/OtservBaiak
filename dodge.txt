@@ -1,0 +1,16 @@
+   DODGE SYSTEM.
+
+Dodge System: O sistema consiste em
+Defender % dos ataques recebidos.
+
+Por Exemplo:
+Com 10 de dodge, voce vai defender 50% de dano de 3 entre 100 ataques levados
+Com 100 de dodge (o maximo) voce vai defender 50% de dano de 30 entre 100 ataques levados
+Cada pedra que voce usar, sua skill de dodge aumenta em 1 ponto
+Podendo no maximo ter 100 pontos
+Para obter a pedra voce precisa comprar no Npc Dodge/Critical
+Localizado no templo.
+
+
+OBS: O Dodge System não estragará o PvP, pelo contrario
+vai ficar melhor ainda!

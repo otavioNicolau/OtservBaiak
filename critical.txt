@@ -1,0 +1,15 @@
+   CRITICAL SYSTEM.
+
+Critical System: O sistema consiste em
+hitar % a mais do que o normal.
+
+Por Exemplo: cada pédra que você usar vai te dar 0,4 % de change
+de hitar mais, com 100 pédras você terá 50% de chace de hitar
+40% a mais do que o comum
+Cada pedra que voce usar, sua skill de critical aumenta em 1 ponto
+Podendo no maximo ter 100 pontos
+Para obter a pedra voce precisa comprar no Npc Dodge/Critical
+Localizado no templo.
+
+
+OBS: O Critical System só funciona quando ataca players, em monstros não!

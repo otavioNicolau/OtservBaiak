@@ -1,0 +1,93 @@
+<!--?xml version="1.0" encoding="UTF-8"?-->
+<mod name="Guild Experience Reward" version="1.0" author="Summ" contact="otland.net" enabled="yes">
+	<config name="ge_config"><!--[CDATA[
+		ge_storage = 45501
+
+		function loadGuildExp()
+			local ret = getStorage(ge_storage)
+			if type(ret) == "string" then
+				return loadstring("return " .. ret)()
+			end
+			return {}
+		end
+
+		function saveGuildExp(list)
+			local ret = "{"
+			for guild, conf in pairs(list) do
+				ret = ret .. "[" .. guild .. "] = {" .. table.concat(conf, ",") .. "},"
+			end
+			ret = ret .. "}"
+			doSetStorage(ge_storage, ret)
+		end
+
+		function addGuildExp(name, exp, time)
+			local id = getGuildId(name)
+			if not(id) then
+				return print("Guild Exp System: Guild '" .. name .. "' was not found. (add)")
+			end
+
+			local c = loadGuildExp()
+			c[id] = {exp, time+os.time()}
+			saveGuildExp(c)
+			updateGuildExp(id, exp, time+os.time())
+		end
+
+		function removeGuildExp(id)
+			local c = loadGuildExp()
+			c[id] = nil
+			saveGuildExp(c)
+		end
+
+		function setRate(cid, exp)
+			if not(isPlayer(cid)) then
+				return true
+			end
+			doPlayerSetRate(cid, SKILL__LEVEL, exp)
+			doPlayerSendTextMessage(cid, MESSAGE_INFO_DESCR, "Your guild's extra experience time ended.")
+		end
+
+		function addRate(cid, exp, time)
+			local ex = getPlayerRates(cid)[SKILL__LEVEL]
+			doPlayerSetRate(cid, SKILL__LEVEL, (ex+exp))
+			doPlayerSendTextMessage(cid, MESSAGE_INFO_DESCR, "Your guild received " .. exp * 100 .. "% extra experience.")
+			addEvent(setRate, (time-os.time())*1000, cid, ex)
+		end
+
+		function updateGuildExp(guild, exp, time)
+			for _, cid in pairs(getPlayersOnline()) do
+				if guild == getPlayerGuildId(cid) then
+					addRate(cid, exp, time)
+				end
+			end
+		end
+	]]--></config>
+	<talkaction log="yes" words="/ge" access="5" event="buffer"><!--[CDATA[
+		domodlib('ge_config')
+		local split = param:explode(",")
+		local name, exp, time = split[1], tonumber(split[2]), tonumber(split[3])
+		if not(split[3]) then
+			return doPlayerSendCancel(cid, "The commands requires 3 parameters: guild name, experience and time")
+		end
+		if not(exp and time) then
+			print(exp .. time)
+			return doPlayerSendCancel(cid, "Numeric parameter required (experience and time in minutes).")
+		end
+
+		addGuildExp(split[1], exp, time*60)
+		return true
+	]]--></talkaction>
+	<event type="login" name="GuildExpLogin" event="buffer"><!--[CDATA[
+		domodlib('ge_config')
+		local gid = getPlayerGuildId(cid)
+		if gid ~= 0 then
+			local c = loadGuildExp()[gid] 
+			if c then
+				if os.time() --> c[2] then
+					removeGuildExp(gid)
+				else
+					addRate(cid, c[1], c[2])
+				end
+			end
+		end
+	]]></event>
+</mod>
