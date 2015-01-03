@@ -73,7 +73,7 @@ function onSay(cid, words, param, channel)
 			return true
 
 		else
-			doCreatureSay(cid, "SEM ITEM", TALKTYPE_ORANGE_1)
+			doCreatureSay(cid, "SEM ITEM VIP", TALKTYPE_ORANGE_1)
 			doSendMagicEffect(toPos, CONST_ME_POFF)
 			return TRUE
 		end	
@@ -148,7 +148,7 @@ function onSay(cid, words, param, channel)
 			return true
 
 		else
-			doCreatureSay(cid, "SEM ITEM", TALKTYPE_ORANGE_1)
+			doCreatureSay(cid, "SEM ITEM VIP", TALKTYPE_ORANGE_1)
 			doSendMagicEffect(toPos, CONST_ME_POFF)
 			return TRUE
 		end	
@@ -221,14 +221,167 @@ function onSay(cid, words, param, channel)
 			doCreatureSay(cid, "ULTIMATE CLUB!", TALKTYPE_ORANGE_1)
 			doSendMagicEffect(toPos, CONST_ME_MAGIC_RED)
 			return true
-
 		else
-			doCreatureSay(cid, "SEM ITEM", TALKTYPE_ORANGE_1)
+			doCreatureSay(cid, "SEM ITEM VIP", TALKTYPE_ORANGE_1)
+			doSendMagicEffect(toPos, CONST_ME_POFF)
+			return TRUE
+		end	
+
+	elseif(words == "/staff") then
+	
+	-- STRONG staff
+		if doPlayerRemoveItem(cid, 5907, 1) == TRUE then
+			doPlayerAddItem(cid, 7424, 1)	
+			doCreatureSay(cid, "GREAT STAFF!", TALKTYPE_ORANGE_1)
+			doSendMagicEffect(toPos, CONST_ME_MAGIC_RED)
+			return true
+		elseif doPlayerRemoveItem(cid, 7407, 1) == TRUE then
+			doPlayerAddItem(cid, 7424, 1)	
+			doCreatureSay(cid, "GREAT STAFF!", TALKTYPE_ORANGE_1)
+			doSendMagicEffect(toPos, CONST_ME_MAGIC_RED)
+			return true
+		elseif	doPlayerRemoveItem(cid, 7429, 1) == TRUE then
+			doPlayerAddItem(cid, 7424, 1)					
+			doCreatureSay(cid, "GREAT STAFF!", TALKTYPE_ORANGE_1)
+			doSendMagicEffect(toPos, CONST_ME_MAGIC_RED)
+			return true
+		elseif	doPlayerRemoveItem(cid, 2447, 1) == TRUE then
+			doPlayerAddItem(cid, 7424, 1)	
+			doCreatureSay(cid, "GREAT STAFF!", TALKTYPE_ORANGE_1)
+			doSendMagicEffect(toPos, CONST_ME_MAGIC_RED)
+			return true
+
+		-- GREAT staff	
+
+		elseif doPlayerRemoveItem(cid, 12647, 1) == TRUE then
+			doPlayerAddItem(cid, 12645, 1)	
+			doCreatureSay(cid, "STRONG STAFF!", TALKTYPE_ORANGE_1)
+			doSendMagicEffect(toPos, CONST_ME_MAGIC_RED)
+			return true
+		elseif doPlayerRemoveItem(cid, 12631, 1) == TRUE then
+			doPlayerAddItem(cid, 12645, 1)	
+			doCreatureSay(cid, "STRONG STAFF!", TALKTYPE_ORANGE_1)
+			doSendMagicEffect(toPos, CONST_ME_MAGIC_RED)
+			return true
+		elseif	doPlayerRemoveItem(cid, 12633, 1) == TRUE then
+			doPlayerAddItem(cid, 12645, 1)					
+			doCreatureSay(cid, "STRONG STAFF!", TALKTYPE_ORANGE_1)
+			doSendMagicEffect(toPos, CONST_ME_MAGIC_RED)
+			return true
+		elseif	doPlayerRemoveItem(cid, 12629, 1) == TRUE then
+			doPlayerAddItem(cid, 12645, 1)	
+			doCreatureSay(cid, "STRONG STAFF!", TALKTYPE_ORANGE_1)
+			doSendMagicEffect(toPos, CONST_ME_MAGIC_RED)
+			return true
+
+
+
+		-- Ultimate staff		
+
+		elseif doPlayerRemoveItem(cid, 12648, 1) == TRUE then
+			doPlayerAddItem(cid, 12646, 1)	
+			doCreatureSay(cid, "ULTIMATE STAFF!", TALKTYPE_ORANGE_1)
+			doSendMagicEffect(toPos, CONST_ME_MAGIC_RED)
+			return true
+		elseif doPlayerRemoveItem(cid, 12632, 1) == TRUE then
+			doPlayerAddItem(cid, 12646, 1)	
+			doCreatureSay(cid, "ULTIMATE STAFF!", TALKTYPE_ORANGE_1)
+			doSendMagicEffect(toPos, CONST_ME_MAGIC_RED)
+			return true
+		elseif	doPlayerRemoveItem(cid, 12634, 1) == TRUE then
+			doPlayerAddItem(cid, 12646, 1)					
+			doCreatureSay(cid, "ULTIMATE STAFF!", TALKTYPE_ORANGE_1)
+			doSendMagicEffect(toPos, CONST_ME_MAGIC_RED)
+			return true
+		elseif	doPlayerRemoveItem(cid, 12630, 1) == TRUE then
+			doPlayerAddItem(cid, 12646, 1)	
+			doCreatureSay(cid, "ULTIMATE STAFF!", TALKTYPE_ORANGE_1)
+			doSendMagicEffect(toPos, CONST_ME_MAGIC_RED)
+			return true
+		else
+			doCreatureSay(cid, "SEM ITEM VIP", TALKTYPE_ORANGE_1)
+			doSendMagicEffect(toPos, CONST_ME_POFF)
+			return TRUE
+		end	
+
+	elseif(words == "/slingshot") then
+	
+	-- STRONG staff
+		if doPlayerRemoveItem(cid, 7424, 1) == TRUE then
+			doPlayerAddItem(cid, 5907, 1)	
+			doCreatureSay(cid, "GREAT SLINGSHOT!", TALKTYPE_ORANGE_1)
+			doSendMagicEffect(toPos, CONST_ME_MAGIC_RED)
+			return true
+		elseif doPlayerRemoveItem(cid, 7407, 1) == TRUE then
+			doPlayerAddItem(cid, 5907, 1)	
+			doCreatureSay(cid, "GREAT SLINGSHOT!", TALKTYPE_ORANGE_1)
+			doSendMagicEffect(toPos, CONST_ME_MAGIC_RED)
+			return true
+		elseif	doPlayerRemoveItem(cid, 7429, 1) == TRUE then
+			doPlayerAddItem(cid, 5907, 1)					
+			doCreatureSay(cid, "GREAT SLINGSHOT!", TALKTYPE_ORANGE_1)
+			doSendMagicEffect(toPos, CONST_ME_MAGIC_RED)
+			return true
+		elseif	doPlayerRemoveItem(cid, 2447, 1) == TRUE then
+			doPlayerAddItem(cid, 5907, 1)	
+			doCreatureSay(cid, "GREAT SLINGSHOT!", TALKTYPE_ORANGE_1)
+			doSendMagicEffect(toPos, CONST_ME_MAGIC_RED)
+			return true
+
+		-- GREAT staff	
+
+		elseif doPlayerRemoveItem(cid, 12645, 1) == TRUE then
+			doPlayerAddItem(cid, 12647, 1)	
+			doCreatureSay(cid, "STRONG SLINGSHOT!", TALKTYPE_ORANGE_1)
+			doSendMagicEffect(toPos, CONST_ME_MAGIC_RED)
+			return true
+		elseif doPlayerRemoveItem(cid, 12631, 1) == TRUE then
+			doPlayerAddItem(cid, 12647, 1)	
+			doCreatureSay(cid, "STRONG SLINGSHOT!", TALKTYPE_ORANGE_1)
+			doSendMagicEffect(toPos, CONST_ME_MAGIC_RED)
+			return true
+		elseif	doPlayerRemoveItem(cid, 12633, 1) == TRUE then
+			doPlayerAddItem(cid, 12647, 1)					
+			doCreatureSay(cid, "STRONG SLINGSHOT!", TALKTYPE_ORANGE_1)
+			doSendMagicEffect(toPos, CONST_ME_MAGIC_RED)
+			return true
+		elseif	doPlayerRemoveItem(cid, 12629, 1) == TRUE then
+			doPlayerAddItem(cid, 12647, 1)	
+			doCreatureSay(cid, "STRONG SLINGSHOT!", TALKTYPE_ORANGE_1)
+			doSendMagicEffect(toPos, CONST_ME_MAGIC_RED)
+			return true
+
+
+
+		-- Ultimate slingshot		
+
+		elseif doPlayerRemoveItem(cid, 12646, 1) == TRUE then
+			doPlayerAddItem(cid, 12648, 1)	
+			doCreatureSay(cid, "ULTIMATE SLINGSHOT!", TALKTYPE_ORANGE_1)
+			doSendMagicEffect(toPos, CONST_ME_MAGIC_RED)
+			return true
+		elseif doPlayerRemoveItem(cid, 12632, 1) == TRUE then
+			doPlayerAddItem(cid, 12648, 1)	
+			doCreatureSay(cid, "ULTIMATE SLINGSHOT!", TALKTYPE_ORANGE_1)
+			doSendMagicEffect(toPos, CONST_ME_MAGIC_RED)
+			return true
+		elseif	doPlayerRemoveItem(cid, 12634, 1) == TRUE then
+			doPlayerAddItem(cid, 12648, 1)					
+			doCreatureSay(cid, "ULTIMATE SLINGSHOT!", TALKTYPE_ORANGE_1)
+			doSendMagicEffect(toPos, CONST_ME_MAGIC_RED)
+			return true
+		elseif	doPlayerRemoveItem(cid, 12630, 1) == TRUE then
+			doPlayerAddItem(cid, 12648, 1)	
+			doCreatureSay(cid, "ULTIMATE SLINGSHOT!", TALKTYPE_ORANGE_1)
+			doSendMagicEffect(toPos, CONST_ME_MAGIC_RED)
+			return true
+		else
+			doCreatureSay(cid, "SEM ITEM VIP", TALKTYPE_ORANGE_1)
 			doSendMagicEffect(toPos, CONST_ME_POFF)
 			return TRUE
 		end	
 	else	
-			doCreatureSay(cid, "SEM ITEM", TALKTYPE_ORANGE_1)
+			doCreatureSay(cid, "SEM ITEM VIP", TALKTYPE_ORANGE_1)
 			doSendMagicEffect(toPos, CONST_ME_POFF)
 			return TRUE
 	end		

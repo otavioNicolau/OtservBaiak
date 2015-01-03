@@ -100,7 +100,7 @@
 	displayOnOrOffAtCharlist = false
 	onePlayerOnlinePerAccount = true
 	allowClones = false
-	serverName = "baiak roxv4"
+	serverName = "BAIAK PARANORMAL"
 	loginMessage = "Bem-Vindo IceWars, Dedicado Sem Lag. Digite !notice."
 	statusTimeout = 5 * 60 * 1000
 	replaceKickOnLogin = true

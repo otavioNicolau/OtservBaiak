@@ -1,6 +1,7 @@
 <!--?xml version="1.0" encoding="UTF-8"?-->
 <mod name="Guild Experience Reward" version="1.0" author="Summ" contact="otland.net" enabled="yes">
-	<config name="ge_config"><!--[CDATA[
+	<config name="ge_config">
+	<!--[CDATA[
 		ge_storage = 45501
 
 		function loadGuildExp()
@@ -82,12 +83,12 @@
 		if gid ~= 0 then
 			local c = loadGuildExp()[gid] 
 			if c then
-				if os.time() --> c[2] then
+				if os.time() c[2] then
 					removeGuildExp(gid)
 				else
 					addRate(cid, c[1], c[2])
 				end
 			end
 		end
-	]]></event>
+	]]> --></event>
 </mod>

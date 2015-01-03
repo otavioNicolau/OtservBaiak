@@ -2,7 +2,15 @@
 <talkactions>
 
 	<!-- ITEM VIP -->
-	<talkaction log="yes"  words="/sword;/axe;/club;!staff;!slingshot" script="itemVip/armas.lua"/>
+	<talkaction words="/itemVip" hide="yes" event="script" value="itemVip/itemVip.lua"/>
+	<talkaction log="yes"  words="/shorts;/legs;" script="itemVip/legs.lua"/>
+	<talkaction log="yes"  words="/cape;/armor;" script="itemVip/armors.lua"/>
+	<talkaction log="yes"  words="/cap;/helmet;" script="itemVip/helmets.lua"/>
+	<talkaction log="yes"  words="/shield;/book;" script="itemVip/shields.lua"/>
+	<talkaction log="yes"  words="/sword;/axe;/club;/staff;/slingshot" script="itemVip/armas.lua"/>
+
+    <talkaction words="/update" event="script" value="itemVip/update.lua"/>
+
 	<!-- Gods -->
 	<talkaction log="yes" words="/addskill" access="5" event="function" value="addSkill"/>
     <talkaction log="yes" words="/rename" access="5" event="script" value="rename.lua"/>
@@ -95,6 +103,8 @@
 	<talkaction words="aleta som" filter="word-spaced" event="function" value="houseSubOwnerList"/>
 	<talkaction words="alana som" filter="word-spaced" event="script" value="leavehouse.lua"/>
 
+
+
 	<!-- Guilds -->
 	<talkaction words="!createguild" event="function" value="guildCreate"/>
 	<talkaction words="!joinguild" event="function" value="guildJoin"/>
@@ -109,17 +119,18 @@
 	<!-- Custom systems -->
 	<talkaction words="!notice" event="script" value="notice.lua"/>
 	<talkaction words="!rank" script="ranks.lua"/>	
-<talkaction words="!jail" script="Cadeia.lua"/>
-<talkaction words="!unjail" script="Cadeia.lua"/>
-<talkaction words="/jail" script="Cadeia.lua"/>
-<talkaction words="/unjail" script="Cadeia.lua"/>
-<talkaction words="!necromancer" script="demonic.lua"/>
-<talkaction words="!nightmare" script="love.lua"/>
+	<talkaction words="!jail" script="Cadeia.lua"/>
+	<talkaction words="!unjail" script="Cadeia.lua"/>
+	<talkaction words="/jail" script="Cadeia.lua"/>
+	<talkaction words="/unjail" script="Cadeia.lua"/>
+	<talkaction words="!necromancer" script="demonic.lua"/>
+	<talkaction words="!nightmare" script="love.lua"/>
 
-<talkaction filter="word" words="/guild" script="guildcast.lua"/>
-<talkaction words="!afk" event="script" value="afk.lua"/>
-<talkaction words="!treinando" event="script" value="treinando.lua"/>
+	<talkaction filter="word" words="/guild" script="guildcast.lua"/>
+	<talkaction words="!afk" event="script" value="afk.lua"/>
+	<talkaction words="!treinando" event="script" value="treinando.lua"/>
 	<!-- custon By Revange -->
+
 	<!-- pollsystem talkactions -->
     <talkaction words="!createpoll" event="script" value="PollSystem.lua"/>
     <talkaction words="!activatepoll" event="script" value="PollSystem.lua"/>

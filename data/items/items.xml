@@ -1964,10 +1964,6 @@
 	<item id="2156" article="a" name="red gem">
 		<attribute key="weight" value="30" />
 	</item>
-	<item id="2157" article="a" name="Nugget Coin" plural="Nugget Coins">
-                <attribute key="weight" value="5"/>
-                <attribute key="worth" value="1000000" />
-	</item>
 	<item id="2158" article="a" name="blue gem">
 		<attribute key="weight" value="100" />
 	</item>
@@ -17476,7 +17472,7 @@
         <attribute key="skillAxe" value="3" />
         <attribute key="skillClub" value="3" />
         <attribute key="skillDist" value="3" />
-		<attribute key="description" value="Este item, ainda pode ser aprimorado, Clique para mudar." />
+		<attribute key="description" value="Para mais Info fale: /itemVip" />
         <attribute key="absorbPercentAll" value="5" />
 
 	</item>
@@ -17488,7 +17484,7 @@
         <attribute key="skillAxe" value="6" />
         <attribute key="skillClub" value="6" />
         <attribute key="skillDist" value="6" />
-		<attribute key="description" value="Este item, ainda pode ser aprimorado, Clique para mudar." />
+		<attribute key="description" value="Para mais Info fale: /itemVip" />
         <attribute key="absorbPercentAll" value="8" />
 
 	</item>
@@ -17500,7 +17496,7 @@
         <attribute key="skillAxe" value="9" />
         <attribute key="skillClub" value="9" />
         <attribute key="skillDist" value="9" />
-        <attribute key="description" value="Este item, Não pode ser mais aprimorado, Clique para mudar." />
+		<attribute key="description" value="Para mais Info fale: /itemVip" />
         <attribute key="absorbPercentAll" value="11" />
 	</item>
 
@@ -17514,7 +17510,7 @@
         <attribute key="skillAxe" value="3" />
         <attribute key="skillClub" value="3" />
         <attribute key="skillDist" value="3" />
-		<attribute key="description" value="Este item, ainda pode ser aprimorado, Clique para mudar." />
+		<attribute key="description" value="Para mais Info fale: /itemVip" />
         <attribute key="absorbPercentAll" value="5" />
 	</item>
 
@@ -17526,7 +17522,7 @@
         <attribute key="skillAxe" value="6" />
         <attribute key="skillClub" value="6" />
         <attribute key="skillDist" value="6" />
-		<attribute key="description" value="Este item, ainda pode ser aprimorado, Clique para mudar." />
+		<attribute key="description" value="Para mais Info fale: /itemVip" />
         <attribute key="absorbPercentAll" value="8" />
 	</item>
 
@@ -17538,7 +17534,7 @@
         <attribute key="skillAxe" value="9" />
         <attribute key="skillClub" value="9" />
         <attribute key="skillDist" value="9" />
-        <attribute key="description" value="Este item, Não pode ser mais aprimorado, Clique para mudar." />
+		<attribute key="description" value="Para mais Info fale: /itemVip" />
         <attribute key="absorbPercentAll" value="11" />
 	</item>
 
@@ -17551,7 +17547,7 @@
         <attribute key="skillAxe" value="3" />
         <attribute key="skillClub" value="3" />
         <attribute key="skillDist" value="3" />
-		<attribute key="description" value="Este item, ainda pode ser aprimorado, Clique para mudar." />
+		<attribute key="description" value="Para mais Info fale: /itemVip" />
         <attribute key="absorbPercentAll" value="5" />
 	</item>
 
@@ -17563,7 +17559,7 @@
         <attribute key="skillAxe" value="6" />
         <attribute key="skillClub" value="6" />
         <attribute key="skillDist" value="6" />
-		<attribute key="description" value="Este item, ainda pode ser aprimorado, Clique para mudar." />
+		<attribute key="description" value="Para mais Info fale: /itemVip" />
         <attribute key="absorbPercentAll" value="8" />
 	</item>
 
@@ -17575,7 +17571,7 @@
         <attribute key="skillAxe" value="9" />
         <attribute key="skillClub" value="9" />
         <attribute key="skillDist" value="9" />
-        <attribute key="description" value="Este item, Não pode ser mais aprimorado, Clique para mudar." />
+		<attribute key="description" value="Para mais Info fale: /itemVip" />
         <attribute key="absorbPercentAll" value="11" />
 	</item>
 
@@ -17590,7 +17586,7 @@
         <attribute key="absorbPercentPoison" value="2" />
         <attribute key="absorbPercentFire" value="2" />
         <attribute key="absorbPercentLifeDrain" value="2" />
-        <attribute key="description" value="Rapida recuperacao e mais velocidade." />
+		<attribute key="description" value="Para mais Info fale: /itemVip" />
 		<attribute key="healthGain" value="95" />
 		<attribute key="healthTicks" value="2500" />
 		<attribute key="manaGain" value="95" />
@@ -17608,7 +17604,7 @@
         <attribute key="absorbPercentPoison" value="4" />
         <attribute key="absorbPercentFire" value="4" />
         <attribute key="absorbPercentLifeDrain" value="4" />
-        <attribute key="description" value="Rapida recuperacao e mais velocidade." />
+		<attribute key="description" value="Para mais Info fale: /itemVip" />
 		<attribute key="healthGain" value="95" />
 		<attribute key="healthTicks" value="2500" />
 		<attribute key="manaGain" value="95" />
@@ -17627,7 +17623,7 @@
         <attribute key="absorbPercentPoison" value="6" />
         <attribute key="absorbPercentFire" value="6" />
         <attribute key="absorbPercentLifeDrain" value="6" />
-        <attribute key="description" value="Rapida recuperacao e mais velocidade." />
+		<attribute key="description" value="Para mais Info fale: /itemVip" />
 		<attribute key="healthGain" value="95" />
 		<attribute key="healthTicks" value="2500" />
 		<attribute key="manaGain" value="95" />
@@ -17645,7 +17641,7 @@
 		<attribute key="attack" value="115" />
 		<attribute key="weaponType" value="axe" />
         <attribute key="skillAxe" value="2" />
-		<attribute key="description" value="Este item, ainda pode ser aprimorado, Clique para mudar." />
+		<attribute key="description" value="Para mais Info fale: /itemVip" />
 
 	</item>
 		<item id="12629" article="a" name="Great Axe">
@@ -17654,7 +17650,7 @@
 		<attribute key="attack" value="120" />
 		<attribute key="weaponType" value="axe" />
         <attribute key="skillAxe" value="4" />
-		<attribute key="description" value="Este item, ainda pode ser aprimorado, Clique para mudar." />
+		<attribute key="description" value="Para mais Info fale: /itemVip" />
 	</item>
 		<item id="12630" article="a" name="Ultimate Axe">
 		<attribute key="weight" value="6500" />
@@ -17662,7 +17658,7 @@
 		<attribute key="attack" value="125" />
 		<attribute key="weaponType" value="axe" />
         <attribute key="skillAxe" value="6" />
-        <attribute key="description" value="Este item, Não pode ser mais aprimorado, Clique para mudar." />
+		<attribute key="description" value="Para mais Info fale: /itemVip" />
 
 	</item>
 
@@ -17675,7 +17671,7 @@
 		<attribute key="attack" value="115" />
 		<attribute key="weaponType" value="sword" />
 		<attribute key="skillSword" value="2" />
-		<attribute key="description" value="Este item, ainda pode ser aprimorado, Clique para mudar." />
+		<attribute key="description" value="Para mais Info fale: /itemVip" />
 	</item>
 	<item id="12631" article="a" name="Great Sword">
 		<attribute key="weight" value="2100" />
@@ -17683,7 +17679,7 @@
 		<attribute key="attack" value="120" />
 		<attribute key="weaponType" value="sword" />
 		<attribute key="skillSword" value="4" />
-		<attribute key="description" value="Este item, ainda pode ser aprimorado, Clique para mudar." />
+		<attribute key="description" value="Para mais Info fale: /itemVip" />
 
 	</item>
 	<item id="12632" article="a" name="Ultimate Sword">
@@ -17692,7 +17688,7 @@
 		<attribute key="attack" value="125" />
 		<attribute key="weaponType" value="sword" />
 		<attribute key="skillSword" value="6" />
-        <attribute key="description" value="Este item, Não pode ser mais aprimorado, Clique para mudar." />
+		<attribute key="description" value="Para mais Info fale: /itemVip" />
 	</item>
 
 <!-- clubs -->	
@@ -17703,7 +17699,7 @@
 		<attribute key="attack" value="115" />
 		<attribute key="weaponType" value="club" />
         <attribute key="skillClub" value="2" />
-		<attribute key="description" value="Este item, ainda pode ser aprimorado, Clique para mudar." />
+		<attribute key="description" value="Para mais Info fale: /itemVip" />
 	</item>
 	<item id="12633" article="a" name="Great Club">
 		<attribute key="weight" value="3900" />
@@ -17711,7 +17707,7 @@
 		<attribute key="attack" value="120" />
 		<attribute key="weaponType" value="club" />
         <attribute key="skillClub" value="4" />
-		<attribute key="description" value="Este item, ainda pode ser aprimorado, Clique para mudar." />
+		<attribute key="description" value="Para mais Info fale: /itemVip" />
 	</item>
 	<item id="12634" article="a" name="Ultimate Club">
 		<attribute key="weight" value="3900" />
@@ -17719,7 +17715,7 @@
 		<attribute key="attack" value="125" />
 		<attribute key="weaponType" value="club" />
         <attribute key="skillClub" value="6" />
-        <attribute key="description" value="Este item, Não pode ser mais aprimorado, Clique para mudar." />
+		<attribute key="description" value="Para mais Info fale: /itemVip" />
 	</item>
 
 <!-- shields -->
@@ -17728,19 +17724,19 @@
 		<attribute key="weight" value="5100" />
 		<attribute key="defense" value="150" />
 		<attribute key="weaponType" value="shield" />
-		<attribute key="description" value="Este item, ainda pode ser aprimorado, Clique para mudar." />
+		<attribute key="description" value="Para mais Info fale: /itemVip" />
 	</item>
 	<item id="12635" article="a" name="Great Shield">
 		<attribute key="weight" value="5100" />
 		<attribute key="defense" value="175" />
 		<attribute key="weaponType" value="shield" />
-		<attribute key="description" value="Este item, ainda pode ser aprimorado, Clique para mudar." />
+		<attribute key="description" value="Para mais Info fale: /itemVip" />
 	</item>
 	<item id="12636" article="a" name="Ultimate Shield">
 		<attribute key="weight" value="5100" />
 		<attribute key="defense" value="200" />
 		<attribute key="weaponType" value="shield" />
-        <attribute key="description" value="Este item, Não pode ser mais aprimorado, Clique para mudar." />
+		<attribute key="description" value="Para mais Info fale: /itemVip" />
 	</item>
 
 
@@ -17755,7 +17751,7 @@
 		<attribute key="slotType" value="head" />
         <attribute key="absorbPercentAll" value="5" />
         <attribute key="magiclevelpoints" value="3" />
-        <attribute key="description" value="Este item, ainda pode ser aprimorado, Clique para mudar." />
+		<attribute key="description" value="Para mais Info fale: /itemVip" />
 	</item>
 
 	<item id="12637" article="a" name="Great Cap">
@@ -17764,7 +17760,7 @@
 		<attribute key="slotType" value="head" />
         <attribute key="absorbPercentAll" value="8" />
         <attribute key="magiclevelpoints" value="6" />
-        <attribute key="description" value="Este item, ainda pode ser aprimorado, Clique para mudar." />
+		<attribute key="description" value="Para mais Info fale: /itemVip" />
 	</item>
 
 	<item id="12638" article="a" name="Ultimate Cap">
@@ -17773,7 +17769,7 @@
 		<attribute key="slotType" value="head" />
         <attribute key="absorbPercentAll" value="11" />
         <attribute key="magiclevelpoints" value="9" />
-        <attribute key="description" value="Este item, Não pode ser mais aprimorado, Clique para mudar." />
+		<attribute key="description" value="Para mais Info fale: /itemVip" />
 	</item>
 
 	<!-- cape -->
@@ -17783,7 +17779,7 @@
 		<attribute key="slotType" value="body" />
 		<attribute key="absorbPercentAll" value="5" />
         <attribute key="magiclevelpoints" value="3" />
-        <attribute key="description" value="Este item, ainda pode ser aprimorado, Clique para mudar." />
+		<attribute key="description" value="Para mais Info fale: /itemVip" />
 	</item>
 
 	<item id="12639" article="a" name="Great Cape">
@@ -17792,7 +17788,7 @@
 		<attribute key="slotType" value="body" />
 		<attribute key="absorbPercentAll" value="8" />
         <attribute key="magiclevelpoints" value="6" />
-        <attribute key="description" value="Este item, ainda pode ser aprimorado, Clique para mudar." />
+		<attribute key="description" value="Para mais Info fale: /itemVip" />
 	</item>
 
 	<item id="12640" article="a" name="Ultimate Cape">
@@ -17801,7 +17797,7 @@
 		<attribute key="slotType" value="body" />
 		<attribute key="absorbPercentAll" value="11" />
         <attribute key="magiclevelpoints" value="9" />
-        <attribute key="description" value="Este item, Não pode ser mais aprimorado, Clique para mudar." />
+		<attribute key="description" value="Para mais Info fale: /itemVip" />
 	</item>
 
 	<!-- short -->
@@ -17812,7 +17808,7 @@
 		<attribute key="slotType" value="legs" />
 		<attribute key="absorbPercentAll" value="5" />
         <attribute key="magiclevelpoints" value="3" />
-        <attribute key="description" value="Este item, ainda pode ser aprimorado, Clique para mudar." />
+		<attribute key="description" value="Para mais Info fale: /itemVip" />
 	</item>
 
 	<item id="12641" article="a" name="Great Shorts">
@@ -17821,7 +17817,7 @@
 		<attribute key="slotType" value="legs" />
 		<attribute key="absorbPercentAll" value="8" />
         <attribute key="magiclevelpoints" value="6" />
-        <attribute key="description" value="Este item, ainda pode ser aprimorado, Clique para mudar." />
+		<attribute key="description" value="Para mais Info fale: /itemVip" />
 	</item>
 
 	<item id="12642" article="a" name="Ultimate Shorts">
@@ -17830,7 +17826,7 @@
 		<attribute key="slotType" value="legs" />
 		<attribute key="absorbPercentAll" value="11" />
         <attribute key="magiclevelpoints" value="9" />
-        <attribute key="description" value="Este item, Não pode ser mais aprimorado, Clique para mudar." />
+		<attribute key="description" value="Para mais Info fale: /itemVip" />
 	</item>
 
 	<!-- shields -->
@@ -17840,7 +17836,7 @@
 		<attribute key="defense" value="16" />
         <attribute key="magiclevelpoints" value="5" />
 		<attribute key="weaponType" value="shield" />
-		<attribute key="description" value="Este item, ainda pode ser aprimorado, Clique para mudar." />
+		<attribute key="description" value="Para mais Info fale: /itemVip" />
 	</item>
 
 	<item id="12643" article="a" name="Great Book">
@@ -17848,7 +17844,7 @@
 		<attribute key="defense" value="20" />
         <attribute key="magiclevelpoints" value="15" />
 		<attribute key="weaponType" value="shield" />
-		<attribute key="description" value="Este item, ainda pode ser aprimorado, Clique para mudar." />
+		<attribute key="description" value="Para mais Info fale: /itemVip" />
 	</item>
 
 	<item id="12644" article="a" name="Ultimate Book">
@@ -17856,7 +17852,7 @@
 		<attribute key="defense" value="24" />
         <attribute key="magiclevelpoints" value="25" />
 		<attribute key="weaponType" value="shield" />
-		<attribute key="description" value="Este item, Não pode ser mais aprimorado, Clique para mudar." />
+		<attribute key="description" value="Para mais Info fale: /itemVip" />
 	</item>
 
 <!-- staff -->
@@ -17866,7 +17862,7 @@
 		<attribute key="weaponType" value="wand" />
 		<attribute key="shootType" value="cake" />
 		<attribute key="range" value="4" />
-		<attribute key="description" value="Este item, ainda pode ser aprimorado, Clique para mudar." />
+		<attribute key="description" value="Para mais Info fale: /itemVip" />
 	</item>
 
 	<item id="12645" article="a" name="Great Staff">
@@ -17874,7 +17870,7 @@
 		<attribute key="weaponType" value="wand" />
 		<attribute key="shootType" value="cake" />
 		<attribute key="range" value="6" />
-		<attribute key="description" value="Este item, ainda pode ser aprimorado, Clique para mudar." />
+		<attribute key="description" value="Para mais Info fale: /itemVip" />
 	</item>
 
 	<item id="12646" article="a" name="Ultimate Staff">
@@ -17882,7 +17878,7 @@
 		<attribute key="weaponType" value="wand" />
 		<attribute key="shootType" value="cake" />
 		<attribute key="range" value="8" />
-		<attribute key="description" value="Este item, Não pode ser mais aprimorado, Clique para mudar." />
+		<attribute key="description" value="Para mais Info fale: /itemVip" />
 	</item>
 
 	<!-- Slingshot -->
@@ -17893,7 +17889,7 @@
         <attribute key="skillDist" value="3" />
         <attribute key="weaponType" value="distance" />
         <attribute key="range" value="7" />
-      	<attribute key="description" value="Este item, ainda pode ser aprimorado, Clique para mudar." />
+		<attribute key="description" value="Para mais Info fale: /itemVip" />
 	</item>
 		<item id="12647" article="a" name="Great Slingshot">
 		<attribute key="weight" value="1200" />
@@ -17902,7 +17898,7 @@
         <attribute key="skillDist" value="6" />
         <attribute key="weaponType" value="distance" />
         <attribute key="range" value="8" />
-        <attribute key="description" value="Este item, ainda pode ser aprimorado, Clique para mudar." />
+		<attribute key="description" value="Para mais Info fale: /itemVip" />
 	</item>
 		<item id="12648" article="a" name="Ultimate Slingshot">
 		<attribute key="weight" value="1200" />
@@ -17911,6 +17907,13 @@
         <attribute key="skillDist" value="9" />
         <attribute key="weaponType" value="distance" />
         <attribute key="range" value="9" />
-        <attribute key="description" value="Este item, Não pode ser mais aprimorado, Clique para mudar." />
+		<attribute key="description" value="Para mais Info fale: /itemVip" />
+	</item>
+
+
+	<!-- item valiso -->
+	<item id="2157" article="a" name="Nugget Coin" plural="Nugget Coins">
+    	<attribute key="weight" value="5"/>
+    	<attribute key="worth" value="1000000" />
 	</item>
 </items>
