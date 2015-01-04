@@ -25,6 +25,7 @@
         <globalevent name="MagicEffect13" interval="2000" script="placa12.lua" />
         <globalevent name="MagicEffect14" interval="2000" script="placa13.lua" />
         <globalevent name="MagicEffect15" interval="2000" script="placa14.lua" />
+        <globalevent name="animatedtext" interval="2000" script="effects3.lua"/> 
    
 
 	<!-- <globalevent name="timer_example" time="21:35" event="script" value="my_script.lua"/> -->
