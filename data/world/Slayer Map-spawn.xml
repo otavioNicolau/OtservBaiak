@@ -4475,7 +4475,7 @@
   </spawn>
   <spawn centerx="169" centery="63" centerz="6" radius="1">
     <monster name="Juggernaut" x="-1" y="-1" z="6" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="1" y="-1" z="6" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="1" y="-1" z="6" spawntime="60"/>
   </spawn>
   <spawn centerx="1616" centery="63" centerz="6" radius="30">
     <monster name="Dragon Lord Castle" x="-12" y="17" z="6" spawntime="17"/>
@@ -7812,7 +7812,7 @@
     <monster name="Demon Vip" x="0" y="1" z="7" spawntime="30"/>
   </spawn>
   <spawn centerx="142" centery="72" centerz="7" radius="1">
-    <npc name="Updade Seller" x="0" y="-1" z="7" spawntime="40"/>
+    <npc name="Updade Seller" x="0" y="-1" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="778" centery="72" centerz="7" radius="5"/>
   <spawn centerx="779" centery="72" centerz="7" radius="2"/>
@@ -23488,38 +23488,38 @@
     <monster name="Infernalist Supervip" x="5" y="5" z="13" spawntime="60"/>
   </spawn>
   <spawn centerx="1392" centery="200" centerz="13" radius="5">
-    <monster name="Grim Reaper Vip II" x="-2" y="-3" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="1" y="-3" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="4" y="-3" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="-3" y="0" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="1" y="1" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="4" y="1" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="-5" y="5" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="-2" y="5" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="3" y="5" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="-2" y="-3" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="1" y="-3" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="4" y="-3" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="-3" y="0" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="1" y="1" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="4" y="1" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="-5" y="5" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="-2" y="5" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="3" y="5" z="13" spawntime="60"/>
   </spawn>
   <spawn centerx="1403" centery="202" centerz="13" radius="5">
-    <monster name="Grim Reaper Vip II" x="4" y="-5" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="-2" y="-4" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="1" y="-4" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="5" y="-3" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="-4" y="-2" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="-1" y="-2" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="4" y="2" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="-4" y="4" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="1" y="4" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="5" y="5" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="4" y="-5" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="-2" y="-4" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="1" y="-4" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="5" y="-3" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="-4" y="-2" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="-1" y="-2" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="4" y="2" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="-4" y="4" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="1" y="4" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="5" y="5" z="13" spawntime="60"/>
   </spawn>
   <spawn centerx="1381" centery="203" centerz="13" radius="5">
-    <monster name="Grim Reaper Vip II" x="-1" y="-5" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="4" y="-5" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="-2" y="-3" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="3" y="-2" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="-3" y="0" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="1" y="1" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="-3" y="4" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="5" y="4" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="1" y="5" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="-1" y="-5" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="4" y="-5" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="-2" y="-3" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="3" y="-2" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="-3" y="0" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="1" y="1" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="-3" y="4" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="5" y="4" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="1" y="5" z="13" spawntime="60"/>
   </spawn>
   <spawn centerx="1348" centery="204" centerz="13" radius="5">
     <monster name="Lich" x="-1" y="0" z="13" spawntime="60"/>
@@ -23555,36 +23555,36 @@
     <monster name="Juggernaut" x="1" y="2" z="13" spawntime="60"/>
   </spawn>
   <spawn centerx="1378" centery="208" centerz="13" radius="5">
-    <monster name="Grim Reaper Vip II" x="-3" y="-5" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="-5" y="-4" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="-4" y="0" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="-4" y="4" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="1" y="4" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="-3" y="-5" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="-5" y="-4" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="-4" y="0" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="-4" y="4" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="1" y="4" z="13" spawntime="60"/>
   </spawn>
   <spawn centerx="1381" centery="210" centerz="13" radius="5">
-    <monster name="Grim Reaper Vip II" x="4" y="-1" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="0" y="4" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="4" y="-1" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="0" y="4" z="13" spawntime="60"/>
   </spawn>
   <spawn centerx="1394" centery="211" centerz="13" radius="5">
-    <monster name="Grim Reaper Vip II" x="-3" y="-5" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="1" y="-5" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="5" y="0" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="0" y="1" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="-3" y="2" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="-5" y="4" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="0" y="4" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="4" y="4" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="-3" y="-5" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="1" y="-5" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="5" y="0" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="0" y="1" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="-3" y="2" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="-5" y="4" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="0" y="4" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="4" y="4" z="13" spawntime="60"/>
   </spawn>
   <spawn centerx="1403" centery="212" centerz="13" radius="5">
-    <monster name="Grim Reaper Vip II" x="1" y="-1" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="2" y="2" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="1" y="-1" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="2" y="2" z="13" spawntime="60"/>
   </spawn>
   <spawn centerx="1462" centery="212" centerz="13" radius="5">
-    <monster name="Grim Reaper Vip II" x="-2" y="-2" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="4" y="-1" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="-3" y="1" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="-5" y="2" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="4" y="2" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="-2" y="-2" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="4" y="-1" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="-3" y="1" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="-5" y="2" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="4" y="2" z="13" spawntime="60"/>
   </spawn>
   <spawn centerx="1348" centery="213" centerz="13" radius="5">
     <monster name="Juggernaut" x="0" y="1" z="13" spawntime="60"/>
@@ -23592,45 +23592,45 @@
     <monster name="Lich" x="-3" y="5" z="13" spawntime="60"/>
   </spawn>
   <spawn centerx="1440" centery="213" centerz="13" radius="5">
-    <monster name="Grim Reaper Vip II" x="-3" y="-3" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="2" y="-3" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="-5" y="0" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="0" y="1" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="4" y="1" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="-4" y="5" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="-3" y="-3" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="2" y="-3" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="-5" y="0" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="0" y="1" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="4" y="1" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="-4" y="5" z="13" spawntime="60"/>
   </spawn>
   <spawn centerx="1415" centery="214" centerz="13" radius="5">
-    <monster name="Grim Reaper Vip II" x="0" y="-4" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="1" y="-1" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="-5" y="0" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="-1" y="0" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="3" y="1" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="-3" y="4" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="2" y="4" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="4" y="4" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="0" y="-4" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="1" y="-1" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="-5" y="0" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="-1" y="0" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="3" y="1" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="-3" y="4" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="2" y="4" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="4" y="4" z="13" spawntime="60"/>
   </spawn>
   <spawn centerx="1421" centery="214" centerz="13" radius="5">
-    <monster name="Grim Reaper Vip II" x="1" y="-4" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="5" y="-4" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="2" y="0" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="3" y="4" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="1" y="-4" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="5" y="-4" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="2" y="0" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="3" y="4" z="13" spawntime="60"/>
   </spawn>
   <spawn centerx="1432" centery="214" centerz="13" radius="5">
-    <monster name="Grim Reaper Vip II" x="-1" y="-4" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="2" y="-1" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="0" y="0" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="-2" y="1" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="-1" y="1" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="-2" y="4" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="-1" y="-4" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="2" y="-1" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="0" y="0" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="-2" y="1" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="-1" y="1" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="-2" y="4" z="13" spawntime="60"/>
   </spawn>
   <spawn centerx="1444" centery="214" centerz="13" radius="5">
-    <monster name="Grim Reaper Vip II" x="3" y="-4" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="5" y="0" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="1" y="5" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="3" y="-4" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="5" y="0" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="1" y="5" z="13" spawntime="60"/>
   </spawn>
   <spawn centerx="1456" centery="214" centerz="13" radius="5">
-    <monster name="Grim Reaper Vip II" x="-5" y="-4" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="-5" y="4" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="-5" y="-4" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="-5" y="4" z="13" spawntime="60"/>
   </spawn>
   <spawn centerx="1284" centery="215" centerz="13" radius="5">
     <monster name="Juggernaut" x="-4" y="1" z="13" spawntime="60"/>
@@ -23681,11 +23681,11 @@
     <monster name="Infernalist Supervip" x="1" y="3" z="13" spawntime="0"/>
   </spawn>
   <spawn centerx="1462" centery="219" centerz="13" radius="5">
-    <monster name="Grim Reaper Vip II" x="-5" y="1" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="0" y="1" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="4" y="2" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="-1" y="3" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="-4" y="5" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="-5" y="1" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="0" y="1" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="4" y="2" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="-1" y="3" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="-4" y="5" z="13" spawntime="60"/>
   </spawn>
   <spawn centerx="837" centery="220" centerz="13" radius="5">
     <monster name="Infernalist Supervip" x="0" y="-5" z="13" spawntime="60"/>
@@ -23699,26 +23699,26 @@
     <monster name="Lich" x="3" y="0" z="13" spawntime="60"/>
   </spawn>
   <spawn centerx="1383" centery="220" centerz="13" radius="5">
-    <monster name="Grim Reaper Vip II" x="2" y="-4" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="-3" y="0" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="2" y="0" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="4" y="0" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="-5" y="4" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="-2" y="4" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="2" y="-4" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="-3" y="0" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="2" y="0" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="4" y="0" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="-5" y="4" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="-2" y="4" z="13" spawntime="60"/>
   </spawn>
   <spawn centerx="1374" centery="221" centerz="13" radius="5">
-    <monster name="Grim Reaper Vip II" x="0" y="-4" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="-1" y="3" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="0" y="-4" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="-1" y="3" z="13" spawntime="60"/>
   </spawn>
   <spawn centerx="1394" centery="223" centerz="13" radius="5">
-    <monster name="Grim Reaper Vip II" x="0" y="-4" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="-2" y="-3" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="1" y="0" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="5" y="0" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="-2" y="2" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="4" y="2" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="-4" y="3" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="4" y="3" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="0" y="-4" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="-2" y="-3" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="1" y="0" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="5" y="0" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="-2" y="2" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="4" y="2" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="-4" y="3" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="4" y="3" z="13" spawntime="60"/>
   </spawn>
   <spawn centerx="1156" centery="224" centerz="13" radius="5">
     <monster name="Frost Dragon vip3" x="2" y="-1" z="13" spawntime="60"/>
@@ -23746,34 +23746,34 @@
     <monster name="Frost Dragon vip3" x="1" y="3" z="13" spawntime="60"/>
   </spawn>
   <spawn centerx="1406" centery="224" centerz="13" radius="5">
-    <monster name="Grim Reaper Vip II" x="-3" y="-5" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="2" y="-5" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="-4" y="-2" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="0" y="-2" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="5" y="-2" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="-2" y="3" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="3" y="3" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="-3" y="-5" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="2" y="-5" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="-4" y="-2" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="0" y="-2" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="5" y="-2" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="-2" y="3" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="3" y="3" z="13" spawntime="60"/>
   </spawn>
   <spawn centerx="1419" centery="224" centerz="13" radius="5">
-    <monster name="Grim Reaper Vip II" x="-4" y="-3" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="-1" y="-2" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="2" y="-1" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="-1" y="3" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="2" y="3" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="-4" y="-3" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="-1" y="-2" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="2" y="-1" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="-1" y="3" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="2" y="3" z="13" spawntime="60"/>
   </spawn>
   <spawn centerx="1427" centery="224" centerz="13" radius="5">
-    <monster name="Grim Reaper Vip II" x="5" y="-3" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="-2" y="-2" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="1" y="-2" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="1" y="3" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="4" y="3" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="5" y="-3" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="-2" y="-2" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="1" y="-2" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="1" y="3" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="4" y="3" z="13" spawntime="60"/>
   </spawn>
   <spawn centerx="1437" centery="224" centerz="13" radius="5">
-    <monster name="Grim Reaper Vip II" x="1" y="-2" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="5" y="-1" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="0" y="2" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="3" y="2" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="-2" y="3" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="1" y="-2" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="5" y="-1" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="0" y="2" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="3" y="2" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="-2" y="3" z="13" spawntime="60"/>
   </spawn>
   <spawn centerx="1219" centery="225" centerz="13" radius="5">
     <monster name="Frost Dragon vip3" x="1" y="-4" z="13" spawntime="60"/>
@@ -23795,16 +23795,16 @@
     <monster name="Frost Dragon vip3" x="1" y="4" z="13" spawntime="60"/>
   </spawn>
   <spawn centerx="1447" centery="225" centerz="13" radius="5">
-    <monster name="Grim Reaper Vip II" x="-1" y="-3" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="1" y="1" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="-2" y="2" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="1" y="2" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="-5" y="5" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="-1" y="-3" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="1" y="1" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="-2" y="2" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="1" y="2" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="-5" y="5" z="13" spawntime="60"/>
   </spawn>
   <spawn centerx="1453" centery="225" centerz="13" radius="5">
-    <monster name="Grim Reaper Vip II" x="2" y="-2" z="13" spawntime="0"/>
-    <monster name="Grim Reaper Vip II" x="2" y="-1" z="13" spawntime="0"/>
-    <monster name="Grim Reaper Vip II" x="2" y="0" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="2" y="-2" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="2" y="-1" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="2" y="0" z="13" spawntime="60"/>
   </spawn>
   <spawn centerx="1144" centery="226" centerz="13" radius="5">
     <monster name="Frost Dragon vip3" x="-5" y="-4" z="13" spawntime="60"/>
@@ -23835,12 +23835,12 @@
     <monster name="Frost Dragon vip3" x="2" y="3" z="13" spawntime="60"/>
   </spawn>
   <spawn centerx="1462" centery="228" centerz="13" radius="5">
-    <monster name="Grim Reaper Vip II" x="4" y="-2" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="0" y="-1" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="4" y="1" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="-4" y="3" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="4" y="4" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="1" y="5" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="4" y="-2" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="0" y="-1" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="4" y="1" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="-4" y="3" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="4" y="4" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="1" y="5" z="13" spawntime="60"/>
   </spawn>
   <spawn centerx="1204" centery="229" centerz="13" radius="5">
     <monster name="Frost Dragon vip3" x="0" y="-3" z="13" spawntime="60"/>
@@ -23946,77 +23946,77 @@
     <monster name="Dragon Lord Vip3" x="-5" y="15" z="13" spawntime="60"/>
   </spawn>
   <spawn centerx="1388" centery="234" centerz="13" radius="5">
-    <monster name="Grim Reaper Vip II" x="4" y="-5" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="-5" y="-4" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="4" y="-4" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="-1" y="-3" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="3" y="0" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="-5" y="1" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="-1" y="1" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="-1" y="2" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="4" y="-5" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="-5" y="-4" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="4" y="-4" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="-1" y="-3" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="3" y="0" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="-5" y="1" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="-1" y="1" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="-1" y="2" z="13" spawntime="60"/>
   </spawn>
   <spawn centerx="1398" centery="234" centerz="13" radius="5">
-    <monster name="Grim Reaper Vip II" x="-2" y="-5" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="1" y="-5" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="-3" y="-2" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="-4" y="-1" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="0" y="-1" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="1" y="-1" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="1" y="1" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="3" y="2" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="-3" y="3" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="-1" y="4" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="3" y="4" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="-2" y="-5" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="1" y="-5" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="-3" y="-2" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="-4" y="-1" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="0" y="-1" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="1" y="-1" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="1" y="1" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="3" y="2" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="-3" y="3" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="-1" y="4" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="3" y="4" z="13" spawntime="60"/>
   </spawn>
   <spawn centerx="1431" centery="234" centerz="13" radius="5">
-    <monster name="Grim Reaper Vip II" x="4" y="-4" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="-3" y="-3" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="2" y="-2" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="-3" y="4" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="1" y="5" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="4" y="-4" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="-3" y="-3" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="2" y="-2" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="-3" y="4" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="1" y="5" z="13" spawntime="60"/>
   </spawn>
   <spawn centerx="587" centery="235" centerz="13" radius="5">
     <monster name="Ghazbaran" x="2" y="-3" z="13" spawntime="60"/>
     <monster name="Ghazbaran" x="2" y="2" z="13" spawntime="60"/>
   </spawn>
   <spawn centerx="1407" centery="235" centerz="13" radius="5">
-    <monster name="Grim Reaper Vip II" x="-1" y="-5" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="2" y="-5" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="-2" y="-4" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="-2" y="-1" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="3" y="0" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="-3" y="1" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="-1" y="4" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="3" y="4" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="-1" y="-5" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="2" y="-5" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="-2" y="-4" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="-2" y="-1" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="3" y="0" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="-3" y="1" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="-1" y="4" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="3" y="4" z="13" spawntime="60"/>
   </spawn>
   <spawn centerx="1419" centery="235" centerz="13" radius="5">
-    <monster name="Grim Reaper Vip II" x="-4" y="-5" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="2" y="-4" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="3" y="0" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="-3" y="1" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="2" y="3" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="-1" y="4" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="3" y="4" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="-4" y="-5" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="2" y="-4" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="3" y="0" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="-3" y="1" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="2" y="3" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="-1" y="4" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="3" y="4" z="13" spawntime="60"/>
   </spawn>
   <spawn centerx="1442" centery="235" centerz="13" radius="5">
-    <monster name="Grim Reaper Vip II" x="-3" y="-4" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="-5" y="-3" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="4" y="-3" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="-5" y="-1" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="4" y="-1" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="0" y="1" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="-2" y="3" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="4" y="3" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="3" y="4" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="-3" y="5" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="-3" y="-4" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="-5" y="-3" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="4" y="-3" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="-5" y="-1" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="4" y="-1" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="0" y="1" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="-2" y="3" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="4" y="3" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="3" y="4" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="-3" y="5" z="13" spawntime="60"/>
   </spawn>
   <spawn centerx="1452" centery="235" centerz="13" radius="5">
-    <monster name="Grim Reaper Vip II" x="2" y="-4" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="-3" y="-3" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="5" y="-1" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="2" y="2" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="-3" y="4" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="0" y="4" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="2" y="-4" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="-3" y="-3" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="5" y="-1" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="2" y="2" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="-3" y="4" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="0" y="4" z="13" spawntime="60"/>
   </spawn>
   <spawn centerx="1056" centery="236" centerz="13" radius="100">
     <monster name="Orshabaal" x="-98" y="-53" z="13" spawntime="60"/>
@@ -24235,13 +24235,13 @@
     <monster name="Infernalist Supervip" x="0" y="2" z="13" spawntime="60"/>
   </spawn>
   <spawn centerx="1463" centery="239" centerz="13" radius="5">
-    <monster name="Grim Reaper Vip II" x="0" y="-2" z="13" spawntime="0"/>
-    <monster name="Grim Reaper Vip II" x="0" y="-1" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="3" y="-1" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="-5" y="0" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="0" y="3" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="-5" y="4" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="3" y="5" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="0" y="-2" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="0" y="-1" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="3" y="-1" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="-5" y="0" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="0" y="3" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="-5" y="4" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="3" y="5" z="13" spawntime="60"/>
   </spawn>
   <spawn centerx="814" centery="240" centerz="13" radius="5">
     <monster name="Infernalist Supervip" x="-3" y="0" z="13" spawntime="60"/>
@@ -24324,72 +24324,72 @@
     <monster name="Frost Dragon vip3" x="-1" y="2" z="13" spawntime="60"/>
   </spawn>
   <spawn centerx="1387" centery="247" centerz="13" radius="5">
-    <monster name="Grim Reaper Vip II" x="4" y="-5" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="-5" y="-4" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="0" y="-3" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="5" y="-3" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="0" y="-1" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="5" y="-1" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="-3" y="2" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="-3" y="4" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="1" y="4" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="4" y="-5" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="-5" y="-4" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="0" y="-3" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="5" y="-3" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="0" y="-1" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="5" y="-1" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="-3" y="2" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="-3" y="4" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="1" y="4" z="13" spawntime="60"/>
   </spawn>
   <spawn centerx="1400" centery="247" centerz="13" radius="5">
-    <monster name="Grim Reaper Vip II" x="-3" y="-4" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="2" y="-4" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="4" y="-1" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="-1" y="0" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="-4" y="3" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="1" y="3" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="-3" y="-4" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="2" y="-4" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="4" y="-1" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="-1" y="0" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="-4" y="3" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="1" y="3" z="13" spawntime="60"/>
   </spawn>
   <spawn centerx="1411" centery="247" centerz="13" radius="5">
-    <monster name="Grim Reaper Vip II" x="-2" y="-4" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="0" y="-4" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="2" y="-4" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="3" y="-4" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="3" y="-1" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="-2" y="0" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="-3" y="4" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="1" y="4" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="-2" y="-4" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="0" y="-4" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="2" y="-4" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="3" y="-4" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="3" y="-1" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="-2" y="0" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="-3" y="4" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="1" y="4" z="13" spawntime="60"/>
   </spawn>
   <spawn centerx="1425" centery="247" centerz="13" radius="5">
-    <monster name="Grim Reaper Vip II" x="-5" y="-4" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="-1" y="-4" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="3" y="-4" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="2" y="-1" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="3" y="-1" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="-3" y="0" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="4" y="1" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="2" y="4" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="0" y="5" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="-5" y="-4" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="-1" y="-4" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="3" y="-4" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="2" y="-1" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="3" y="-1" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="-3" y="0" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="4" y="1" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="2" y="4" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="0" y="5" z="13" spawntime="60"/>
   </spawn>
   <spawn centerx="1437" centery="247" centerz="13" radius="5">
-    <monster name="Grim Reaper Vip II" x="-1" y="-4" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="4" y="-3" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="3" y="-1" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="-3" y="0" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="5" y="0" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="3" y="1" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="3" y="3" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="-2" y="4" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="-1" y="-4" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="4" y="-3" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="3" y="-1" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="-3" y="0" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="5" y="0" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="3" y="1" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="3" y="3" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="-2" y="4" z="13" spawntime="60"/>
   </spawn>
   <spawn centerx="1448" centery="247" centerz="13" radius="5">
-    <monster name="Grim Reaper Vip II" x="-4" y="-4" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="1" y="-3" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="2" y="-1" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="-1" y="0" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="2" y="0" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="4" y="0" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="0" y="3" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="-5" y="5" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="4" y="5" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="-4" y="-4" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="1" y="-3" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="2" y="-1" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="-1" y="0" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="2" y="0" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="4" y="0" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="0" y="3" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="-5" y="5" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="4" y="5" z="13" spawntime="60"/>
   </spawn>
   <spawn centerx="1460" centery="247" centerz="13" radius="5">
-    <monster name="Grim Reaper Vip II" x="-2" y="0" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="3" y="0" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="4" y="3" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="-4" y="4" z="13" spawntime="60"/>
-    <monster name="Grim Reaper Vip II" x="1" y="4" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="-2" y="0" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="3" y="0" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="4" y="3" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="-4" y="4" z="13" spawntime="60"/>
+    <monster name="Grim Reaper Vip" x="1" y="4" z="13" spawntime="60"/>
   </spawn>
   <spawn centerx="1305" centery="250" centerz="13" radius="5">
     <monster name="Juggernaut" x="0" y="-2" z="13" spawntime="60"/>
