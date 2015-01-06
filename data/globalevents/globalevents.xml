@@ -11,7 +11,6 @@
     
 	    <globalevent name="inv" interval="50000" event="script" value="inv.lua"/>
         <globalevent name="MagicEffect1" interval="2000" script="placa.lua" />
-        <globalevent name="MagicEffect2" interval="2000" script="placa1.lua" />
         <globalevent name="MagicEffect3" interval="2000" script="placa2.lua" />
         <globalevent name="MagicEffect4" interval="2000" script="placa3.lua" />
         <globalevent name="MagicEffect5" interval="2000" script="placa4.lua" />
