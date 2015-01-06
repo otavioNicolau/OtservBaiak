@@ -61,8 +61,6 @@ function onUse(cid, item, fromPosition, itemEx, toPosition)
         if(mana and not doPlayerAddMana(itemEx.uid, math.ceil(math.random(mana[1], mana[2]) * config.manaMultiplier))) then 
                 return false 
         end 
-        doSendMagicEffect(getCreaturePosition(cid),66)
-        doSendMagicEffect(getCreaturePosition(cid),30) 
         if(not realAnimation) then 
                 doCreatureSay(itemEx.uid, "Aaaah...", TALKTYPE_ORANGE_1) 
         else 

@@ -1,8 +1,6 @@
 function onSay(cid, words, param, channel)
 	local toPos = getCreaturePosition(cid)
 
-
-
 	if(words == "/sword") then
 
 		-- STRONG SWORD

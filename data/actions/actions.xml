@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <actions>
 
+	<!-- vip  940, 941, 943-->
+
+	<!-- strong pra ultimate -->
+	<action itemid="8298" script="vipitem/update1.lua" />
+	<!-- strong para geath -->
+	<action itemid="8310" script="vipitem/update1.lua" />
+	<!-- great para ultimate -->
+	<action itemid="8299" script="vipitem/update2.lua" />
+	
+
+
 	<!-- Quests -->
 	<action actionid="2000" script="quests/system.lua"/>
     <action itemid="5468" script="astamina.lua"/>
@@ -419,13 +430,13 @@
 
 	<action fromid="9268" toid="9269" script="other/doors.lua"/>
 
-	<action itemid="2146" script="other/enchant.lua" />
-	<action itemid="2147" script="other/enchant.lua" />
+	<!--<action itemid="2146" script="other/enchant.lua" /> 
+	<action itemid="2147" script="other/enchant.lua" />-->
 	<action itemid="2150" script="other/enchant.lua" />
 	<action itemid="2149" script="other/enchant.lua" />
 
-	<action itemid="7759" script="other/enchant.lua" />
-	<action itemid="7760" script="other/enchant.lua" />
+	<!-- <action itemid="7759" script="other/enchant.lua" /> 
+	<action itemid="7760" script="other/enchant.lua" />-->
 	<action itemid="7761" script="other/enchant.lua" />
 	<action itemid="7762" script="other/enchant.lua" />
 

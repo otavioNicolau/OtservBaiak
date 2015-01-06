@@ -441,19 +441,19 @@
 
 	<!-- vip -->
 
-	<wand id="7424" range="4" lvl="1" mana="1" enabled="1" exhaustion="0" script="donatestaff.lua">
+	<wand id="7424" range="4" lvl="1" mana="1" enabled="1" exhaustion="0" script="donatestaff_strong.lua">
         <vocation id="1"/>
         <vocation id="2"/>
 		<vocation id="5"/>
 		<vocation id="6"/>
 	</wand>
-	<wand id="12645" range="6" lvl="500" mana="30" enabled="1" exhaustion="0" script="donatestaff.lua">
+	<wand id="12645" range="6" lvl="500" mana="30" enabled="1" exhaustion="0" script="donatestaff_great.lua">
         <vocation id="1"/>
         <vocation id="2"/>
 		<vocation id="5"/>
 		<vocation id="6"/>
 	</wand>
-	<wand id="12646" range="8" lvl="750" mana="60" enabled="1" exhaustion="0" script="donatestaff.lua">
+	<wand id="12646" range="8" lvl="750" mana="60" enabled="1" exhaustion="0" script="donatestaff_ultimate.lua">
         <vocation id="1"/>
         <vocation id="2"/>
 		<vocation id="5"/>

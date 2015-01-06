@@ -87,7 +87,6 @@
 	<talkaction words="!serverinfo" event="script" value="serverinfo.lua"/>
 	<talkaction words="/commands" event="script" value="commands.lua"/>
     <talkaction words="!addon" event="script" value="addondoll.lua"/>
-	<talkaction words="!sentar" event="script" value="sentar.lua" />
   	<talkaction words="!vipdays;!buyvip3;/checkvip;/addvip;/delvip" script="systemvip.lua"/>
 
     <!-- Guild War System -->
@@ -142,10 +141,10 @@
     <talkaction words="!votepoll" event="script" value="PollSystem.lua"/>
 
 <talkaction words="love" script="love.lua"/>
-<talkaction words="!vipdays;/checkvip;/addvip;/delvip" script="systemvip2.lua"/>
+<!--<talkaction words="!vipdays;/checkvip;/addvip;/delvip" script="systemvip2.lua"/>
 <talkaction words="!vipdays1;!buyvip;/checkvip;/addvip;/delvip" script="systemvip3.lua"/>
 <talkaction words="!attackguild" event="script" value="attackguild.lua"/>
 <talkaction words="!vipdays" event="script" value="vip/vipdays.lua" />
 <talkaction words="/addvip" script="addvip2.lua"/>
-    <talkaction log="yes" words="/vip" access="5" event="script" value="vip/addvipp.lua" />
+    <talkaction log="yes" words="/vip" access="5" event="script" value="vip/addvipp.lua" /> -->
 </talkactions>

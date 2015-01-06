@@ -14254,10 +14254,13 @@
 		<attribute key="weaponType" value="axe" />
 	</item>
 	<item fromid="8294" toid="8295" article="a" name="stone wall" />
-	<item id="8298" name="natural soil">
+
+	<item id="8298" name="Great magic stone of tera">
+		<attribute key="description" value="Aprimora seu item Strong para Great" />
 		<attribute key="weight" value="250" />
 	</item>
-	<item id="8299" name="glimmering soil">
+	<item id="8299" name="ultimate magic stone of fire">
+		<attribute key="description" value="Aprimora seu item Great para Ultimate" />
 		<attribute key="weight" value="250" />
 	</item>
 	<item id="8300" article="a" name="flawless ice crystal">
@@ -14301,7 +14304,8 @@
 	<item id="8309" article="a" name="nail" plural="nails">
 		<attribute key="weight" value="1" />
 	</item>
-	<item id="8310" name="neutral matter">
+	<item id="8310" name="Ultimate magic stone of death">
+		<attribute key="description" value="Aprimora seu item Strong para Ultimate" />
 		<attribute key="weight" value="250" />
 	</item>
 	<item id="8311" name="slain sea serpent">
@@ -17916,4 +17920,26 @@
     	<attribute key="weight" value="5"/>
     	<attribute key="worth" value="1000000" />
 	</item>
+
+
+	<item id="12651" article="a" name="yellow gem1">
+		<attribute key="weight" value="30" />
+	</item>
+	<item id="12652" article="a" name="yellow gem2">
+		<attribute key="weight" value="30" />
+	</item>
+	<item id="12653" article="a" name="yellow gem3">
+		<attribute key="weight" value="30" />
+	</item>
+	<item id="12654" article="a" name="yellow gem4">
+		<attribute key="weight" value="30" />
+	</item>
+	<item id="12655" article="a" name="yellow gem5">
+		<attribute key="weight" value="30" />
+	</item>
+	<item id="12656" article="a" name="yellow gem6">
+		<attribute key="weight" value="30" />
+	</item>
+
+
 </items>
