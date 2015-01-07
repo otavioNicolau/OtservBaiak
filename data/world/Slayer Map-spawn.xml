@@ -8,14 +8,14 @@
   </spawn>
   <spawn centerx="3113" centery="29" centerz="0" radius="9">
     <monster name="Diabolic Imp" x="-7" y="-6" z="0" spawntime="60"/>
-    <monster name="Diabolic Imp" x="-6" y="-6" z="0" spawntime="0"/>
+    <monster name="Diabolic Imp" x="-6" y="-6" z="0" spawntime="60"/>
     <monster name="Diabolic Imp" x="-5" y="-6" z="0" spawntime="60"/>
-    <monster name="Diabolic Imp" x="-2" y="-6" z="0" spawntime="0"/>
+    <monster name="Diabolic Imp" x="-2" y="-6" z="0" spawntime="60"/>
     <monster name="Diabolic Imp" x="-1" y="-6" z="0" spawntime="60"/>
     <monster name="Diabolic Imp" x="-8" y="7" z="0" spawntime="60"/>
-    <monster name="Diabolic Imp" x="-7" y="7" z="0" spawntime="0"/>
+    <monster name="Diabolic Imp" x="-7" y="7" z="0" spawntime="60"/>
     <monster name="Diabolic Imp" x="-1" y="7" z="0" spawntime="60"/>
-    <monster name="Diabolic Imp" x="0" y="7" z="0" spawntime="0"/>
+    <monster name="Diabolic Imp" x="0" y="7" z="0" spawntime="60"/>
   </spawn>
   <spawn centerx="2814" centery="37" centerz="0" radius="5">
     <monster name="Hydra" x="0" y="1" z="0" spawntime="60"/>
@@ -23,7 +23,7 @@
   </spawn>
   <spawn centerx="663" centery="158" centerz="0" radius="4">
     <monster name="Master Warlock" x="-1" y="-1" z="0" spawntime="18"/>
-    <monster name="Master Warlock" x="0" y="-1" z="0" spawntime="0"/>
+    <monster name="Master Warlock" x="0" y="-1" z="0" spawntime="60"/>
     <monster name="Master Warlock" x="1" y="-1" z="0" spawntime="18"/>
     <monster name="Master Warlock" x="2" y="-1" z="0" spawntime="18"/>
   </spawn>
@@ -176,7 +176,7 @@
   <spawn centerx="650" centery="159" centerz="1" radius="30">
     <monster name="Master Warlock" x="15" y="-6" z="1" spawntime="18"/>
     <monster name="Master Warlock" x="-2" y="-5" z="1" spawntime="18"/>
-    <monster name="Master Warlock" x="-3" y="-4" z="1" spawntime="0"/>
+    <monster name="Master Warlock" x="-3" y="-4" z="1" spawntime="60"/>
     <monster name="Master Warlock" x="2" y="-4" z="1" spawntime="18"/>
     <monster name="Master Warlock" x="13" y="-4" z="1" spawntime="18"/>
     <monster name="Master Warlock" x="-4" y="-3" z="1" spawntime="18"/>
@@ -1262,20 +1262,20 @@
     <monster name="Demon" x="4" y="3" z="3" spawntime="60"/>
   </spawn>
   <spawn centerx="2471" centery="49" centerz="3" radius="7">
-    <monster name="Fury" x="-1" y="0" z="3" spawntime="0"/>
-    <monster name="Fury" x="0" y="0" z="3" spawntime="0"/>
-    <monster name="Fury" x="1" y="0" z="3" spawntime="0"/>
+    <monster name="Fury" x="-1" y="0" z="3" spawntime="60"/>
+    <monster name="Fury" x="0" y="0" z="3" spawntime="60"/>
+    <monster name="Fury" x="1" y="0" z="3" spawntime="60"/>
     <monster name="Fury" x="2" y="0" z="3" spawntime="60"/>
     <monster name="Fury" x="-2" y="1" z="3" spawntime="60"/>
   </spawn>
   <spawn centerx="2484" centery="49" centerz="3" radius="7">
     <monster name="Fury" x="5" y="-2" z="3" spawntime="60"/>
-    <monster name="Fury" x="5" y="1" z="3" spawntime="0"/>
+    <monster name="Fury" x="5" y="1" z="3" spawntime="60"/>
     <monster name="Fury" x="6" y="1" z="3" spawntime="60"/>
     <monster name="Fury" x="-2" y="3" z="3" spawntime="60"/>
-    <monster name="Fury" x="-3" y="4" z="3" spawntime="0"/>
-    <monster name="Fury" x="-3" y="5" z="3" spawntime="0"/>
-    <monster name="Fury" x="-3" y="6" z="3" spawntime="0"/>
+    <monster name="Fury" x="-3" y="4" z="3" spawntime="60"/>
+    <monster name="Fury" x="-3" y="5" z="3" spawntime="60"/>
+    <monster name="Fury" x="-3" y="6" z="3" spawntime="60"/>
   </spawn>
   <spawn centerx="3069" centery="49" centerz="3" radius="5">
     <monster name="Demon" x="-3" y="-3" z="3" spawntime="60"/>
@@ -2744,7 +2744,7 @@
   <spawn centerx="655" centery="171" centerz="4" radius="30">
     <monster name="Master Warlock" x="2" y="2" z="4" spawntime="18"/>
     <monster name="Master Warlock" x="15" y="3" z="4" spawntime="18"/>
-    <monster name="Master Warlock" x="14" y="4" z="4" spawntime="0"/>
+    <monster name="Master Warlock" x="14" y="4" z="4" spawntime="60"/>
     <monster name="Master Warlock" x="0" y="6" z="4" spawntime="18"/>
     <monster name="Master Warlock" x="12" y="7" z="4" spawntime="18"/>
     <monster name="Master Warlock" x="12" y="9" z="4" spawntime="18"/>
@@ -3167,9 +3167,6 @@
   <spawn centerx="3009" centery="2919" centerz="4" radius="1">
     <monster name="The Plasmother" x="1" y="1" z="4" spawntime="50"/>
   </spawn>
-  <spawn centerx="2912" centery="2927" centerz="4" radius="2">
-    <npc name="Tenebra City" x="1" y="-2" z="4" spawntime="50"/>
-  </spawn>
   <spawn centerx="3005" centery="2931" centerz="4" radius="2">
     <monster name="The Plasmother" x="-1" y="-1" z="4" spawntime="50"/>
     <monster name="The Plasmother" x="-1" y="2" z="4" spawntime="50"/>
@@ -3309,10 +3306,10 @@
     <monster name="Master Warlock" x="5" y="-17" z="5" spawntime="18"/>
     <monster name="Master Warlock" x="6" y="-14" z="5" spawntime="18"/>
     <monster name="warlock Supervip" x="7" y="-11" z="5" spawntime="40"/>
-    <monster name="Master Warlock" x="4" y="-9" z="5" spawntime="0"/>
+    <monster name="Master Warlock" x="4" y="-9" z="5" spawntime="60"/>
     <monster name="Master Warlock" x="5" y="-9" z="5" spawntime="18"/>
     <monster name="Master Warlock" x="-3" y="-5" z="5" spawntime="18"/>
-    <monster name="Master Warlock" x="-2" y="-5" z="5" spawntime="0"/>
+    <monster name="Master Warlock" x="-2" y="-5" z="5" spawntime="60"/>
     <monster name="Master Warlock" x="4" y="-4" z="5" spawntime="18"/>
     <monster name="Master Warlock" x="3" y="3" z="5" spawntime="18"/>
     <monster name="Master Warlock" x="-12" y="6" z="5" spawntime="18"/>
@@ -3342,7 +3339,7 @@
     <monster name="Master Warlock" x="0" y="10" z="5" spawntime="18"/>
     <monster name="Master Warlock" x="3" y="10" z="5" spawntime="18"/>
     <monster name="Master Warlock" x="18" y="11" z="5" spawntime="18"/>
-    <monster name="Master Warlock" x="13" y="12" z="5" spawntime="0"/>
+    <monster name="Master Warlock" x="13" y="12" z="5" spawntime="60"/>
     <monster name="Master Warlock" x="14" y="12" z="5" spawntime="18"/>
     <monster name="Master Warlock" x="27" y="12" z="5" spawntime="18"/>
     <monster name="Master Warlock" x="12" y="14" z="5" spawntime="18"/>
@@ -4256,9 +4253,6 @@
     <monster name="Nightmare Scion" x="0" y="-1" z="6" spawntime="60"/>
     <monster name="Nightmare Scion" x="0" y="4" z="6" spawntime="60"/>
   </spawn>
-  <spawn centerx="129" centery="43" centerz="6" radius="1">
-    <npc name="Grizzly Adams" x="-1" y="-1" z="6" spawntime="20"/>
-  </spawn>
   <spawn centerx="1131" centery="43" centerz="6" radius="10">
     <monster name="Orshabaal" x="-4" y="4" z="6" spawntime="60"/>
   </spawn>
@@ -4374,7 +4368,7 @@
     <monster name="Fluffy" x="-14" y="-8" z="6" spawntime="60"/>
     <monster name="Ferumbras" x="-9" y="-8" z="6" spawntime="60"/>
     <monster name="Ferumbras" x="-2" y="-8" z="6" spawntime="60"/>
-    <monster name="Ferumbras" x="3" y="-8" z="6" spawntime="0"/>
+    <monster name="Ferumbras" x="3" y="-8" z="6" spawntime="60"/>
     <monster name="Ferumbras" x="-2" y="-5" z="6" spawntime="60"/>
     <monster name="Ferumbras" x="9" y="-5" z="6" spawntime="60"/>
     <monster name="Ferumbras" x="-15" y="-4" z="6" spawntime="60"/>
@@ -4383,10 +4377,10 @@
     <monster name="Ferumbras" x="5" y="-3" z="6" spawntime="60"/>
     <monster name="Ferumbras" x="9" y="-2" z="6" spawntime="60"/>
     <monster name="Ferumbras" x="-16" y="1" z="6" spawntime="60"/>
-    <monster name="Fire Elemental" x="-13" y="1" z="6" spawntime="0"/>
+    <monster name="Fire Elemental" x="-13" y="1" z="6" spawntime="60"/>
     <monster name="Ferumbras" x="-10" y="1" z="6" spawntime="60"/>
     <monster name="Ferumbras" x="-3" y="1" z="6" spawntime="60"/>
-    <monster name="Fire Elemental" x="-10" y="2" z="6" spawntime="0"/>
+    <monster name="Fire Elemental" x="-10" y="2" z="6" spawntime="60"/>
     <monster name="Ferumbras" x="1" y="2" z="6" spawntime="60"/>
     <monster name="Ferumbras" x="5" y="2" z="6" spawntime="60"/>
     <monster name="Fluffy" x="-6" y="3" z="6" spawntime="60"/>
@@ -4675,7 +4669,7 @@
     <monster name="Medusa Castle" x="10" y="-12" z="6" spawntime="17"/>
     <monster name="Medusa Castle" x="1" y="-9" z="6" spawntime="17"/>
     <monster name="Medusa Castle" x="-4" y="-5" z="6" spawntime="17"/>
-    <monster name="Medusa Castle" x="-23" y="-3" z="6" spawntime="0"/>
+    <monster name="Medusa Castle" x="-23" y="-3" z="6" spawntime="60"/>
     <monster name="Medusa Castle" x="-22" y="-3" z="6" spawntime="17"/>
     <monster name="Medusa Castle" x="-26" y="-1" z="6" spawntime="17"/>
     <monster name="Medusa Castle" x="-3" y="-1" z="6" spawntime="17"/>
@@ -4702,7 +4696,7 @@
     <monster name="Medusa Castle" x="8" y="26" z="6" spawntime="17"/>
     <monster name="Medusa Castle" x="12" y="26" z="6" spawntime="17"/>
     <monster name="Medusa Castle" x="5" y="27" z="6" spawntime="17"/>
-    <monster name="Medusa Castle" x="12" y="27" z="6" spawntime="0"/>
+    <monster name="Medusa Castle" x="12" y="27" z="6" spawntime="60"/>
     <monster name="Medusa Castle" x="-18" y="29" z="6" spawntime="17"/>
     <monster name="Medusa Castle" x="-12" y="29" z="6" spawntime="17"/>
   </spawn>
@@ -4930,9 +4924,6 @@
     <monster name="Fury" x="-1" y="0" z="6" spawntime="60"/>
     <monster name="Fury" x="1" y="0" z="6" spawntime="60"/>
   </spawn>
-  <spawn centerx="360" centery="112" centerz="6" radius="1">
-    <npc name="Tenebra City" x="1" y="0" z="6" spawntime="60"/>
-  </spawn>
   <spawn centerx="348" centery="113" centerz="6" radius="1">
     <monster name="Pirate Corsair" x="0" y="-1" z="6" spawntime="60"/>
     <monster name="Pirate Corsair" x="0" y="1" z="6" spawntime="60"/>
@@ -4963,9 +4954,6 @@
   </spawn>
   <spawn centerx="128" centery="124" centerz="6" radius="4">
     <monster name="Dragon" x="-2" y="1" z="6" spawntime="18"/>
-  </spawn>
-  <spawn centerx="362" centery="124" centerz="6" radius="1">
-    <npc name="Slayer City" x="0" y="-1" z="6" spawntime="60"/>
   </spawn>
   <spawn centerx="333" centery="125" centerz="6" radius="5">
     <monster name="Fury" x="1" y="-2" z="6" spawntime="60"/>
@@ -5035,11 +5023,11 @@
     <monster name="Warlock Castle" x="8" y="1" z="6" spawntime="17"/>
     <monster name="Warlock Castle" x="12" y="1" z="6" spawntime="17"/>
     <monster name="Warlock Castle" x="-6" y="2" z="6" spawntime="17"/>
-    <monster name="Warlock Castle" x="8" y="2" z="6" spawntime="0"/>
+    <monster name="Warlock Castle" x="8" y="2" z="6" spawntime="60"/>
     <monster name="Warlock Castle" x="2" y="3" z="6" spawntime="17"/>
     <monster name="Warlock Castle" x="8" y="3" z="6" spawntime="17"/>
     <monster name="Warlock Castle" x="-12" y="5" z="6" spawntime="17"/>
-    <monster name="Warlock Castle" x="-9" y="5" z="6" spawntime="0"/>
+    <monster name="Warlock Castle" x="-9" y="5" z="6" spawntime="60"/>
     <monster name="Warlock Castle" x="-8" y="5" z="6" spawntime="17"/>
     <monster name="Warlock Castle" x="-1" y="5" z="6" spawntime="17"/>
     <monster name="Warlock Castle" x="-12" y="7" z="6" spawntime="17"/>
@@ -5117,7 +5105,7 @@
     <monster name="Frost Dragon Castle" x="23" y="10" z="6" spawntime="17"/>
     <monster name="Frost Dragon Castle" x="2" y="11" z="6" spawntime="17"/>
     <monster name="Frost Dragon Castle" x="11" y="12" z="6" spawntime="17"/>
-    <monster name="Frost Dragon Castle" x="12" y="12" z="6" spawntime="0"/>
+    <monster name="Frost Dragon Castle" x="12" y="12" z="6" spawntime="60"/>
     <monster name="Frost Dragon Castle" x="4" y="13" z="6" spawntime="17"/>
     <monster name="Frost Dragon Castle" x="-18" y="14" z="6" spawntime="17"/>
     <monster name="Frost Dragon Castle" x="0" y="14" z="6" spawntime="17"/>
@@ -5150,7 +5138,7 @@
     <monster name="Frost Dragon Castle" x="-5" y="-17" z="6" spawntime="17"/>
     <monster name="Frost Dragon Castle" x="6" y="-17" z="6" spawntime="17"/>
     <monster name="Frost Dragon Castle" x="15" y="-16" z="6" spawntime="17"/>
-    <monster name="Frost Dragon Castle" x="-13" y="-15" z="6" spawntime="0"/>
+    <monster name="Frost Dragon Castle" x="-13" y="-15" z="6" spawntime="60"/>
     <monster name="Frost Dragon Castle" x="-12" y="-15" z="6" spawntime="17"/>
     <monster name="Frost Dragon Castle" x="-19" y="-13" z="6" spawntime="17"/>
     <monster name="Frost Dragon Castle" x="-8" y="-11" z="6" spawntime="17"/>
@@ -5174,11 +5162,11 @@
     <monster name="Frost Dragon Castle" x="27" y="16" z="6" spawntime="17"/>
     <monster name="Frost Dragon Castle" x="-25" y="17" z="6" spawntime="17"/>
     <monster name="Frost Dragon Castle" x="-10" y="17" z="6" spawntime="17"/>
-    <monster name="Frost Dragon Castle" x="27" y="17" z="6" spawntime="0"/>
+    <monster name="Frost Dragon Castle" x="27" y="17" z="6" spawntime="60"/>
     <monster name="Frost Dragon Castle" x="-17" y="19" z="6" spawntime="17"/>
     <monster name="Frost Dragon Castle" x="-14" y="20" z="6" spawntime="17"/>
     <monster name="Frost Dragon Castle" x="-30" y="21" z="6" spawntime="17"/>
-    <monster name="Frost Dragon Castle" x="-14" y="21" z="6" spawntime="0"/>
+    <monster name="Frost Dragon Castle" x="-14" y="21" z="6" spawntime="60"/>
     <monster name="Frost Dragon Castle" x="-2" y="21" z="6" spawntime="17"/>
     <monster name="Frost Dragon Castle" x="-20" y="22" z="6" spawntime="17"/>
     <monster name="Frost Dragon Castle" x="-26" y="23" z="6" spawntime="17"/>
@@ -5251,7 +5239,7 @@
     <monster name="Warlock Castle" x="-1" y="-2" z="6" spawntime="17"/>
     <monster name="Warlock Castle" x="4" y="-2" z="6" spawntime="17"/>
     <monster name="Warlock Castle" x="1" y="-1" z="6" spawntime="17"/>
-    <monster name="Warlock Castle" x="4" y="-1" z="6" spawntime="0"/>
+    <monster name="Warlock Castle" x="4" y="-1" z="6" spawntime="60"/>
     <monster name="Warlock Castle" x="-2" y="0" z="6" spawntime="17"/>
     <monster name="Warlock Castle" x="0" y="3" z="6" spawntime="17"/>
   </spawn>
@@ -5269,14 +5257,14 @@
     <monster name="Warlock Castle" x="1" y="2" z="6" spawntime="17"/>
   </spawn>
   <spawn centerx="1704" centery="171" centerz="6" radius="4">
-    <monster name="Warlock Castle" x="-1" y="-1" z="6" spawntime="0"/>
+    <monster name="Warlock Castle" x="-1" y="-1" z="6" spawntime="60"/>
     <monster name="Warlock Castle" x="0" y="-1" z="6" spawntime="17"/>
     <monster name="Warlock Castle" x="-2" y="1" z="6" spawntime="17"/>
     <monster name="Warlock Castle" x="-1" y="3" z="6" spawntime="17"/>
   </spawn>
   <spawn centerx="1688" centery="172" centerz="6" radius="10">
     <monster name="Warlock Castle" x="-6" y="-10" z="6" spawntime="17"/>
-    <monster name="Warlock Castle" x="8" y="-10" z="6" spawntime="0"/>
+    <monster name="Warlock Castle" x="8" y="-10" z="6" spawntime="60"/>
     <monster name="Warlock Castle" x="-8" y="-9" z="6" spawntime="17"/>
     <monster name="Warlock Castle" x="8" y="-9" z="6" spawntime="17"/>
     <monster name="Warlock Castle" x="-6" y="-8" z="6" spawntime="17"/>
@@ -5690,7 +5678,7 @@
     <monster name="Castle Demon" x="-13" y="-21" z="6" spawntime="17"/>
     <monster name="Castle Demon" x="-21" y="-20" z="6" spawntime="17"/>
     <monster name="Castle Demon" x="-26" y="-19" z="6" spawntime="17"/>
-    <monster name="Castle Demon" x="-21" y="-19" z="6" spawntime="0"/>
+    <monster name="Castle Demon" x="-21" y="-19" z="6" spawntime="60"/>
     <monster name="Castle Demon" x="-30" y="-15" z="6" spawntime="17"/>
     <monster name="Draken Abomination" x="30" y="30" z="6" spawntime="20"/>
   </spawn>
@@ -5698,14 +5686,14 @@
     <monster name="Castle Demon" x="-1" y="-30" z="6" spawntime="17"/>
     <monster name="Castle Demon" x="-19" y="-29" z="6" spawntime="17"/>
     <monster name="Castle Demon" x="3" y="-29" z="6" spawntime="17"/>
-    <monster name="Castle Demon" x="4" y="-29" z="6" spawntime="0"/>
+    <monster name="Castle Demon" x="4" y="-29" z="6" spawntime="60"/>
     <monster name="Castle Demon" x="9" y="-28" z="6" spawntime="17"/>
     <monster name="Castle Demon" x="-8" y="-27" z="6" spawntime="17"/>
     <monster name="Castle Demon" x="23" y="-27" z="6" spawntime="17"/>
     <monster name="Castle Demon" x="-28" y="-26" z="6" spawntime="17"/>
-    <monster name="Castle Demon" x="23" y="-26" z="6" spawntime="0"/>
+    <monster name="Castle Demon" x="23" y="-26" z="6" spawntime="60"/>
     <monster name="Castle Demon" x="-3" y="-25" z="6" spawntime="17"/>
-    <monster name="Castle Demon" x="-2" y="-25" z="6" spawntime="0"/>
+    <monster name="Castle Demon" x="-2" y="-25" z="6" spawntime="60"/>
     <monster name="Castle Demon" x="19" y="-25" z="6" spawntime="17"/>
     <monster name="Castle Demon" x="5" y="-17" z="6" spawntime="17"/>
     <monster name="Castle Demon" x="13" y="-17" z="6" spawntime="17"/>
@@ -6284,9 +6272,6 @@
     <monster name="Spectre" x="1" y="-1" z="6" spawntime="40"/>
     <monster name="Spectre" x="1" y="1" z="6" spawntime="40"/>
   </spawn>
-  <spawn centerx="2939" centery="2882" centerz="6" radius="1">
-    <npc name="Edron City" x="0" y="-1" z="6" spawntime="50"/>
-  </spawn>
   <spawn centerx="2965" centery="2882" centerz="6" radius="1">
     <monster name="Undead Mine Worker" x="0" y="-1" z="6" spawntime="40"/>
   </spawn>
@@ -6443,9 +6428,6 @@
   <spawn centerx="2817" centery="2918" centerz="6" radius="1">
     <monster name="Frost Giant" x="-1" y="-1" z="6" spawntime="50"/>
     <monster name="Frost Giant" x="1" y="1" z="6" spawntime="50"/>
-  </spawn>
-  <spawn centerx="2912" centery="2918" centerz="6" radius="2">
-    <npc name="Slayer City" x="-2" y="-1" z="6" spawntime="50"/>
   </spawn>
   <spawn centerx="3019" centery="2919" centerz="6" radius="1">
     <monster name="The Plasmother" x="-1" y="-1" z="6" spawntime="40"/>
@@ -7171,7 +7153,7 @@
     <monster name="Draken Abomination" x="-6" y="9" z="7" spawntime="17"/>
   </spawn>
   <spawn centerx="879" centery="24" centerz="7" radius="5">
-    <monster name="Master Grim Reaper" x="0" y="5" z="7" spawntime="0"/>
+    <monster name="Master Grim Reaper" x="0" y="5" z="7" spawntime="60"/>
     <monster name="Master Grim Reaper" x="1" y="5" z="7" spawntime="18"/>
   </spawn>
   <spawn centerx="916" centery="26" centerz="7" radius="2"/>
@@ -7276,7 +7258,7 @@
     <monster name="Draken Abomination" x="21" y="-14" z="7" spawntime="17"/>
     <monster name="Draken Abomination" x="-12" y="-13" z="7" spawntime="17"/>
     <monster name="Draken Abomination" x="20" y="-13" z="7" spawntime="17"/>
-    <monster name="Draken Abomination" x="21" y="-13" z="7" spawntime="0"/>
+    <monster name="Draken Abomination" x="21" y="-13" z="7" spawntime="60"/>
     <monster name="Draken Abomination" x="-17" y="-4" z="7" spawntime="17"/>
     <monster name="Draken Abomination" x="12" y="-4" z="7" spawntime="17"/>
     <monster name="Draken Abomination" x="-20" y="-3" z="7" spawntime="17"/>
@@ -7284,7 +7266,7 @@
     <monster name="Draken Abomination" x="-18" y="-1" z="7" spawntime="17"/>
     <monster name="Draken Abomination" x="17" y="-1" z="7" spawntime="17"/>
     <monster name="Draken Abomination" x="19" y="-1" z="7" spawntime="17"/>
-    <monster name="Draken Abomination" x="-4" y="0" z="7" spawntime="0"/>
+    <monster name="Draken Abomination" x="-4" y="0" z="7" spawntime="60"/>
     <monster name="Draken Abomination" x="15" y="1" z="7" spawntime="17"/>
     <monster name="Draken Abomination" x="-6" y="6" z="7" spawntime="17"/>
     <monster name="Draken Abomination" x="10" y="6" z="7" spawntime="17"/>
@@ -7340,7 +7322,7 @@
     <monster name="Master Grim Reaper" x="2" y="0" z="7" spawntime="18"/>
   </spawn>
   <spawn centerx="833" centery="36" centerz="7" radius="2">
-    <monster name="Master Grim Reaper" x="-1" y="-2" z="7" spawntime="0"/>
+    <monster name="Master Grim Reaper" x="-1" y="-2" z="7" spawntime="60"/>
     <monster name="Master Grim Reaper" x="0" y="-2" z="7" spawntime="18"/>
     <monster name="Master Grim Reaper" x="-1" y="0" z="7" spawntime="18"/>
   </spawn>
@@ -7396,7 +7378,7 @@
   </spawn>
   <spawn centerx="856" centery="42" centerz="7" radius="5">
     <monster name="Master Grim Reaper" x="3" y="-2" z="7" spawntime="18"/>
-    <monster name="Master Grim Reaper" x="2" y="-1" z="7" spawntime="0"/>
+    <monster name="Master Grim Reaper" x="2" y="-1" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="861" centery="42" centerz="7" radius="2"/>
   <spawn centerx="870" centery="42" centerz="7" radius="2"/>
@@ -7458,7 +7440,7 @@
   </spawn>
   <spawn centerx="751" centery="49" centerz="7" radius="5">
     <monster name="Master Grim Reaper" x="4" y="-2" z="7" spawntime="18"/>
-    <monster name="Master Grim Reaper" x="3" y="-1" z="7" spawntime="0"/>
+    <monster name="Master Grim Reaper" x="3" y="-1" z="7" spawntime="60"/>
     <monster name="Master Grim Reaper" x="4" y="2" z="7" spawntime="18"/>
   </spawn>
   <spawn centerx="774" centery="49" centerz="7" radius="2"/>
@@ -7526,7 +7508,7 @@
   </spawn>
   <spawn centerx="332" centery="54" centerz="7" radius="9">
     <monster name="Draken Abomination" x="1" y="-5" z="7" spawntime="17"/>
-    <monster name="Draken Abomination" x="1" y="-4" z="7" spawntime="0"/>
+    <monster name="Draken Abomination" x="1" y="-4" z="7" spawntime="60"/>
     <monster name="Draken Abomination" x="1" y="-1" z="7" spawntime="17"/>
   </spawn>
   <spawn centerx="711" centery="54" centerz="7" radius="2"/>
@@ -7626,7 +7608,7 @@
     <monster name="Master Grim Reaper" x="1" y="2" z="7" spawntime="18"/>
   </spawn>
   <spawn centerx="701" centery="62" centerz="7" radius="5">
-    <monster name="Master Grim Reaper" x="2" y="-1" z="7" spawntime="0"/>
+    <monster name="Master Grim Reaper" x="2" y="-1" z="7" spawntime="60"/>
     <monster name="Master Grim Reaper" x="3" y="-1" z="7" spawntime="18"/>
   </spawn>
   <spawn centerx="706" centery="62" centerz="7" radius="2"/>
@@ -7661,7 +7643,7 @@
   <spawn centerx="956" centery="66" centerz="7" radius="2">
     <monster name="Master Grim Reaper" x="-2" y="-2" z="7" spawntime="18"/>
     <monster name="Master Grim Reaper" x="0" y="-2" z="7" spawntime="18"/>
-    <monster name="Master Grim Reaper" x="-2" y="-1" z="7" spawntime="0"/>
+    <monster name="Master Grim Reaper" x="-2" y="-1" z="7" spawntime="60"/>
     <monster name="Master Grim Reaper" x="2" y="0" z="7" spawntime="18"/>
   </spawn>
   <spawn centerx="761" centery="67" centerz="7" radius="2"/>
@@ -7764,7 +7746,7 @@
   </spawn>
   <spawn centerx="711" centery="71" centerz="7" radius="2">
     <monster name="Master Grim Reaper" x="-1" y="1" z="7" spawntime="18"/>
-    <monster name="Master Grim Reaper" x="-1" y="2" z="7" spawntime="0"/>
+    <monster name="Master Grim Reaper" x="-1" y="2" z="7" spawntime="60"/>
     <monster name="Master Grim Reaper" x="2" y="2" z="7" spawntime="18"/>
   </spawn>
   <spawn centerx="778" centery="71" centerz="7" radius="5">
@@ -7850,7 +7832,7 @@
   <spawn centerx="895" centery="77" centerz="7" radius="5">
     <monster name="Master Grim Reaper" x="-1" y="1" z="7" spawntime="18"/>
     <monster name="Master Grim Reaper" x="1" y="1" z="7" spawntime="18"/>
-    <monster name="Master Grim Reaper" x="-1" y="2" z="7" spawntime="0"/>
+    <monster name="Master Grim Reaper" x="-1" y="2" z="7" spawntime="60"/>
     <monster name="Master Grim Reaper" x="1" y="4" z="7" spawntime="18"/>
   </spawn>
   <spawn centerx="917" centery="77" centerz="7" radius="2">
@@ -7993,7 +7975,7 @@
   <spawn centerx="801" centery="86" centerz="7" radius="2">
     <monster name="Master Grim Reaper" x="1" y="-2" z="7" spawntime="18"/>
     <monster name="Master Grim Reaper" x="0" y="-1" z="7" spawntime="18"/>
-    <monster name="Master Grim Reaper" x="1" y="-1" z="7" spawntime="0"/>
+    <monster name="Master Grim Reaper" x="1" y="-1" z="7" spawntime="60"/>
     <monster name="Master Grim Reaper" x="2" y="1" z="7" spawntime="18"/>
   </spawn>
   <spawn centerx="957" centery="86" centerz="7" radius="2"/>
@@ -8067,7 +8049,7 @@
   </spawn>
   <spawn centerx="956" centery="94" centerz="7" radius="2">
     <monster name="Master Grim Reaper" x="-2" y="-1" z="7" spawntime="18"/>
-    <monster name="Master Grim Reaper" x="-1" y="-1" z="7" spawntime="0"/>
+    <monster name="Master Grim Reaper" x="-1" y="-1" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="957" centery="95" centerz="7" radius="5">
     <monster name="Master Grim Reaper" x="0" y="-4" z="7" spawntime="18"/>
@@ -8104,7 +8086,7 @@
     <monster name="Frost Dragon" x="2" y="3" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="788" centery="96" centerz="7" radius="2">
-    <monster name="Master Grim Reaper" x="-2" y="-1" z="7" spawntime="0"/>
+    <monster name="Master Grim Reaper" x="-2" y="-1" z="7" spawntime="60"/>
     <monster name="Master Grim Reaper" x="-1" y="-1" z="7" spawntime="18"/>
   </spawn>
   <spawn centerx="279" centery="97" centerz="7" radius="1">
@@ -8274,7 +8256,7 @@
   <spawn centerx="802" centery="115" centerz="7" radius="5"/>
   <spawn centerx="1570" centery="116" centerz="7" radius="5">
     <monster name="Demon Vip" x="-2" y="0" z="7" spawntime="18"/>
-    <monster name="Demon Vip" x="-2" y="1" z="7" spawntime="0"/>
+    <monster name="Demon Vip" x="-2" y="1" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="1442" centery="117" centerz="7" radius="1">
     <monster name="Lost Soul" x="0" y="0" z="7" spawntime="41"/>
@@ -8300,8 +8282,8 @@
   <spawn centerx="1579" centery="119" centerz="7" radius="5">
     <monster name="Demon Vip" x="2" y="-1" z="7" spawntime="18"/>
     <monster name="Demon Vip" x="-4" y="3" z="7" spawntime="18"/>
-    <monster name="Demon Vip" x="-4" y="4" z="7" spawntime="0"/>
-    <monster name="Demon Vip" x="-3" y="4" z="7" spawntime="0"/>
+    <monster name="Demon Vip" x="-4" y="4" z="7" spawntime="60"/>
+    <monster name="Demon Vip" x="-3" y="4" z="7" spawntime="60"/>
     <monster name="Demon Vip" x="0" y="4" z="7" spawntime="18"/>
   </spawn>
   <spawn centerx="432" centery="120" centerz="7" radius="3">
@@ -8320,7 +8302,7 @@
     <monster name="Fury" x="0" y="1" z="7" spawntime="60"/>
     <monster name="Fury" x="3" y="1" z="7" spawntime="60"/>
     <monster name="Fury" x="-5" y="2" z="7" spawntime="60"/>
-    <monster name="Fury" x="-3" y="5" z="7" spawntime="0"/>
+    <monster name="Fury" x="-3" y="5" z="7" spawntime="60"/>
     <monster name="Fury" x="-2" y="5" z="7" spawntime="18"/>
     <monster name="Fury" x="4" y="5" z="7" spawntime="60"/>
   </spawn>
@@ -8339,7 +8321,7 @@
   </spawn>
   <spawn centerx="313" centery="127" centerz="7" radius="5">
     <monster name="Dragon" x="-2" y="-5" z="7" spawntime="18"/>
-    <monster name="Dragon" x="-2" y="-4" z="7" spawntime="0"/>
+    <monster name="Dragon" x="-2" y="-4" z="7" spawntime="60"/>
     <monster name="Fury" x="-3" y="-2" z="7" spawntime="18"/>
     <monster name="Fury" x="3" y="-1" z="7" spawntime="18"/>
     <monster name="Dragon" x="-2" y="1" z="7" spawntime="18"/>
@@ -8365,17 +8347,17 @@
   <spawn centerx="326" centery="132" centerz="7" radius="5">
     <monster name="Dragon" x="-3" y="-4" z="7" spawntime="18"/>
     <monster name="Fury" x="-5" y="-3" z="7" spawntime="18"/>
-    <monster name="Fury" x="-5" y="-2" z="7" spawntime="0"/>
+    <monster name="Fury" x="-5" y="-2" z="7" spawntime="60"/>
     <monster name="Dragon" x="-1" y="-1" z="7" spawntime="18"/>
     <monster name="Fury" x="5" y="0" z="7" spawntime="18"/>
     <monster name="Fury" x="2" y="2" z="7" spawntime="18"/>
   </spawn>
   <spawn centerx="1579" centery="132" centerz="7" radius="5">
     <monster name="Demon Vip" x="-4" y="-2" z="7" spawntime="18"/>
-    <monster name="Demon Vip" x="3" y="-1" z="7" spawntime="0"/>
+    <monster name="Demon Vip" x="3" y="-1" z="7" spawntime="60"/>
     <monster name="Demon Vip" x="4" y="-1" z="7" spawntime="18"/>
     <monster name="Demon Vip" x="-4" y="0" z="7" spawntime="18"/>
-    <monster name="Demon Vip" x="3" y="0" z="7" spawntime="0"/>
+    <monster name="Demon Vip" x="3" y="0" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="1562" centery="134" centerz="7" radius="5">
     <monster name="Demon Vip" x="-5" y="-4" z="7" spawntime="18"/>
@@ -8410,7 +8392,7 @@
   </spawn>
   <spawn centerx="330" centery="148" centerz="7" radius="5">
     <monster name="Fury" x="1" y="-3" z="7" spawntime="18"/>
-    <monster name="Fury" x="1" y="-2" z="7" spawntime="0"/>
+    <monster name="Fury" x="1" y="-2" z="7" spawntime="60"/>
     <monster name="Fury" x="-1" y="0" z="7" spawntime="18"/>
   </spawn>
   <spawn centerx="344" centery="148" centerz="7" radius="5">
@@ -8434,7 +8416,7 @@
   </spawn>
   <spawn centerx="439" centery="153" centerz="7" radius="5">
     <monster name="Abomination Fury" x="-3" y="0" z="7" spawntime="18"/>
-    <monster name="Abomination Fury" x="-3" y="1" z="7" spawntime="0"/>
+    <monster name="Abomination Fury" x="-3" y="1" z="7" spawntime="60"/>
     <monster name="Abomination Fury" x="-1" y="3" z="7" spawntime="18"/>
   </spawn>
   <spawn centerx="1452" centery="153" centerz="7" radius="1">
@@ -8501,7 +8483,7 @@
   </spawn>
   <spawn centerx="390" centery="165" centerz="7" radius="5">
     <monster name="Abomination Fury" x="-2" y="-5" z="7" spawntime="18"/>
-    <monster name="Abomination Fury" x="-2" y="-4" z="7" spawntime="0"/>
+    <monster name="Abomination Fury" x="-2" y="-4" z="7" spawntime="60"/>
     <monster name="Abomination Fury" x="-3" y="3" z="7" spawntime="18"/>
   </spawn>
   <spawn centerx="446" centery="166" centerz="7" radius="5">
@@ -8642,14 +8624,14 @@
     <monster name="Demon Vip" x="-1" y="1" z="7" spawntime="30"/>
   </spawn>
   <spawn centerx="835" centery="253" centerz="7" radius="30">
-    <monster name="Master Demon" x="-6" y="-11" z="7" spawntime="0"/>
+    <monster name="Master Demon" x="-6" y="-11" z="7" spawntime="60"/>
     <monster name="Master Demon" x="-5" y="-11" z="7" spawntime="18"/>
-    <monster name="Master Demon" x="-6" y="-10" z="7" spawntime="0"/>
+    <monster name="Master Demon" x="-6" y="-10" z="7" spawntime="60"/>
     <monster name="Master Demon" x="-8" y="-5" z="7" spawntime="18"/>
     <monster name="behemoth Supervip" x="4" y="-3" z="7" spawntime="40"/>
     <monster name="Master Demon" x="-7" y="-2" z="7" spawntime="18"/>
     <monster name="Master Demon" x="4" y="2" z="7" spawntime="18"/>
-    <monster name="Master Demon" x="6" y="2" z="7" spawntime="0"/>
+    <monster name="Master Demon" x="6" y="2" z="7" spawntime="60"/>
     <monster name="Master Demon" x="-13" y="4" z="7" spawntime="18"/>
     <monster name="Master Demon" x="-19" y="7" z="7" spawntime="18"/>
     <monster name="behemoth Supervip" x="-14" y="7" z="7" spawntime="40"/>
@@ -8675,7 +8657,7 @@
   </spawn>
   <spawn centerx="881" centery="253" centerz="7" radius="30">
     <monster name="Master Demon" x="18" y="-4" z="7" spawntime="18"/>
-    <monster name="Master Demon" x="18" y="-3" z="7" spawntime="0"/>
+    <monster name="Master Demon" x="18" y="-3" z="7" spawntime="60"/>
     <monster name="Master Demon" x="20" y="2" z="7" spawntime="18"/>
     <monster name="Master Demon" x="23" y="2" z="7" spawntime="18"/>
     <monster name="Master Demon" x="-7" y="8" z="7" spawntime="256"/>
@@ -11602,9 +11584,6 @@
     <monster name="Frost Giant" x="1" y="0" z="7" spawntime="50"/>
     <monster name="Frost Giant" x="-1" y="1" z="7" spawntime="50"/>
   </spawn>
-  <spawn centerx="2937" centery="2907" centerz="7" radius="1">
-    <npc name="Sarina" x="0" y="-1" z="7" spawntime="50"/>
-  </spawn>
   <spawn centerx="3143" centery="2909" centerz="7" radius="1">
     <monster name="Draken Spellweaver" x="-1" y="-1" z="7" spawntime="50"/>
     <monster name="Draken Spellweaver" x="-1" y="1" z="7" spawntime="50"/>
@@ -11645,9 +11624,6 @@
   <spawn centerx="3143" centery="2918" centerz="7" radius="1">
     <monster name="Draken Spellweaver" x="1" y="-1" z="7" spawntime="50"/>
     <monster name="Draken Spellweaver" x="0" y="1" z="7" spawntime="50"/>
-  </spawn>
-  <spawn centerx="2942" centery="2919" centerz="7" radius="1">
-    <npc name="Galuna" x="0" y="-1" z="7" spawntime="50"/>
   </spawn>
   <spawn centerx="2834" centery="2923" centerz="7" radius="1">
     <monster name="Frost Giant" x="-1" y="-1" z="7" spawntime="50"/>
@@ -13133,7 +13109,7 @@
   <spawn centerx="692" centery="100" centerz="8" radius="5">
     <monster name="Draken Elite" x="-3" y="-2" z="8" spawntime="18"/>
     <monster name="Draken Elite" x="1" y="1" z="8" spawntime="18"/>
-    <monster name="Draken Elite" x="1" y="2" z="8" spawntime="0"/>
+    <monster name="Draken Elite" x="1" y="2" z="8" spawntime="60"/>
     <monster name="Draken Elite" x="4" y="5" z="8" spawntime="18"/>
   </spawn>
   <spawn centerx="311" centery="101" centerz="8" radius="1">
@@ -13143,7 +13119,7 @@
     <monster name="Draken Elite" x="3" y="-1" z="8" spawntime="18"/>
     <monster name="Draken Elite" x="4" y="-1" z="8" spawntime="18"/>
     <monster name="Draken Elite" x="-4" y="2" z="8" spawntime="18"/>
-    <monster name="Draken Elite" x="-4" y="3" z="8" spawntime="0"/>
+    <monster name="Draken Elite" x="-4" y="3" z="8" spawntime="60"/>
   </spawn>
   <spawn centerx="665" centery="101" centerz="8" radius="5">
     <monster name="Draken Elite" x="-1" y="-1" z="8" spawntime="18"/>
@@ -13243,7 +13219,7 @@
     <monster name="Draken Elite" x="3" y="0" z="8" spawntime="18"/>
     <monster name="Draken Elite" x="3" y="4" z="8" spawntime="18"/>
     <monster name="Draken Elite" x="0" y="5" z="8" spawntime="18"/>
-    <monster name="Draken Elite" x="1" y="5" z="8" spawntime="0"/>
+    <monster name="Draken Elite" x="1" y="5" z="8" spawntime="60"/>
   </spawn>
   <spawn centerx="303" centery="116" centerz="8" radius="1">
     <monster name="Demodras" x="0" y="0" z="8" spawntime="30"/>
@@ -13252,9 +13228,9 @@
     <monster name="Demodras" x="0" y="1" z="8" spawntime="60"/>
   </spawn>
   <spawn centerx="692" centery="118" centerz="8" radius="5">
-    <monster name="Draken Elite" x="2" y="1" z="8" spawntime="0"/>
+    <monster name="Draken Elite" x="2" y="1" z="8" spawntime="60"/>
     <monster name="Draken Elite" x="2" y="2" z="8" spawntime="18"/>
-    <monster name="Draken Elite" x="-1" y="3" z="8" spawntime="0"/>
+    <monster name="Draken Elite" x="-1" y="3" z="8" spawntime="60"/>
     <monster name="Draken Elite" x="-2" y="4" z="8" spawntime="18"/>
   </spawn>
   <spawn centerx="303" centery="121" centerz="8" radius="1">
@@ -16988,9 +16964,9 @@
     <monster name="Zombie" x="15" y="-18" z="9" spawntime="18"/>
     <monster name="Zombie" x="11" y="-15" z="9" spawntime="18"/>
     <monster name="Zombie" x="-2" y="-11" z="9" spawntime="18"/>
-    <monster name="Zombie" x="-2" y="-10" z="9" spawntime="0"/>
+    <monster name="Zombie" x="-2" y="-10" z="9" spawntime="60"/>
     <monster name="Zombie" x="-3" y="-4" z="9" spawntime="18"/>
-    <monster name="Zombie" x="-3" y="-3" z="9" spawntime="0"/>
+    <monster name="Zombie" x="-3" y="-3" z="9" spawntime="60"/>
     <monster name="Zombie" x="-3" y="2" z="9" spawntime="18"/>
   </spawn>
   <spawn centerx="176" centery="355" centerz="9" radius="100">
@@ -18216,7 +18192,7 @@
   <spawn centerx="347" centery="173" centerz="10" radius="5">
     <monster name="Hellgorak" x="-3" y="0" z="10" spawntime="60"/>
     <monster name="Hellgorak" x="-1" y="2" z="10" spawntime="60"/>
-    <monster name="Hellgorak" x="0" y="2" z="10" spawntime="0"/>
+    <monster name="Hellgorak" x="0" y="2" z="10" spawntime="60"/>
   </spawn>
   <spawn centerx="360" centery="178" centerz="10" radius="5">
     <monster name="Hellgorak" x="-3" y="-3" z="10" spawntime="60"/>
@@ -19682,23 +19658,15 @@
     <monster name="Undead Dragon" x="4" y="8" z="11" spawntime="60"/>
   </spawn>
   <spawn centerx="755" centery="245" centerz="11" radius="6">
-    <monster name="Dragon Lord Vip3" x="-2" y="-5" z="11" spawntime="60"/>
-    <monster name="Dragon Lord Vip3" x="-1" y="-3" z="11" spawntime="0"/>
-    <monster name="Dragon Lord Vip3" x="0" y="-2" z="11" spawntime="0"/>
-    <monster name="Dragon Lord Vip3" x="2" y="-2" z="11" spawntime="60"/>
-    <monster name="Dragon Lord Vip3" x="-4" y="1" z="11" spawntime="60"/>
-    <monster name="Dragon Lord Vip3" x="-3" y="1" z="11" spawntime="0"/>
-    <monster name="Dragon Lord Vip3" x="2" y="1" z="11" spawntime="0"/>
-    <monster name="Dragon Lord Vip3" x="3" y="1" z="11" spawntime="0"/>
-    <monster name="Dragon Lord Vip3" x="-1" y="3" z="11" spawntime="0"/>
-    <monster name="Dragon Lord Vip3" x="0" y="3" z="11" spawntime="60"/>
-    <monster name="Dragon Lord Vip3" x="3" y="3" z="11" spawntime="0"/>
-    <monster name="Dragon Lord Vip3" x="-4" y="4" z="11" spawntime="60"/>
-    <monster name="Dragon Lord Vip3" x="-3" y="4" z="11" spawntime="0"/>
-    <monster name="Dragon Lord Vip3" x="0" y="4" z="11" spawntime="0"/>
-    <monster name="Dragon Lord Vip3" x="1" y="4" z="11" spawntime="0"/>
-    <monster name="Dragon Lord Vip3" x="-3" y="5" z="11" spawntime="0"/>
-    <monster name="Dragon Lord Vip3" x="-2" y="5" z="11" spawntime="60"/>
+    <monster name="Dragon Lord Vip II" x="-4" y="-5" z="11" spawntime="60"/>
+    <monster name="Dragon Lord Vip II" x="-2" y="-5" z="11" spawntime="60"/>
+    <monster name="Dragon Lord Vip II" x="5" y="-5" z="11" spawntime="60"/>
+    <monster name="Dragon Lord Vip II" x="4" y="-4" z="11" spawntime="60"/>
+    <monster name="Dragon Lord Vip II" x="-5" y="-3" z="11" spawntime="60"/>
+    <monster name="Dragon Lord Vip II" x="0" y="-2" z="11" spawntime="60"/>
+    <monster name="Dragon Lord Vip II" x="-4" y="0" z="11" spawntime="60"/>
+    <monster name="Dragon Lord Vip II" x="1" y="3" z="11" spawntime="60"/>
+    <monster name="Dragon Lord Vip II" x="4" y="4" z="11" spawntime="60"/>
   </spawn>
   <spawn centerx="372" centery="397" centerz="11" radius="3">
     <monster name="Medusa" x="1" y="2" z="11" spawntime="60"/>
@@ -21471,13 +21439,15 @@
     <monster name="Fury" x="-10" y="11" z="12" spawntime="60"/>
   </spawn>
   <spawn centerx="755" centery="245" centerz="12" radius="6">
-    <monster name="Dragon Lord Vip3" x="-4" y="-4" z="12" spawntime="0"/>
-    <monster name="Dragon Lord Vip3" x="-2" y="-4" z="12" spawntime="0"/>
-    <monster name="Dragon Lord Vip3" x="0" y="-4" z="12" spawntime="60"/>
-    <monster name="Dragon Lord Vip3" x="-3" y="-3" z="12" spawntime="60"/>
-    <monster name="Dragon Lord Vip3" x="2" y="1" z="12" spawntime="60"/>
-    <monster name="Dragon Lord Vip3" x="-3" y="3" z="12" spawntime="60"/>
-    <monster name="Dragon Lord Vip3" x="-2" y="5" z="12" spawntime="60"/>
+    <monster name="Dragon Lord Vip II" x="0" y="-5" z="12" spawntime="60"/>
+    <monster name="Dragon Lord Vip II" x="-4" y="-4" z="12" spawntime="60"/>
+    <monster name="Dragon Lord Vip II" x="-2" y="-3" z="12" spawntime="60"/>
+    <monster name="Dragon Lord Vip II" x="4" y="-2" z="12" spawntime="60"/>
+    <monster name="Dragon Lord Vip II" x="1" y="1" z="12" spawntime="60"/>
+    <monster name="Dragon Lord Vip II" x="-4" y="2" z="12" spawntime="60"/>
+    <monster name="Dragon Lord Vip II" x="5" y="2" z="12" spawntime="60"/>
+    <monster name="Dragon Lord Vip II" x="-4" y="5" z="12" spawntime="60"/>
+    <monster name="Dragon Lord Vip II" x="3" y="5" z="12" spawntime="60"/>
   </spawn>
   <spawn centerx="371" centery="398" centerz="12" radius="3">
     <monster name="Medusa" x="2" y="0" z="12" spawntime="60"/>
@@ -23527,12 +23497,11 @@
     <monster name="Juggernaut" x="2" y="5" z="13" spawntime="60"/>
   </spawn>
   <spawn centerx="826" centery="207" centerz="13" radius="5">
-    <monster name="Infernalist Supervip" x="-2" y="2" z="13" spawntime="60"/>
-    <monster name="Infernalist Supervip" x="-1" y="2" z="13" spawntime="60"/>
-    <monster name="Infernalist Supervip" x="3" y="2" z="13" spawntime="60"/>
-    <monster name="Infernalist Supervip" x="3" y="3" z="13" spawntime="60"/>
-    <monster name="Infernalist Supervip" x="-2" y="5" z="13" spawntime="60"/>
-    <monster name="Infernalist Supervip" x="1" y="5" z="13" spawntime="60"/>
+    <monster name="Infernalist Supervip" x="0" y="1" z="13" spawntime="60"/>
+    <monster name="Infernalist Supervip" x="-3" y="2" z="13" spawntime="60"/>
+    <monster name="Infernalist Supervip" x="4" y="2" z="13" spawntime="60"/>
+    <monster name="Infernalist Supervip" x="-1" y="4" z="13" spawntime="60"/>
+    <monster name="Infernalist Supervip" x="2" y="4" z="13" spawntime="60"/>
   </spawn>
   <spawn centerx="1288" centery="208" centerz="13" radius="5">
     <monster name="Juggernaut" x="-2" y="0" z="13" spawntime="60"/>
@@ -23672,13 +23641,14 @@
     <monster name="Frost Dragon vip3" x="3" y="3" z="13" spawntime="60"/>
   </spawn>
   <spawn centerx="821" centery="218" centerz="13" radius="5">
-    <monster name="Infernalist Supervip" x="3" y="-5" z="13" spawntime="0"/>
-    <monster name="Infernalist Supervip" x="-4" y="3" z="13" spawntime="0"/>
-    <monster name="Infernalist Supervip" x="-3" y="3" z="13" spawntime="0"/>
-    <monster name="Infernalist Supervip" x="-2" y="3" z="13" spawntime="60"/>
-    <monster name="Infernalist Supervip" x="-1" y="3" z="13" spawntime="0"/>
-    <monster name="Infernalist Supervip" x="0" y="3" z="13" spawntime="0"/>
-    <monster name="Infernalist Supervip" x="1" y="3" z="13" spawntime="0"/>
+    <monster name="Infernalist Supervip" x="3" y="-4" z="13" spawntime="60"/>
+    <monster name="Infernalist Supervip" x="3" y="-3" z="13" spawntime="60"/>
+    <monster name="Infernalist Supervip" x="-2" y="-2" z="13" spawntime="60"/>
+    <monster name="Infernalist Supervip" x="2" y="0" z="13" spawntime="60"/>
+    <monster name="Infernalist Supervip" x="-1" y="1" z="13" spawntime="60"/>
+    <monster name="Infernalist Supervip" x="3" y="2" z="13" spawntime="60"/>
+    <monster name="Infernalist Supervip" x="-5" y="3" z="13" spawntime="60"/>
+    <monster name="Infernalist Supervip" x="0" y="5" z="13" spawntime="60"/>
   </spawn>
   <spawn centerx="1462" centery="219" centerz="13" radius="5">
     <monster name="Grim Reaper Vip" x="-5" y="1" z="13" spawntime="60"/>
@@ -23690,8 +23660,8 @@
   <spawn centerx="837" centery="220" centerz="13" radius="5">
     <monster name="Infernalist Supervip" x="0" y="-5" z="13" spawntime="60"/>
     <monster name="Infernalist Supervip" x="2" y="-1" z="13" spawntime="60"/>
+    <monster name="Infernalist Supervip" x="2" y="2" z="13" spawntime="60"/>
     <monster name="Infernalist Supervip" x="-1" y="3" z="13" spawntime="60"/>
-    <monster name="Infernalist Supervip" x="0" y="3" z="13" spawntime="0"/>
   </spawn>
   <spawn centerx="1295" centery="220" centerz="13" radius="5">
     <monster name="Juggernaut" x="4" y="-2" z="13" spawntime="60"/>
@@ -23864,11 +23834,11 @@
     <monster name="Lich" x="3" y="4" z="13" spawntime="60"/>
   </spawn>
   <spawn centerx="814" centery="230" centerz="13" radius="5">
-    <monster name="Infernalist Supervip" x="1" y="-2" z="13" spawntime="60"/>
-    <monster name="Infernalist Supervip" x="1" y="-1" z="13" spawntime="0"/>
-    <monster name="Infernalist Supervip" x="0" y="1" z="13" spawntime="0"/>
-    <monster name="Infernalist Supervip" x="1" y="3" z="13" spawntime="60"/>
-    <monster name="Infernalist Supervip" x="-2" y="4" z="13" spawntime="60"/>
+    <monster name="Infernalist Supervip" x="3" y="-4" z="13" spawntime="60"/>
+    <monster name="Infernalist Supervip" x="-5" y="-3" z="13" spawntime="60"/>
+    <monster name="Infernalist Supervip" x="-2" y="2" z="13" spawntime="60"/>
+    <monster name="Infernalist Supervip" x="3" y="2" z="13" spawntime="60"/>
+    <monster name="Infernalist Supervip" x="-1" y="3" z="13" spawntime="60"/>
   </spawn>
   <spawn centerx="1300" centery="232" centerz="13" radius="5">
     <monster name="Juggernaut" x="0" y="-4" z="13" spawntime="60"/>
@@ -23877,73 +23847,60 @@
     <monster name="Lich" x="1" y="4" z="13" spawntime="60"/>
   </spawn>
   <spawn centerx="841" centery="233" centerz="13" radius="5">
-    <monster name="Infernalist Supervip" x="1" y="-2" z="13" spawntime="60"/>
-    <monster name="Infernalist Supervip" x="1" y="-1" z="13" spawntime="60"/>
-    <monster name="Infernalist Supervip" x="2" y="-1" z="13" spawntime="60"/>
+    <monster name="Infernalist Supervip" x="-3" y="-3" z="13" spawntime="60"/>
+    <monster name="Infernalist Supervip" x="2" y="-3" z="13" spawntime="60"/>
+    <monster name="Infernalist Supervip" x="-1" y="2" z="13" spawntime="60"/>
+    <monster name="Infernalist Supervip" x="3" y="3" z="13" spawntime="60"/>
+    <monster name="Infernalist Supervip" x="-2" y="5" z="13" spawntime="60"/>
   </spawn>
   <spawn centerx="763" centery="234" centerz="13" radius="25">
+    <monster name="Dragon Lord Vip II" x="6" y="-14" z="13" spawntime="60"/>
     <monster name="Dragon" x="13" y="-14" z="13" spawntime="60"/>
     <monster name="Dragon" x="16" y="-14" z="13" spawntime="60"/>
-    <monster name="Dragon Lord Vip3" x="-10" y="-13" z="13" spawntime="60"/>
-    <monster name="Dragon Lord Vip3" x="3" y="-12" z="13" spawntime="60"/>
-    <monster name="Dragon Lord Vip3" x="-5" y="-11" z="13" spawntime="60"/>
-    <monster name="Dragon Lord Vip3" x="1" y="-11" z="13" spawntime="0"/>
-    <monster name="Dragon Lord Vip3" x="-15" y="-9" z="13" spawntime="60"/>
-    <monster name="Dragon Lord Vip3" x="9" y="-9" z="13" spawntime="60"/>
-    <monster name="Dragon Lord Vip3" x="11" y="-9" z="13" spawntime="0"/>
-    <monster name="Dragon Lord Vip3" x="-15" y="-8" z="13" spawntime="0"/>
-    <monster name="Dragon Lord Vip3" x="3" y="-8" z="13" spawntime="0"/>
-    <monster name="Dragon Lord Vip3" x="15" y="-8" z="13" spawntime="0"/>
-    <monster name="Dragon Lord Vip3" x="-6" y="-7" z="13" spawntime="60"/>
-    <monster name="Dragon Lord Vip3" x="-5" y="-7" z="13" spawntime="0"/>
-    <monster name="Dragon Lord Vip3" x="-3" y="-7" z="13" spawntime="60"/>
-    <monster name="Dragon Lord Vip3" x="10" y="-7" z="13" spawntime="0"/>
-    <monster name="Dragon Lord Vip3" x="16" y="-7" z="13" spawntime="60"/>
-    <monster name="Dragon Lord Vip3" x="-7" y="-6" z="13" spawntime="0"/>
-    <monster name="Dragon Lord Vip3" x="-6" y="-6" z="13" spawntime="60"/>
-    <monster name="Dragon Lord Vip3" x="-3" y="-6" z="13" spawntime="0"/>
-    <monster name="Dragon Lord Vip3" x="10" y="-6" z="13" spawntime="0"/>
-    <monster name="Dragon Lord Vip3" x="-15" y="-5" z="13" spawntime="60"/>
-    <monster name="Dragon Lord Vip3" x="-10" y="-3" z="13" spawntime="60"/>
-    <monster name="Dragon Lord Vip3" x="8" y="-3" z="13" spawntime="60"/>
-    <monster name="Dragon Lord Vip3" x="-15" y="-2" z="13" spawntime="0"/>
-    <monster name="Dragon Lord Vip3" x="-10" y="-2" z="13" spawntime="0"/>
-    <monster name="Dragon Lord Vip3" x="5" y="0" z="13" spawntime="60"/>
-    <monster name="Dragon Lord Vip3" x="6" y="0" z="13" spawntime="0"/>
-    <monster name="Dragon Lord Vip3" x="13" y="0" z="13" spawntime="60"/>
-    <monster name="Dragon Lord Vip3" x="14" y="1" z="13" spawntime="0"/>
-    <monster name="Dragon Lord Vip3" x="-16" y="2" z="13" spawntime="60"/>
-    <monster name="Dragon Lord Vip3" x="14" y="2" z="13" spawntime="0"/>
-    <monster name="Dragon Lord Vip3" x="2" y="3" z="13" spawntime="60"/>
-    <monster name="Dragon Lord Vip3" x="9" y="3" z="13" spawntime="0"/>
-    <monster name="Dragon Lord Vip3" x="16" y="3" z="13" spawntime="0"/>
-    <monster name="Dragon Lord Vip3" x="-19" y="4" z="13" spawntime="60"/>
-    <monster name="Dragon Lord Vip3" x="-19" y="6" z="13" spawntime="0"/>
-    <monster name="Dragon Lord Vip3" x="-18" y="6" z="13" spawntime="0"/>
-    <monster name="Dragon Lord Vip3" x="-10" y="6" z="13" spawntime="0"/>
-    <monster name="Dragon Lord Vip3" x="0" y="6" z="13" spawntime="0"/>
-    <monster name="Dragon Lord Vip3" x="-18" y="7" z="13" spawntime="0"/>
-    <monster name="Dragon Lord Vip3" x="20" y="7" z="13" spawntime="60"/>
-    <monster name="Dragon Lord Vip3" x="-18" y="8" z="13" spawntime="0"/>
-    <monster name="Dragon Lord Vip3" x="-10" y="8" z="13" spawntime="60"/>
-    <monster name="Dragon Lord Vip3" x="-9" y="9" z="13" spawntime="0"/>
-    <monster name="Dragon Lord Vip3" x="-8" y="9" z="13" spawntime="60"/>
-    <monster name="Dragon Lord Vip3" x="2" y="9" z="13" spawntime="0"/>
-    <monster name="Dragon Lord Vip3" x="3" y="9" z="13" spawntime="60"/>
-    <monster name="Dragon Lord Vip3" x="-9" y="10" z="13" spawntime="60"/>
-    <monster name="Dragon Lord Vip3" x="1" y="10" z="13" spawntime="0"/>
-    <monster name="Dragon Lord Vip3" x="-17" y="11" z="13" spawntime="60"/>
-    <monster name="Dragon Lord Vip3" x="-16" y="11" z="13" spawntime="0"/>
-    <monster name="Dragon Lord Vip3" x="-15" y="11" z="13" spawntime="60"/>
-    <monster name="Dragon Lord Vip3" x="-7" y="11" z="13" spawntime="0"/>
-    <monster name="Dragon Lord Vip3" x="2" y="11" z="13" spawntime="60"/>
-    <monster name="Dragon Lord Vip3" x="-11" y="12" z="13" spawntime="0"/>
-    <monster name="Dragon Lord Vip3" x="-7" y="12" z="13" spawntime="60"/>
-    <monster name="Dragon Lord Vip3" x="-5" y="12" z="13" spawntime="60"/>
-    <monster name="Dragon Lord Vip3" x="12" y="12" z="13" spawntime="60"/>
-    <monster name="Dragon Lord Vip3" x="-8" y="14" z="13" spawntime="0"/>
-    <monster name="Dragon Lord Vip3" x="-5" y="14" z="13" spawntime="0"/>
-    <monster name="Dragon Lord Vip3" x="-5" y="15" z="13" spawntime="60"/>
+    <monster name="Dragon Lord Vip II" x="10" y="-13" z="13" spawntime="60"/>
+    <monster name="Dragon Lord Vip II" x="-10" y="-12" z="13" spawntime="60"/>
+    <monster name="Dragon Lord Vip II" x="-4" y="-12" z="13" spawntime="60"/>
+    <monster name="Dragon Lord Vip II" x="-16" y="-11" z="13" spawntime="60"/>
+    <monster name="Dragon Lord Vip II" x="13" y="-11" z="13" spawntime="60"/>
+    <monster name="Dragon Lord Vip II" x="2" y="-10" z="13" spawntime="60"/>
+    <monster name="Dragon Lord Vip II" x="-20" y="-8" z="13" spawntime="60"/>
+    <monster name="Dragon Lord Vip II" x="6" y="-8" z="13" spawntime="60"/>
+    <monster name="Dragon Lord Vip II" x="20" y="-7" z="13" spawntime="60"/>
+    <monster name="Dragon Lord Vip II" x="-15" y="-6" z="13" spawntime="60"/>
+    <monster name="Dragon Lord Vip II" x="-7" y="-6" z="13" spawntime="60"/>
+    <monster name="Dragon Lord Vip II" x="-4" y="-4" z="13" spawntime="60"/>
+    <monster name="Dragon Lord Vip II" x="24" y="-4" z="13" spawntime="60"/>
+    <monster name="Dragon Lord Vip II" x="1" y="-3" z="13" spawntime="60"/>
+    <monster name="Dragon Lord Vip II" x="15" y="-3" z="13" spawntime="60"/>
+    <monster name="Dragon Lord Vip II" x="20" y="-3" z="13" spawntime="60"/>
+    <monster name="Dragon Lord Vip II" x="-14" y="-2" z="13" spawntime="60"/>
+    <monster name="Dragon Lord Vip II" x="7" y="-1" z="13" spawntime="60"/>
+    <monster name="Dragon Lord Vip II" x="13" y="-1" z="13" spawntime="60"/>
+    <monster name="Dragon Lord Vip II" x="-8" y="0" z="13" spawntime="60"/>
+    <monster name="Dragon Lord Vip II" x="12" y="1" z="13" spawntime="60"/>
+    <monster name="Dragon Lord Vip II" x="-12" y="2" z="13" spawntime="60"/>
+    <monster name="Dragon Lord Vip II" x="-18" y="3" z="13" spawntime="60"/>
+    <monster name="Dragon Lord Vip II" x="-8" y="3" z="13" spawntime="60"/>
+    <monster name="Dragon Lord Vip II" x="20" y="3" z="13" spawntime="60"/>
+    <monster name="Dragon Lord Vip II" x="3" y="6" z="13" spawntime="60"/>
+    <monster name="Dragon Lord Vip II" x="-21" y="7" z="13" spawntime="60"/>
+    <monster name="Dragon Lord Vip II" x="-9" y="7" z="13" spawntime="60"/>
+    <monster name="Dragon Lord Vip II" x="15" y="7" z="13" spawntime="60"/>
+    <monster name="Dragon Lord Vip II" x="20" y="7" z="13" spawntime="60"/>
+    <monster name="Dragon Lord Vip II" x="-5" y="8" z="13" spawntime="60"/>
+    <monster name="Dragon Lord Vip II" x="-17" y="9" z="13" spawntime="60"/>
+    <monster name="Dragon Lord Vip II" x="9" y="9" z="13" spawntime="60"/>
+    <monster name="Dragon Lord Vip II" x="-12" y="10" z="13" spawntime="60"/>
+    <monster name="Dragon Lord Vip II" x="15" y="10" z="13" spawntime="60"/>
+    <monster name="Dragon Lord Vip II" x="-8" y="11" z="13" spawntime="60"/>
+    <monster name="Dragon Lord Vip II" x="-6" y="11" z="13" spawntime="60"/>
+    <monster name="Dragon Lord Vip II" x="-1" y="11" z="13" spawntime="60"/>
+    <monster name="Dragon Lord Vip II" x="7" y="11" z="13" spawntime="60"/>
+    <monster name="Dragon Lord Vip II" x="0" y="14" z="13" spawntime="60"/>
+    <monster name="Dragon Lord Vip II" x="-15" y="15" z="13" spawntime="60"/>
+    <monster name="Dragon Lord Vip II" x="-13" y="15" z="13" spawntime="60"/>
+    <monster name="Dragon Lord Vip II" x="-7" y="15" z="13" spawntime="60"/>
+    <monster name="Dragon Lord Vip II" x="-4" y="15" z="13" spawntime="60"/>
   </spawn>
   <spawn centerx="1388" centery="234" centerz="13" radius="5">
     <monster name="Grim Reaper Vip" x="4" y="-5" z="13" spawntime="60"/>
@@ -24028,8 +23985,8 @@
     <monster name="Frost Dragon vip3" x="93" y="-28" z="13" spawntime="60"/>
     <monster name="Frost Dragon vip3" x="94" y="-28" z="13" spawntime="60"/>
     <monster name="Frost Dragon vip3" x="96" y="-28" z="13" spawntime="60"/>
-    <monster name="Frost Dragon vip3" x="88" y="-27" z="13" spawntime="0"/>
-    <monster name="Frost Dragon vip3" x="84" y="-26" z="13" spawntime="0"/>
+    <monster name="Frost Dragon vip3" x="88" y="-27" z="13" spawntime="60"/>
+    <monster name="Frost Dragon vip3" x="84" y="-26" z="13" spawntime="60"/>
     <monster name="Frost Dragon vip3" x="95" y="-25" z="13" spawntime="60"/>
     <monster name="Hellspawn Vip" x="-6" y="-24" z="13" spawntime="60"/>
     <monster name="Hellspawn Vip" x="-2" y="-24" z="13" spawntime="60"/>
@@ -24043,7 +24000,7 @@
     <monster name="Frost Dragon vip3" x="87" y="-22" z="13" spawntime="60"/>
     <monster name="Frost Dragon vip3" x="88" y="-22" z="13" spawntime="60"/>
     <monster name="Frost Dragon vip3" x="90" y="-22" z="13" spawntime="60"/>
-    <monster name="Hellspawn Vip" x="-31" y="-21" z="13" spawntime="0"/>
+    <monster name="Hellspawn Vip" x="-31" y="-21" z="13" spawntime="60"/>
     <monster name="Frost Dragon vip3" x="87" y="-21" z="13" spawntime="60"/>
     <monster name="Frost Dragon vip3" x="89" y="-21" z="13" spawntime="60"/>
     <monster name="Demon SuperVip" x="-91" y="-20" z="13" spawntime="60"/>
@@ -24062,34 +24019,34 @@
     <monster name="Hellspawn Vip" x="-2" y="-15" z="13" spawntime="60"/>
     <monster name="Hellspawn Vip" x="19" y="-15" z="13" spawntime="60"/>
     <monster name="Frost Dragon vip3" x="82" y="-15" z="13" spawntime="60"/>
-    <monster name="Demon SuperVip" x="-73" y="-13" z="13" spawntime="0"/>
+    <monster name="Demon SuperVip" x="-73" y="-13" z="13" spawntime="60"/>
     <monster name="Hellspawn Vip" x="8" y="-13" z="13" spawntime="60"/>
     <monster name="Demon SuperVip" x="-73" y="-12" z="13" spawntime="60"/>
     <monster name="Hellspawn Vip" x="-28" y="-12" z="13" spawntime="60"/>
-    <monster name="Hellspawn Vip" x="10" y="-12" z="13" spawntime="0"/>
-    <monster name="Hellspawn Vip" x="13" y="-12" z="13" spawntime="0"/>
+    <monster name="Hellspawn Vip" x="10" y="-12" z="13" spawntime="60"/>
+    <monster name="Hellspawn Vip" x="13" y="-12" z="13" spawntime="60"/>
     <monster name="Hellspawn Vip" x="14" y="-12" z="13" spawntime="60"/>
     <monster name="Demon" x="-73" y="-11" z="13" spawntime="60"/>
     <monster name="Hellspawn Vip" x="15" y="-11" z="13" spawntime="60"/>
     <monster name="Hellspawn Vip" x="-23" y="-9" z="13" spawntime="60"/>
-    <monster name="Hellspawn Vip" x="-22" y="-9" z="13" spawntime="0"/>
+    <monster name="Hellspawn Vip" x="-22" y="-9" z="13" spawntime="60"/>
     <monster name="Demon SuperVip" x="-76" y="-8" z="13" spawntime="60"/>
-    <monster name="Hellspawn Vip" x="-10" y="-8" z="13" spawntime="0"/>
-    <monster name="Demon SuperVip" x="-76" y="-7" z="13" spawntime="0"/>
+    <monster name="Hellspawn Vip" x="-10" y="-8" z="13" spawntime="60"/>
+    <monster name="Demon SuperVip" x="-76" y="-7" z="13" spawntime="60"/>
     <monster name="Hellspawn Vip" x="-12" y="-6" z="13" spawntime="60"/>
-    <monster name="Hellspawn Vip" x="-12" y="-5" z="13" spawntime="0"/>
+    <monster name="Hellspawn Vip" x="-12" y="-5" z="13" spawntime="60"/>
     <monster name="Demon" x="-78" y="-4" z="13" spawntime="60"/>
     <monster name="Demon SuperVip" x="-76" y="-4" z="13" spawntime="60"/>
     <monster name="Hellspawn Vip" x="-11" y="-3" z="13" spawntime="60"/>
-    <monster name="Hellspawn Vip" x="26" y="-3" z="13" spawntime="0"/>
+    <monster name="Hellspawn Vip" x="26" y="-3" z="13" spawntime="60"/>
     <monster name="Hero" x="35" y="-3" z="13" spawntime="60"/>
     <monster name="Demon" x="-66" y="-2" z="13" spawntime="60"/>
     <monster name="Hellspawn Vip" x="-12" y="-2" z="13" spawntime="60"/>
     <monster name="Hellspawn Vip" x="30" y="-2" z="13" spawntime="60"/>
-    <monster name="Demon SuperVip" x="-72" y="-1" z="13" spawntime="0"/>
+    <monster name="Demon SuperVip" x="-72" y="-1" z="13" spawntime="60"/>
     <monster name="Demon SuperVip" x="-71" y="-1" z="13" spawntime="60"/>
-    <monster name="Hellspawn Vip" x="-12" y="-1" z="13" spawntime="0"/>
-    <monster name="Hellspawn Vip" x="16" y="-1" z="13" spawntime="0"/>
+    <monster name="Hellspawn Vip" x="-12" y="-1" z="13" spawntime="60"/>
+    <monster name="Hellspawn Vip" x="16" y="-1" z="13" spawntime="60"/>
     <monster name="Hellspawn Vip" x="16" y="0" z="13" spawntime="60"/>
     <monster name="Hellspawn Vip" x="26" y="0" z="13" spawntime="60"/>
     <monster name="Frost Dragon vip3" x="91" y="0" z="13" spawntime="60"/>
@@ -24111,7 +24068,7 @@
     <monster name="Hellspawn Vip" x="16" y="5" z="13" spawntime="60"/>
     <monster name="Hellspawn Vip" x="31" y="5" z="13" spawntime="60"/>
     <monster name="Frost Dragon vip3" x="85" y="5" z="13" spawntime="60"/>
-    <monster name="Demon SuperVip" x="-73" y="7" z="13" spawntime="0"/>
+    <monster name="Demon SuperVip" x="-73" y="7" z="13" spawntime="60"/>
     <monster name="Demon SuperVip" x="-68" y="7" z="13" spawntime="60"/>
     <monster name="Demon SuperVip" x="-73" y="8" z="13" spawntime="60"/>
     <monster name="Frost Dragon vip3" x="86" y="8" z="13" spawntime="60"/>
@@ -24120,8 +24077,8 @@
     <monster name="Frost Dragon vip3" x="89" y="10" z="13" spawntime="60"/>
     <monster name="Demon" x="-73" y="12" z="13" spawntime="60"/>
     <monster name="Hellspawn Vip" x="-22" y="12" z="13" spawntime="60"/>
-    <monster name="Hellspawn Vip" x="-21" y="12" z="13" spawntime="0"/>
-    <monster name="Hellspawn Vip" x="-9" y="12" z="13" spawntime="0"/>
+    <monster name="Hellspawn Vip" x="-21" y="12" z="13" spawntime="60"/>
+    <monster name="Hellspawn Vip" x="-9" y="12" z="13" spawntime="60"/>
     <monster name="Hellspawn Vip" x="-8" y="12" z="13" spawntime="60"/>
     <monster name="Frost Dragon vip3" x="94" y="12" z="13" spawntime="60"/>
     <monster name="Frost Dragon vip3" x="95" y="12" z="13" spawntime="60"/>
@@ -24130,11 +24087,11 @@
     <monster name="Hellspawn Vip" x="8" y="13" z="13" spawntime="60"/>
     <monster name="Demon SuperVip" x="-97" y="14" z="13" spawntime="60"/>
     <monster name="Hellspawn Vip" x="-31" y="14" z="13" spawntime="60"/>
-    <monster name="Hellspawn Vip" x="-22" y="14" z="13" spawntime="0"/>
+    <monster name="Hellspawn Vip" x="-22" y="14" z="13" spawntime="60"/>
     <monster name="Frost Dragon vip3" x="88" y="14" z="13" spawntime="60"/>
     <monster name="Demon" x="-97" y="15" z="13" spawntime="60"/>
     <monster name="Hellspawn Vip" x="-27" y="15" z="13" spawntime="60"/>
-    <monster name="Hellspawn Vip" x="-1" y="15" z="13" spawntime="0"/>
+    <monster name="Hellspawn Vip" x="-1" y="15" z="13" spawntime="60"/>
     <monster name="Hellspawn Vip" x="0" y="15" z="13" spawntime="60"/>
     <monster name="Hellspawn Vip" x="9" y="15" z="13" spawntime="60"/>
     <monster name="Frost Dragon vip3" x="82" y="15" z="13" spawntime="60"/>
@@ -24142,14 +24099,14 @@
     <monster name="Frost Dragon vip3" x="89" y="15" z="13" spawntime="60"/>
     <monster name="Frost Dragon vip3" x="90" y="15" z="13" spawntime="60"/>
     <monster name="Demon SuperVip" x="-68" y="16" z="13" spawntime="60"/>
-    <monster name="Hellspawn Vip" x="-35" y="16" z="13" spawntime="0"/>
-    <monster name="Hellspawn Vip" x="9" y="16" z="13" spawntime="0"/>
-    <monster name="Hellspawn Vip" x="13" y="16" z="13" spawntime="0"/>
+    <monster name="Hellspawn Vip" x="-35" y="16" z="13" spawntime="60"/>
+    <monster name="Hellspawn Vip" x="9" y="16" z="13" spawntime="60"/>
+    <monster name="Hellspawn Vip" x="13" y="16" z="13" spawntime="60"/>
     <monster name="Hellspawn Vip" x="20" y="16" z="13" spawntime="60"/>
     <monster name="Frost Dragon vip3" x="91" y="16" z="13" spawntime="60"/>
-    <monster name="Demon SuperVip" x="-66" y="17" z="13" spawntime="0"/>
+    <monster name="Demon SuperVip" x="-66" y="17" z="13" spawntime="60"/>
     <monster name="Demon SuperVip" x="-65" y="17" z="13" spawntime="60"/>
-    <monster name="Demon SuperVip" x="-70" y="18" z="13" spawntime="0"/>
+    <monster name="Demon SuperVip" x="-70" y="18" z="13" spawntime="60"/>
     <monster name="Hellspawn Vip" x="-29" y="19" z="13" spawntime="60"/>
     <monster name="Demon" x="-67" y="20" z="13" spawntime="60"/>
     <monster name="Hellspawn Vip" x="-36" y="20" z="13" spawntime="60"/>
@@ -24165,7 +24122,7 @@
     <monster name="Frost Dragon vip3" x="87" y="23" z="13" spawntime="60"/>
     <monster name="Frost Dragon vip3" x="86" y="24" z="13" spawntime="60"/>
     <monster name="Demon" x="-72" y="27" z="13" spawntime="60"/>
-    <monster name="Demon SuperVip" x="-71" y="28" z="13" spawntime="256"/>
+    <monster name="Demon SuperVip" x="-71" y="28" z="13" spawntime="60"/>
     <monster name="Demon SuperVip" x="-72" y="29" z="13" spawntime="60"/>
     <monster name="Frost Dragon vip3" x="87" y="30" z="13" spawntime="60"/>
     <monster name="Frost Dragon vip3" x="88" y="30" z="13" spawntime="60"/>
@@ -24174,7 +24131,7 @@
     <monster name="Frost Dragon vip3" x="93" y="30" z="13" spawntime="60"/>
     <monster name="Frost Dragon vip3" x="94" y="30" z="13" spawntime="60"/>
     <monster name="Frost Dragon vip3" x="94" y="31" z="13" spawntime="60"/>
-    <monster name="Demon SuperVip" x="-73" y="32" z="13" spawntime="256"/>
+    <monster name="Demon SuperVip" x="-73" y="32" z="13" spawntime="60"/>
     <monster name="Demon" x="-100" y="33" z="13" spawntime="60"/>
     <monster name="Demon SuperVip" x="-73" y="33" z="13" spawntime="60"/>
     <monster name="Demon" x="-69" y="38" z="13" spawntime="60"/>
@@ -24182,25 +24139,20 @@
     <monster name="Demon" x="-94" y="43" z="13" spawntime="60"/>
     <monster name="Demon SuperVip" x="-70" y="43" z="13" spawntime="256"/>
     <monster name="Demon SuperVip" x="-80" y="44" z="13" spawntime="60"/>
-    <monster name="Demon SuperVip" x="-79" y="44" z="13" spawntime="256"/>
     <monster name="Demon SuperVip" x="-69" y="44" z="13" spawntime="60"/>
-    <monster name="Demon SuperVip" x="-89" y="47" z="13" spawntime="256"/>
     <monster name="Demon" x="-73" y="47" z="13" spawntime="60"/>
     <monster name="Demon SuperVip" x="-72" y="47" z="13" spawntime="60"/>
     <monster name="Demon SuperVip" x="-89" y="48" z="13" spawntime="60"/>
     <monster name="Demon" x="-84" y="48" z="13" spawntime="60"/>
-    <monster name="Demon SuperVip" x="-88" y="49" z="13" spawntime="256"/>
-    <monster name="Demon SuperVip" x="-87" y="49" z="13" spawntime="256"/>
     <monster name="Demon SuperVip" x="-86" y="49" z="13" spawntime="60"/>
     <monster name="Demon SuperVip" x="-76" y="53" z="13" spawntime="60"/>
     <monster name="Demon" x="-73" y="56" z="13" spawntime="60"/>
-    <monster name="Demon SuperVip" x="-83" y="58" z="13" spawntime="256"/>
     <monster name="Demon SuperVip" x="-82" y="58" z="13" spawntime="60"/>
     <monster name="Demon" x="-82" y="63" z="13" spawntime="60"/>
-    <monster name="Demon SuperVip" x="-85" y="65" z="13" spawntime="256"/>
-    <monster name="Demon SuperVip" x="-84" y="65" z="13" spawntime="256"/>
+    <monster name="Demon SuperVip" x="-85" y="65" z="13" spawntime="60"/>
+    <monster name="Demon SuperVip" x="-84" y="65" z="13" spawntime="60"/>
     <monster name="Demon SuperVip" x="-85" y="66" z="13" spawntime="60"/>
-    <monster name="Demon SuperVip" x="-94" y="67" z="13" spawntime="256"/>
+    <monster name="Demon SuperVip" x="-94" y="67" z="13" spawntime="60"/>
     <monster name="Demon SuperVip" x="-91" y="67" z="13" spawntime="60"/>
     <monster name="Demon" x="-82" y="68" z="13" spawntime="60"/>
     <monster name="Demon SuperVip" x="-92" y="70" z="13" spawntime="60"/>
@@ -24227,12 +24179,11 @@
     <monster name="Frost Dragon vip3" x="3" y="4" z="13" spawntime="60"/>
   </spawn>
   <spawn centerx="828" centery="238" centerz="13" radius="5">
-    <monster name="Infernalist Supervip" x="0" y="1" z="13" spawntime="60"/>
-    <monster name="Infernalist Supervip" x="1" y="1" z="13" spawntime="0"/>
-    <monster name="Infernalist Supervip" x="2" y="1" z="13" spawntime="0"/>
-    <monster name="Infernalist Supervip" x="3" y="1" z="13" spawntime="0"/>
-    <monster name="Infernalist Supervip" x="4" y="1" z="13" spawntime="0"/>
-    <monster name="Infernalist Supervip" x="0" y="2" z="13" spawntime="60"/>
+    <monster name="Infernalist Supervip" x="-2" y="-4" z="13" spawntime="60"/>
+    <monster name="Infernalist Supervip" x="4" y="-3" z="13" spawntime="60"/>
+    <monster name="Infernalist Supervip" x="-1" y="1" z="13" spawntime="60"/>
+    <monster name="Infernalist Supervip" x="-5" y="2" z="13" spawntime="60"/>
+    <monster name="Infernalist Supervip" x="3" y="2" z="13" spawntime="60"/>
   </spawn>
   <spawn centerx="1463" centery="239" centerz="13" radius="5">
     <monster name="Grim Reaper Vip" x="0" y="-2" z="13" spawntime="60"/>
@@ -24244,11 +24195,12 @@
     <monster name="Grim Reaper Vip" x="3" y="5" z="13" spawntime="60"/>
   </spawn>
   <spawn centerx="814" centery="240" centerz="13" radius="5">
-    <monster name="Infernalist Supervip" x="-3" y="0" z="13" spawntime="60"/>
-    <monster name="Infernalist Supervip" x="-3" y="1" z="13" spawntime="0"/>
-    <monster name="Infernalist Supervip" x="-2" y="1" z="13" spawntime="60"/>
-    <monster name="Infernalist Supervip" x="0" y="1" z="13" spawntime="0"/>
-    <monster name="Infernalist Supervip" x="1" y="2" z="13" spawntime="60"/>
+    <monster name="Infernalist Supervip" x="4" y="-4" z="13" spawntime="60"/>
+    <monster name="Infernalist Supervip" x="-3" y="-3" z="13" spawntime="60"/>
+    <monster name="Infernalist Supervip" x="3" y="0" z="13" spawntime="60"/>
+    <monster name="Infernalist Supervip" x="-3" y="2" z="13" spawntime="60"/>
+    <monster name="Infernalist Supervip" x="-1" y="2" z="13" spawntime="60"/>
+    <monster name="Infernalist Supervip" x="1" y="3" z="13" spawntime="60"/>
   </spawn>
   <spawn centerx="1289" centery="240" centerz="13" radius="5">
     <monster name="Juggernaut" x="0" y="-5" z="13" spawntime="60"/>
@@ -24267,12 +24219,9 @@
     <monster name="Frost Dragon vip3" x="2" y="1" z="13" spawntime="60"/>
   </spawn>
   <spawn centerx="840" centery="242" centerz="13" radius="5">
-    <monster name="Infernalist Supervip" x="-1" y="0" z="13" spawntime="60"/>
-    <monster name="Infernalist Supervip" x="0" y="0" z="13" spawntime="0"/>
-    <monster name="Infernalist Supervip" x="1" y="1" z="13" spawntime="60"/>
-    <monster name="Infernalist Supervip" x="0" y="2" z="13" spawntime="60"/>
-    <monster name="Infernalist Supervip" x="0" y="3" z="13" spawntime="0"/>
-    <monster name="Infernalist Supervip" x="1" y="3" z="13" spawntime="0"/>
+    <monster name="Infernalist Supervip" x="-4" y="0" z="13" spawntime="60"/>
+    <monster name="Infernalist Supervip" x="-1" y="2" z="13" spawntime="60"/>
+    <monster name="Infernalist Supervip" x="3" y="3" z="13" spawntime="60"/>
   </spawn>
   <spawn centerx="1348" centery="242" centerz="13" radius="5">
     <monster name="Lich" x="0" y="-1" z="13" spawntime="60"/>
@@ -24300,9 +24249,9 @@
     <monster name="Frost Dragon vip3" x="3" y="4" z="13" spawntime="60"/>
   </spawn>
   <spawn centerx="1172" centery="244" centerz="13" radius="5">
-    <monster name="Frost Dragon vip3" x="-3" y="-3" z="13" spawntime="0"/>
+    <monster name="Frost Dragon vip3" x="-3" y="-3" z="13" spawntime="60"/>
     <monster name="Frost Dragon vip3" x="-2" y="-3" z="13" spawntime="60"/>
-    <monster name="Frost Dragon vip3" x="-3" y="-2" z="13" spawntime="0"/>
+    <monster name="Frost Dragon vip3" x="-3" y="-2" z="13" spawntime="60"/>
     <monster name="Frost Dragon vip3" x="2" y="0" z="13" spawntime="60"/>
     <monster name="Frost Dragon vip3" x="-4" y="1" z="13" spawntime="60"/>
     <monster name="Frost Dragon vip3" x="2" y="1" z="13" spawntime="60"/>
@@ -24398,18 +24347,17 @@
     <monster name="Lich" x="-1" y="4" z="13" spawntime="60"/>
   </spawn>
   <spawn centerx="818" centery="252" centerz="13" radius="5">
-    <monster name="Infernalist Supervip" x="1" y="-3" z="13" spawntime="60"/>
-    <monster name="Infernalist Supervip" x="1" y="-2" z="13" spawntime="0"/>
-    <monster name="Infernalist Supervip" x="3" y="-1" z="13" spawntime="0"/>
+    <monster name="Infernalist Supervip" x="0" y="-4" z="13" spawntime="60"/>
+    <monster name="Infernalist Supervip" x="-3" y="-2" z="13" spawntime="60"/>
+    <monster name="Infernalist Supervip" x="2" y="-2" z="13" spawntime="60"/>
+    <monster name="Infernalist Supervip" x="4" y="-2" z="13" spawntime="60"/>
+    <monster name="Infernalist Supervip" x="-2" y="1" z="13" spawntime="60"/>
+    <monster name="Infernalist Supervip" x="2" y="2" z="13" spawntime="60"/>
   </spawn>
   <spawn centerx="840" centery="252" centerz="13" radius="5">
-    <monster name="Infernalist Supervip" x="-5" y="2" z="13" spawntime="60"/>
-    <monster name="Infernalist Supervip" x="-4" y="2" z="13" spawntime="0"/>
-    <monster name="Infernalist Supervip" x="-3" y="2" z="13" spawntime="0"/>
-    <monster name="Infernalist Supervip" x="-2" y="2" z="13" spawntime="0"/>
-    <monster name="Infernalist Supervip" x="-1" y="3" z="13" spawntime="0"/>
-    <monster name="Infernalist Supervip" x="0" y="4" z="13" spawntime="256"/>
-    <monster name="Infernalist Supervip" x="0" y="5" z="13" spawntime="256"/>
+    <monster name="Infernalist Supervip" x="2" y="0" z="13" spawntime="60"/>
+    <monster name="Infernalist Supervip" x="-4" y="2" z="13" spawntime="60"/>
+    <monster name="Infernalist Supervip" x="0" y="4" z="13" spawntime="60"/>
   </spawn>
   <spawn centerx="1165" centery="254" centerz="13" radius="5">
     <monster name="Frost Dragon vip3" x="0" y="-4" z="13" spawntime="60"/>
@@ -24431,7 +24379,7 @@
   </spawn>
   <spawn centerx="1287" centery="255" centerz="13" radius="5">
     <monster name="Juggernaut" x="1" y="0" z="13" spawntime="60"/>
-    <monster name="Juggernaut" x="2" y="0" z="13" spawntime="0"/>
+    <monster name="Juggernaut" x="2" y="0" z="13" spawntime="60"/>
     <monster name="Lich" x="1" y="5" z="13" spawntime="60"/>
   </spawn>
   <spawn centerx="1348" centery="255" centerz="13" radius="5">
@@ -24441,26 +24389,25 @@
     <monster name="Lich" x="-3" y="5" z="13" spawntime="60"/>
   </spawn>
   <spawn centerx="828" centery="256" centerz="13" radius="5">
-    <monster name="Infernalist Supervip" x="0" y="-2" z="13" spawntime="60"/>
-    <monster name="Infernalist Supervip" x="-1" y="0" z="13" spawntime="60"/>
-    <monster name="Infernalist Supervip" x="-1" y="1" z="13" spawntime="256"/>
+    <monster name="Infernalist Supervip" x="0" y="0" z="13" spawntime="60"/>
+    <monster name="Infernalist Supervip" x="4" y="4" z="13" spawntime="60"/>
   </spawn>
   <spawn centerx="667" centery="258" centerz="13" radius="100">
     <monster name="Hydra" x="-1" y="-33" z="13" spawntime="60"/>
-    <monster name="hydra Supervip" x="12" y="-31" z="13" spawntime="60"/>
+    <monster name="hydra vip II" x="12" y="-31" z="13" spawntime="60"/>
     <monster name="Hydra" x="13" y="-31" z="13" spawntime="60"/>
-    <monster name="hydra Supervip" x="5" y="-30" z="13" spawntime="0"/>
+    <monster name="hydra vip II" x="5" y="-30" z="13" spawntime="60"/>
     <monster name="hydra Supervip" x="6" y="-30" z="13" spawntime="60"/>
-    <monster name="hydra Supervip" x="1" y="-28" z="13" spawntime="0"/>
-    <monster name="hydra Supervip" x="14" y="-28" z="13" spawntime="60"/>
-    <monster name="hydra Supervip" x="1" y="-27" z="13" spawntime="0"/>
+    <monster name="hydra vip II" x="1" y="-28" z="13" spawntime="60"/>
+    <monster name="hydra vip II" x="14" y="-28" z="13" spawntime="60"/>
+    <monster name="hydra vip II" x="1" y="-27" z="13" spawntime="60"/>
     <monster name="Hydra" x="23" y="-26" z="13" spawntime="60"/>
     <monster name="Massive Earth Elemental" x="-11" y="-25" z="13" spawntime="60"/>
     <monster name="hydra Supervip" x="23" y="-25" z="13" spawntime="60"/>
     <monster name="Massive Earth Elemental" x="-42" y="-24" z="13" spawntime="60"/>
-    <monster name="hydra Supervip" x="-8" y="-24" z="13" spawntime="0"/>
+    <monster name="hydra vip II" x="-8" y="-24" z="13" spawntime="60"/>
     <monster name="hydra Supervip" x="-7" y="-24" z="13" spawntime="60"/>
-    <monster name="hydra Supervip" x="0" y="-24" z="13" spawntime="0"/>
+    <monster name="hydra vip II" x="0" y="-24" z="13" spawntime="60"/>
     <monster name="Massive Earth Elemental" x="2" y="-24" z="13" spawntime="60"/>
     <monster name="Hydra" x="10" y="-24" z="13" spawntime="60"/>
     <monster name="hydra Supervip" x="32" y="-24" z="13" spawntime="60"/>
@@ -24545,14 +24492,14 @@
     <monster name="Massive Earth Elemental" x="-6" y="23" z="13" spawntime="60"/>
     <monster name="hydra Supervip" x="14" y="23" z="13" spawntime="60"/>
     <monster name="hydra Supervip" x="25" y="23" z="13" spawntime="60"/>
-    <monster name="hydra Supervip" x="33" y="23" z="13" spawntime="60"/>
+    <monster name="hydra vip II" x="33" y="23" z="13" spawntime="60"/>
     <monster name="hydra Supervip" x="40" y="23" z="13" spawntime="60"/>
     <monster name="hydra Supervip" x="-15" y="24" z="13" spawntime="60"/>
     <monster name="hydra Supervip" x="4" y="24" z="13" spawntime="60"/>
     <monster name="hydra Supervip" x="27" y="24" z="13" spawntime="60"/>
-    <monster name="hydra Supervip" x="34" y="24" z="13" spawntime="60"/>
-    <monster name="hydra Supervip" x="39" y="24" z="13" spawntime="256"/>
-    <monster name="hydra Supervip" x="40" y="24" z="13" spawntime="256"/>
+    <monster name="hydra vip II" x="34" y="24" z="13" spawntime="60"/>
+    <monster name="hydra vip II" x="39" y="24" z="13" spawntime="60"/>
+    <monster name="hydra vip II" x="40" y="24" z="13" spawntime="60"/>
     <monster name="Massive Earth Elemental" x="26" y="26" z="13" spawntime="60"/>
     <monster name="hydra Supervip" x="4" y="27" z="13" spawntime="60"/>
     <monster name="Hydra" x="33" y="27" z="13" spawntime="60"/>
@@ -24576,9 +24523,10 @@
   </spawn>
   <spawn centerx="1295" centery="260" centerz="13" radius="5"/>
   <spawn centerx="839" centery="262" centerz="13" radius="5">
-    <monster name="Infernalist Supervip" x="-1" y="3" z="13" spawntime="256"/>
-    <monster name="Infernalist Supervip" x="0" y="3" z="13" spawntime="60"/>
-    <monster name="Infernalist Supervip" x="-1" y="5" z="13" spawntime="256"/>
+    <monster name="Infernalist Supervip" x="-3" y="-4" z="13" spawntime="60"/>
+    <monster name="Infernalist Supervip" x="1" y="0" z="13" spawntime="60"/>
+    <monster name="Infernalist Supervip" x="-3" y="2" z="13" spawntime="60"/>
+    <monster name="Infernalist Supervip" x="-1" y="5" z="13" spawntime="60"/>
   </spawn>
   <spawn centerx="951" centery="262" centerz="13" radius="100">
     <monster name="Orshabaal" x="-24" y="-88" z="13" spawntime="60"/>
@@ -24599,7 +24547,7 @@
     <monster name="Orshabaal" x="-70" y="-48" z="13" spawntime="60"/>
     <monster name="Orshabaal" x="-55" y="-44" z="13" spawntime="60"/>
     <monster name="Demon SuperVip" x="-36" y="-44" z="13" spawntime="60"/>
-    <monster name="Demon SuperVip" x="-30" y="-44" z="13" spawntime="0"/>
+    <monster name="Demon SuperVip" x="-30" y="-44" z="13" spawntime="60"/>
     <monster name="Demon SuperVip" x="-29" y="-44" z="13" spawntime="60"/>
     <monster name="Orshabaal" x="-70" y="-43" z="13" spawntime="60"/>
     <monster name="Orshabaal" x="-76" y="-41" z="13" spawntime="60"/>
@@ -24611,12 +24559,12 @@
     <monster name="Demon SuperVip" x="-10" y="-36" z="13" spawntime="60"/>
     <monster name="Demon" x="-9" y="-36" z="13" spawntime="60"/>
     <monster name="Demon SuperVip" x="-8" y="-36" z="13" spawntime="60"/>
-    <monster name="Demon SuperVip" x="-33" y="-35" z="13" spawntime="0"/>
+    <monster name="Demon SuperVip" x="-33" y="-35" z="13" spawntime="60"/>
     <monster name="Demon SuperVip" x="-32" y="-35" z="13" spawntime="60"/>
     <monster name="Demon" x="-33" y="-33" z="13" spawntime="60"/>
     <monster name="Orshabaal" x="-76" y="-32" z="13" spawntime="60"/>
     <monster name="Orshabaal" x="-72" y="-31" z="13" spawntime="60"/>
-    <monster name="Demon SuperVip" x="-40" y="-29" z="13" spawntime="0"/>
+    <monster name="Demon SuperVip" x="-40" y="-29" z="13" spawntime="60"/>
     <monster name="Demon SuperVip" x="-39" y="-29" z="13" spawntime="60"/>
     <monster name="Demon" x="-44" y="-28" z="13" spawntime="60"/>
     <monster name="Demon SuperVip" x="-36" y="-26" z="13" spawntime="60"/>
@@ -24624,34 +24572,33 @@
     <monster name="Orshabaal" x="-74" y="-24" z="13" spawntime="60"/>
     <monster name="Demon SuperVip" x="-37" y="-24" z="13" spawntime="60"/>
     <monster name="Demon" x="-6" y="-24" z="13" spawntime="60"/>
-    <monster name="Demon SuperVip" x="-44" y="-22" z="13" spawntime="0"/>
+    <monster name="Demon SuperVip" x="-44" y="-22" z="13" spawntime="60"/>
     <monster name="Demon SuperVip" x="-43" y="-22" z="13" spawntime="60"/>
     <monster name="Demon" x="-44" y="-21" z="13" spawntime="60"/>
     <monster name="Demon" x="0" y="-21" z="13" spawntime="60"/>
-    <monster name="Demon SuperVip" x="-4" y="-20" z="13" spawntime="0"/>
-    <monster name="Demon SuperVip" x="-3" y="-20" z="13" spawntime="0"/>
+    <monster name="Demon SuperVip" x="-4" y="-20" z="13" spawntime="60"/>
+    <monster name="Demon SuperVip" x="-3" y="-20" z="13" spawntime="60"/>
     <monster name="Demon SuperVip" x="4" y="-20" z="13" spawntime="60"/>
     <monster name="Orshabaal" x="-72" y="-16" z="13" spawntime="60"/>
     <monster name="Orshabaal" x="-76" y="-15" z="13" spawntime="60"/>
     <monster name="Demon" x="-37" y="-15" z="13" spawntime="60"/>
     <monster name="Orshabaal" x="-74" y="-14" z="13" spawntime="60"/>
+    <monster name="Demon SuperVip" x="1" y="-13" z="13" spawntime="60"/>
     <monster name="Orshabaal" x="-72" y="-12" z="13" spawntime="60"/>
-    <monster name="Demon SuperVip" x="-48" y="-12" z="13" spawntime="0"/>
+    <monster name="Demon SuperVip" x="-48" y="-12" z="13" spawntime="60"/>
     <monster name="Demon SuperVip" x="-40" y="-12" z="13" spawntime="60"/>
     <monster name="Orshabaal" x="-76" y="-11" z="13" spawntime="60"/>
-    <monster name="Demon SuperVip" x="-40" y="-11" z="13" spawntime="0"/>
+    <monster name="Demon SuperVip" x="-40" y="-11" z="13" spawntime="60"/>
     <monster name="Demon" x="-7" y="-11" z="13" spawntime="60"/>
-    <monster name="Demon SuperVip" x="2" y="-11" z="13" spawntime="0"/>
-    <monster name="Demon SuperVip" x="2" y="-10" z="13" spawntime="60"/>
     <monster name="Demon" x="-40" y="-9" z="13" spawntime="60"/>
-    <monster name="Demon SuperVip" x="2" y="-8" z="13" spawntime="0"/>
+    <monster name="Demon SuperVip" x="-4" y="-9" z="13" spawntime="60"/>
+    <monster name="Demon SuperVip" x="2" y="-9" z="13" spawntime="60"/>
     <monster name="Demon SuperVip" x="-48" y="-7" z="13" spawntime="60"/>
     <monster name="Demon" x="1" y="-7" z="13" spawntime="60"/>
-    <monster name="Demon SuperVip" x="2" y="-7" z="13" spawntime="0"/>
     <monster name="Demon" x="-46" y="-6" z="13" spawntime="60"/>
-    <monster name="Demon SuperVip" x="-38" y="-6" z="13" spawntime="256"/>
+    <monster name="Demon SuperVip" x="-38" y="-6" z="13" spawntime="60"/>
     <monster name="Demon SuperVip" x="-37" y="-6" z="13" spawntime="60"/>
-    <monster name="Demon SuperVip" x="2" y="-6" z="13" spawntime="256"/>
+    <monster name="Demon SuperVip" x="-4" y="-6" z="13" spawntime="60"/>
     <monster name="Demon SuperVip" x="3" y="-6" z="13" spawntime="60"/>
     <monster name="Demon SuperVip" x="-49" y="-4" z="13" spawntime="60"/>
     <monster name="Demon SuperVip" x="-42" y="1" z="13" spawntime="60"/>
@@ -24662,15 +24609,15 @@
     <monster name="Demon SuperVip" x="-50" y="7" z="13" spawntime="60"/>
     <monster name="Demon" x="-45" y="7" z="13" spawntime="60"/>
     <monster name="Demon SuperVip" x="3" y="8" z="13" spawntime="60"/>
-    <monster name="Demon SuperVip" x="4" y="8" z="13" spawntime="256"/>
-    <monster name="Demon SuperVip" x="-49" y="13" z="13" spawntime="256"/>
+    <monster name="Demon SuperVip" x="4" y="8" z="13" spawntime="60"/>
+    <monster name="Demon SuperVip" x="-49" y="13" z="13" spawntime="60"/>
     <monster name="Demon SuperVip" x="-48" y="13" z="13" spawntime="60"/>
     <monster name="Demon" x="-54" y="14" z="13" spawntime="60"/>
     <monster name="Demon SuperVip" x="-53" y="16" z="13" spawntime="256"/>
     <monster name="Demon" x="-13" y="16" z="13" spawntime="60"/>
     <monster name="Demon SuperVip" x="-1" y="18" z="13" spawntime="60"/>
     <monster name="Demon SuperVip" x="-13" y="19" z="13" spawntime="60"/>
-    <monster name="Demon SuperVip" x="-12" y="19" z="13" spawntime="256"/>
+    <monster name="Demon SuperVip" x="-12" y="19" z="13" spawntime="60"/>
     <monster name="Demon SuperVip" x="-53" y="21" z="13" spawntime="60"/>
     <monster name="Demon" x="0" y="22" z="13" spawntime="60"/>
     <monster name="Demon" x="-50" y="23" z="13" spawntime="60"/>
@@ -24695,37 +24642,33 @@
     <monster name="Demon" x="-24" y="44" z="13" spawntime="60"/>
     <monster name="Demon SuperVip" x="-9" y="44" z="13" spawntime="60"/>
     <monster name="Demon SuperVip" x="-5" y="44" z="13" spawntime="60"/>
-    <monster name="Demon SuperVip" x="-10" y="45" z="13" spawntime="256"/>
-    <monster name="Demon SuperVip" x="-6" y="45" z="13" spawntime="256"/>
+    <monster name="Demon SuperVip" x="-10" y="45" z="13" spawntime="60"/>
+    <monster name="Demon SuperVip" x="-6" y="45" z="13" spawntime="60"/>
     <monster name="Demon SuperVip" x="-50" y="48" z="13" spawntime="60"/>
     <monster name="Demon SuperVip" x="-42" y="50" z="13" spawntime="60"/>
-    <monster name="Demon SuperVip" x="-42" y="51" z="13" spawntime="256"/>
+    <monster name="Demon SuperVip" x="-42" y="51" z="13" spawntime="60"/>
   </spawn>
   <spawn centerx="815" centery="263" centerz="13" radius="5">
-    <monster name="Infernalist Supervip" x="-1" y="-3" z="13" spawntime="256"/>
-    <monster name="Infernalist Supervip" x="0" y="-3" z="13" spawntime="256"/>
-    <monster name="Infernalist Supervip" x="-1" y="-2" z="13" spawntime="256"/>
-    <monster name="Infernalist Supervip" x="-1" y="-1" z="13" spawntime="256"/>
-    <monster name="Infernalist Supervip" x="-1" y="2" z="13" spawntime="256"/>
-    <monster name="Infernalist Supervip" x="0" y="3" z="13" spawntime="256"/>
-    <monster name="Infernalist Supervip" x="1" y="3" z="13" spawntime="60"/>
+    <monster name="Infernalist Supervip" x="0" y="-5" z="13" spawntime="60"/>
+    <monster name="Infernalist Supervip" x="-1" y="-4" z="13" spawntime="60"/>
+    <monster name="Infernalist Supervip" x="-5" y="-2" z="13" spawntime="60"/>
+    <monster name="Infernalist Supervip" x="-2" y="-1" z="13" spawntime="60"/>
+    <monster name="Infernalist Supervip" x="-4" y="2" z="13" spawntime="60"/>
+    <monster name="Infernalist Supervip" x="4" y="2" z="13" spawntime="60"/>
+    <monster name="Infernalist Supervip" x="5" y="4" z="13" spawntime="60"/>
+    <monster name="Infernalist Supervip" x="1" y="5" z="13" spawntime="60"/>
   </spawn>
   <spawn centerx="834" centery="269" centerz="13" radius="5">
-    <monster name="Infernalist Supervip" x="2" y="-1" z="13" spawntime="256"/>
-    <monster name="Infernalist Supervip" x="4" y="-1" z="13" spawntime="60"/>
-    <monster name="Infernalist Supervip" x="0" y="1" z="13" spawntime="256"/>
-    <monster name="Infernalist Supervip" x="1" y="1" z="13" spawntime="256"/>
-    <monster name="Infernalist Supervip" x="-1" y="2" z="13" spawntime="60"/>
-    <monster name="Infernalist Supervip" x="-5" y="4" z="13" spawntime="256"/>
+    <monster name="Infernalist Supervip" x="-2" y="0" z="13" spawntime="60"/>
+    <monster name="Infernalist Supervip" x="-5" y="2" z="13" spawntime="60"/>
   </spawn>
   <spawn centerx="556" centery="270" centerz="13" radius="5">
     <monster name="Ghazbaran" x="-4" y="-1" z="13" spawntime="60"/>
     <monster name="Ghazbaran" x="-1" y="-1" z="13" spawntime="60"/>
   </spawn>
   <spawn centerx="826" centery="273" centerz="13" radius="5">
-    <monster name="Infernalist Supervip" x="0" y="1" z="13" spawntime="256"/>
-    <monster name="Infernalist Supervip" x="2" y="1" z="13" spawntime="256"/>
-    <monster name="Infernalist Supervip" x="-1" y="2" z="13" spawntime="60"/>
+    <monster name="Infernalist Supervip" x="-3" y="1" z="13" spawntime="60"/>
+    <monster name="Infernalist Supervip" x="1" y="2" z="13" spawntime="60"/>
   </spawn>
   <spawn centerx="577" centery="274" centerz="13" radius="5"/>
   <spawn centerx="395" centery="387" centerz="13" radius="5">
@@ -25482,62 +25425,64 @@
   <spawn centerx="471" centery="259" centerz="14" radius="30">
     <monster name="Ghastly Dragon" x="13" y="-18" z="14" spawntime="60"/>
     <monster name="Ghastly Dragon" x="-26" y="-17" z="14" spawntime="60"/>
-    <monster name="Ghastly Dragon" x="-11" y="-17" z="14" spawntime="0"/>
-    <monster name="Ghastly Dragon" x="4" y="-17" z="14" spawntime="0"/>
-    <monster name="Ghastly Dragon" x="10" y="-17" z="14" spawntime="0"/>
+    <monster name="Ghastly Dragon" x="-11" y="-17" z="14" spawntime="60"/>
+    <monster name="Ghastly Dragon" x="4" y="-17" z="14" spawntime="60"/>
+    <monster name="Ghastly Dragon" x="10" y="-17" z="14" spawntime="60"/>
     <monster name="Ghastly Dragon" x="-10" y="-16" z="14" spawntime="60"/>
-    <monster name="Ghastly Dragon" x="-16" y="-14" z="14" spawntime="15"/>
-    <monster name="Ghastly Dragon" x="-5" y="-14" z="14" spawntime="0"/>
+    <monster name="Ghastly Dragon" x="-16" y="-14" z="14" spawntime="60"/>
+    <monster name="Ghastly Dragon" x="-5" y="-14" z="14" spawntime="60"/>
     <monster name="Ghastly Dragon" x="-1" y="-14" z="14" spawntime="60"/>
-    <monster name="Ghastly Dragon" x="16" y="-14" z="14" spawntime="15"/>
+    <monster name="Ghastly Dragon" x="16" y="-14" z="14" spawntime="60"/>
     <monster name="Ghastly Dragon" x="-1" y="-11" z="14" spawntime="60"/>
     <monster name="Ghastly Dragon" x="-17" y="-9" z="14" spawntime="60"/>
     <monster name="Ghastly Dragon" x="17" y="-9" z="14" spawntime="60"/>
-    <monster name="Ghastly Dragon" x="18" y="-8" z="14" spawntime="0"/>
+    <monster name="Ghastly Dragon" x="18" y="-8" z="14" spawntime="60"/>
     <monster name="Ghastly Dragon" x="-16" y="-5" z="14" spawntime="60"/>
-    <monster name="Ghastly Dragon" x="1" y="-2" z="14" spawntime="15"/>
+    <monster name="Ghastly Dragon" x="1" y="-2" z="14" spawntime="60"/>
     <monster name="Ghastly Dragon" x="-14" y="-1" z="14" spawntime="60"/>
     <monster name="Ghastly Dragon" x="19" y="-1" z="14" spawntime="60"/>
     <monster name="Ghastly Dragon" x="1" y="0" z="14" spawntime="60"/>
-    <monster name="Ghastly Dragon" x="-28" y="2" z="14" spawntime="15"/>
-    <monster name="Ghastly Dragon" x="-15" y="2" z="14" spawntime="15"/>
+    <monster name="Ghastly Dragon" x="-28" y="2" z="14" spawntime="60"/>
+    <monster name="Ghastly Dragon" x="-15" y="2" z="14" spawntime="60"/>
     <monster name="Ghastly Dragon" x="4" y="3" z="14" spawntime="60"/>
     <monster name="Ghastly Dragon" x="19" y="4" z="14" spawntime="60"/>
     <monster name="Ghastly Dragon" x="20" y="8" z="14" spawntime="60"/>
     <monster name="Ghastly Dragon" x="3" y="9" z="14" spawntime="60"/>
-    <monster name="Ghastly Dragon" x="4" y="9" z="14" spawntime="256"/>
-    <monster name="Ghastly Dragon" x="22" y="11" z="14" spawntime="15"/>
+    <monster name="Ghastly Dragon" x="4" y="9" z="14" spawntime="60"/>
+    <monster name="Ghastly Dragon" x="22" y="11" z="14" spawntime="60"/>
     <monster name="Ghastly Dragon" x="-5" y="15" z="14" spawntime="60"/>
-    <monster name="Ghastly Dragon" x="-19" y="16" z="14" spawntime="15"/>
+    <monster name="Ghastly Dragon" x="-19" y="16" z="14" spawntime="60"/>
     <monster name="Ghastly Dragon" x="-1" y="17" z="14" spawntime="60"/>
+    <monster name="Ghastly Dragon" x="17" y="18" z="14" spawntime="60"/>
     <monster name="Ghastly Dragon" x="0" y="20" z="14" spawntime="15"/>
+    <monster name="Ghastly Dragon" x="17" y="21" z="14" spawntime="60"/>
     <monster name="Ghastly Dragon" x="-11" y="23" z="14" spawntime="60"/>
     <monster name="Ghastly Dragon" x="-14" y="25" z="14" spawntime="256"/>
     <monster name="Ghastly Dragon" x="-13" y="25" z="14" spawntime="256"/>
     <monster name="Ghastly Dragon" x="-14" y="26" z="14" spawntime="60"/>
     <monster name="Ghastly Dragon" x="-17" y="27" z="14" spawntime="60"/>
-    <monster name="Ghastly Dragon" x="18" y="27" z="14" spawntime="15"/>
-    <monster name="Ghastly Dragon" x="-27" y="28" z="14" spawntime="15"/>
+    <monster name="Ghastly Dragon" x="18" y="27" z="14" spawntime="60"/>
+    <monster name="Ghastly Dragon" x="-27" y="28" z="14" spawntime="60"/>
     <monster name="Ghastly Dragon" x="-28" y="30" z="14" spawntime="60"/>
   </spawn>
   <spawn centerx="439" centery="265" centerz="14" radius="30">
     <monster name="Ghastly Dragon" x="0" y="-28" z="14" spawntime="60"/>
-    <monster name="Ghastly Dragon" x="-10" y="-26" z="14" spawntime="15"/>
+    <monster name="Ghastly Dragon" x="-10" y="-26" z="14" spawntime="60"/>
     <monster name="Ghastly Dragon" x="-12" y="-21" z="14" spawntime="60"/>
     <monster name="Ghastly Dragon" x="-13" y="-16" z="14" spawntime="60"/>
     <monster name="Ghastly Dragon" x="-15" y="-10" z="14" spawntime="60"/>
     <monster name="Ghastly Dragon" x="-11" y="-10" z="14" spawntime="60"/>
-    <monster name="Ghastly Dragon" x="-4" y="-9" z="14" spawntime="256"/>
+    <monster name="Ghastly Dragon" x="-4" y="-9" z="14" spawntime="60"/>
     <monster name="Ghastly Dragon" x="-1" y="-9" z="14" spawntime="60"/>
-    <monster name="Ghastly Dragon" x="-13" y="-4" z="14" spawntime="15"/>
-    <monster name="Ghastly Dragon" x="-18" y="7" z="14" spawntime="15"/>
+    <monster name="Ghastly Dragon" x="-13" y="-4" z="14" spawntime="60"/>
+    <monster name="Ghastly Dragon" x="-18" y="7" z="14" spawntime="60"/>
     <monster name="Ghastly Dragon" x="-17" y="16" z="14" spawntime="60"/>
     <monster name="Ghastly Dragon" x="-8" y="16" z="14" spawntime="60"/>
-    <monster name="Ghastly Dragon" x="-7" y="16" z="14" spawntime="256"/>
-    <monster name="Ghastly Dragon" x="-7" y="17" z="14" spawntime="256"/>
+    <monster name="Ghastly Dragon" x="-7" y="16" z="14" spawntime="60"/>
+    <monster name="Ghastly Dragon" x="-7" y="17" z="14" spawntime="60"/>
     <monster name="Ghastly Dragon" x="-15" y="18" z="14" spawntime="60"/>
-    <monster name="Ghastly Dragon" x="-15" y="19" z="14" spawntime="256"/>
-    <monster name="Ghastly Dragon" x="-16" y="22" z="14" spawntime="15"/>
+    <monster name="Ghastly Dragon" x="-15" y="19" z="14" spawntime="60"/>
+    <monster name="Ghastly Dragon" x="-16" y="22" z="14" spawntime="60"/>
     <monster name="Ghastly Dragon" x="0" y="22" z="14" spawntime="60"/>
     <monster name="Ghastly Dragon" x="-16" y="24" z="14" spawntime="60"/>
     <monster name="Ghastly Dragon" x="28" y="28" z="14" spawntime="60"/>
@@ -25561,28 +25506,29 @@
     <monster name="Ghastly Dragon" x="4" y="-3" z="14" spawntime="60"/>
     <monster name="Ghastly Dragon" x="-4" y="-2" z="14" spawntime="60"/>
     <monster name="Ghastly Dragon" x="2" y="-1" z="14" spawntime="15"/>
-    <monster name="Ghastly Dragon" x="27" y="3" z="14" spawntime="256"/>
+    <monster name="Ghastly Dragon" x="27" y="3" z="14" spawntime="60"/>
     <monster name="Ghastly Dragon" x="28" y="3" z="14" spawntime="60"/>
     <monster name="Ghastly Dragon" x="-25" y="4" z="14" spawntime="60"/>
     <monster name="Ghastly Dragon" x="-5" y="5" z="14" spawntime="60"/>
-    <monster name="Ghastly Dragon" x="13" y="8" z="14" spawntime="256"/>
+    <monster name="Ghastly Dragon" x="13" y="8" z="14" spawntime="60"/>
     <monster name="Ghastly Dragon" x="16" y="8" z="14" spawntime="60"/>
     <monster name="Ghastly Dragon" x="-23" y="9" z="14" spawntime="60"/>
-    <monster name="Ghastly Dragon" x="-22" y="9" z="14" spawntime="256"/>
-    <monster name="Ghastly Dragon" x="-7" y="9" z="14" spawntime="256"/>
+    <monster name="Ghastly Dragon" x="-22" y="9" z="14" spawntime="60"/>
+    <monster name="Ghastly Dragon" x="-7" y="9" z="14" spawntime="60"/>
     <monster name="Ghastly Dragon" x="-4" y="9" z="14" spawntime="60"/>
-    <monster name="Ghastly Dragon" x="14" y="9" z="14" spawntime="15"/>
-    <monster name="Ghastly Dragon" x="-23" y="10" z="14" spawntime="15"/>
-    <monster name="Ghastly Dragon" x="-8" y="10" z="14" spawntime="256"/>
+    <monster name="Ghastly Dragon" x="14" y="9" z="14" spawntime="60"/>
+    <monster name="Ghastly Dragon" x="-23" y="10" z="14" spawntime="60"/>
+    <monster name="Ghastly Dragon" x="-8" y="10" z="14" spawntime="60"/>
     <monster name="Ghastly Dragon" x="-7" y="10" z="14" spawntime="60"/>
     <monster name="Ghastly Dragon" x="0" y="11" z="14" spawntime="60"/>
     <monster name="Ghastly Dragon" x="10" y="11" z="14" spawntime="60"/>
   </spawn>
   <spawn centerx="460" centery="302" centerz="14" radius="30">
-    <monster name="Ghastly Dragon" x="21" y="-7" z="14" spawntime="256"/>
+    <monster name="Ghastly Dragon" x="28" y="-10" z="14" spawntime="60"/>
+    <monster name="Ghastly Dragon" x="21" y="-7" z="14" spawntime="60"/>
     <monster name="Ghastly Dragon" x="21" y="-6" z="14" spawntime="60"/>
     <monster name="Ghastly Dragon" x="26" y="-5" z="14" spawntime="60"/>
-    <monster name="Ghastly Dragon" x="23" y="-3" z="14" spawntime="15"/>
+    <monster name="Ghastly Dragon" x="23" y="-3" z="14" spawntime="60"/>
     <monster name="Ghastly Dragon" x="27" y="-2" z="14" spawntime="60"/>
     <monster name="Ghastly Dragon" x="28" y="-1" z="14" spawntime="60"/>
   </spawn>

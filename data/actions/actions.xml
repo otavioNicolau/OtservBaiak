@@ -31,7 +31,6 @@
 	<!-- Tools -->
 	<action itemid="2420" script="tools/machete.lua"/>
 	<action itemid="2345" script="spy.lua"/>
-	<action itemid="8844" script="item.lua"/>
 	<action itemid="2550" script="tools/scythe.lua"/>
 	<action itemid="2580" script="tools/fishing.lua" allowfaruse="1"/>
 	<action itemid="2554" script="tools/shovel.lua"/>
@@ -313,7 +312,6 @@
 
 	<action uniqueid="2000" script="switchdemon.lua" />
 	<action uniqueid="1550" script="paredered.lua" />
-	<action uniqueid="1551" script="parederedd.lua" />
 	<action uniqueid="1559" script="questred.lua" />
 	<action uniqueid="1552" script="questala1.lua" />
 	<action uniqueid="1553" script="questala2.lua" />
@@ -354,7 +352,6 @@
 
 	<action uniqueid="3002" script="fullset.lua" />
 	<action uniqueid="3003" script="fullset2.lua" />
-	<action itemid="2281" script="mfrune.lua" allowfaruse="1" blockwalls="0" />
 
 	<action uniqueid="5058" script="pitschest.lua" />
 	<action uniqueid="5059" script="pitschest.lua" />
@@ -430,13 +427,13 @@
 
 	<action fromid="9268" toid="9269" script="other/doors.lua"/>
 
-	<!--<action itemid="2146" script="other/enchant.lua" /> 
-	<action itemid="2147" script="other/enchant.lua" />-->
+	<action itemid="2146" script="other/enchant.lua" /> 
+	<action itemid="2147" script="other/enchant.lua" />
 	<action itemid="2150" script="other/enchant.lua" />
 	<action itemid="2149" script="other/enchant.lua" />
 
-	<!-- <action itemid="7759" script="other/enchant.lua" /> 
-	<action itemid="7760" script="other/enchant.lua" />-->
+	<action itemid="7759" script="other/enchant.lua" /> 
+	<action itemid="7760" script="other/enchant.lua" />
 	<action itemid="7761" script="other/enchant.lua" />
 	<action itemid="7762" script="other/enchant.lua" />
 

@@ -1,6 +1,0 @@
-para adicionar double xp a guild o adm deve executar simples comando
-
-Como Usar:
-/ge nome da guild,o tanto de extra de exp, tempo
-
-/ge SkyDangerous,20,500

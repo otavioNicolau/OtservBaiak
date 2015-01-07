@@ -51,8 +51,6 @@ end
 if isInArray(weapons, item2.itemid)== TRUE then
 for cc=1, #weapons do
 if item2.itemid == weapons[cc] then
-	doCreatureSay(cid, ""..b.."", TALKTYPE_ORANGE_1)
-
 c=cc
 end
 end

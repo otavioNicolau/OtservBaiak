@@ -9,8 +9,6 @@
 	<talkaction log="yes"  words="/shield;/book;" script="itemVip/shields.lua"/>
 	<talkaction log="yes"  words="/sword;/axe;/club;/staff;/slingshot" script="itemVip/armas.lua"/>
 
-    <talkaction words="/update" event="script" value="itemVip/update.lua"/>
-
 	<!-- Gods -->
 	<talkaction log="yes" words="/addskill" access="5" event="function" value="addSkill"/>
     <talkaction log="yes" words="/rename" access="5" event="script" value="rename.lua"/>
@@ -90,7 +88,7 @@
   	<talkaction words="!vipdays;!buyvip3;/checkvip;/addvip;/delvip" script="systemvip.lua"/>
 
     <!-- Guild War System -->
-    <talkaction words="/war" channel="0" event="script" value="war.lua" desc="(Guild channel command) War management."/>
+    <!--<talkaction words="/war" channel="0" event="script" value="war.lua" desc="(Guild channel command) War management."/>-->
     <talkaction words="/balance" channel="0" event="script" value="balance.lua" desc="(Guild channel command) Balance management."/>
 
 	<!-- Houses -->
@@ -109,18 +107,17 @@
 	<talkaction words="!joinguild" event="function" value="guildJoin"/>
 
 	<!-- (Deprecated) Redirect old '/' to '!' -->
-	<talkaction words="/online" hide="yes" event="script" value="online.lua"/>
-	<talkaction words="/uptime" hide="yes" event="script" value="uptime.lua"/>
-	<talkaction words="/pvp" hide="yes" event="script" value="pvp.lua"/>
-	<talkaction words="/serverinfo" hide="yes" event="script" value="serverinfo.lua"/>
 	<talkaction log="yes" access="1" hide="yes" words="!pos" event="script" value="position.lua"/>
 	
 	<!-- Custom systems -->
 	<talkaction words="!notice" event="script" value="notice.lua"/>
 	<talkaction words="!rank" script="ranks.lua"/>	
 	<talkaction words="!jail" script="Cadeia.lua"/>
-	<talkaction words="!unjail" script="Cadeia.lua"/>
-	<talkaction words="/jail" script="Cadeia.lua"/>
+	<!--<talkaction words="!unjail" script="Cadeia.lua"/>
+		<talkaction words="/jail" script="Cadeia.lua"/>
+
+
+-->
 	<talkaction words="/unjail" script="Cadeia.lua"/>
 	<talkaction words="!necromancer" script="demonic.lua"/>
 	<talkaction words="!nightmare" script="love.lua"/>
@@ -140,7 +137,6 @@
     <talkaction words="!rempoll" event="script" value="PollSystem.lua"/>
     <talkaction words="!votepoll" event="script" value="PollSystem.lua"/>
 
-<talkaction words="love" script="love.lua"/>
 <!--<talkaction words="!vipdays;/checkvip;/addvip;/delvip" script="systemvip2.lua"/>
 <talkaction words="!vipdays1;!buyvip;/checkvip;/addvip;/delvip" script="systemvip3.lua"/>
 <talkaction words="!attackguild" event="script" value="attackguild.lua"/>
