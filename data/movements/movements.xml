@@ -6,6 +6,8 @@
         <movevent type="StepIn" actionid="9998" event="script" value="castlewar2.lua"/>
         <movevent type="StepIn" actionid="9997" event="script" value="guild.lua"/>
         <movevent type="StepIn" actionid="9995" event="script" value="level.lua"/> 
+
+    <movevent type="StepIn" actionid="7779" event="script" value="que rox.lua"/>
         <movevent type="StepIn" actionid="4726;9371" event="script" value="BloodMovement.lua"/>
         <movevent type="StepIn" actionid="63200" event="script" value="CTFMax.lua"/>
         <movevent type="StepIn" actionid="47521" event="script" value="CTFTeleport.lua"/>

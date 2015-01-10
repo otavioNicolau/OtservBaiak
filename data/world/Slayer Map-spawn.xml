@@ -7632,6 +7632,9 @@
     <monster name="Orshabaal" x="-1" y="0" z="7" spawntime="60"/>
     <monster name="Nightmare" x="1" y="0" z="7" spawntime="60"/>
   </spawn>
+  <spawn centerx="179" centery="64" centerz="7" radius="1">
+    <npc name="Updade Seller" x="0" y="1" z="7" spawntime="60"/>
+  </spawn>
   <spawn centerx="101" centery="65" centerz="7" radius="3">
     <monster name="Dragon" x="1" y="2" z="7" spawntime="60"/>
   </spawn>
@@ -7792,9 +7795,6 @@
     <monster name="Demon Vip" x="-1" y="-1" z="7" spawntime="30"/>
     <monster name="Demon Vip" x="1" y="-1" z="7" spawntime="30"/>
     <monster name="Demon Vip" x="0" y="1" z="7" spawntime="30"/>
-  </spawn>
-  <spawn centerx="142" centery="72" centerz="7" radius="1">
-    <npc name="Updade Seller" x="0" y="-1" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="778" centery="72" centerz="7" radius="5"/>
   <spawn centerx="779" centery="72" centerz="7" radius="2"/>
