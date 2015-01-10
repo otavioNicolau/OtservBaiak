@@ -41,6 +41,8 @@ registerCreatureEvent(cid, "tkexp")
 registerCreatureEvent(cid, "castleexp")
 registerCreatureEvent(cid, "CombatDodge")
 registerCreatureEvent(cid, "Idle")
+registerCreatureEvent(cid, "DeathBroadcast")
+registerCreatureEvent(cid, "conected")
 
 registerCreatureEvent(cid, "attackguild")	
 registerCreatureEvent(cid, "advance")

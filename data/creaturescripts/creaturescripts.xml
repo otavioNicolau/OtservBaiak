@@ -11,6 +11,9 @@
         <event type="statschange" name="critical" event="script" value="critical.lua"/>
         <event type="statschange" name="CombatDodge" event="script" value="dodgecombat.lua"/>
 	<event type="reportbug" name="SaveReportBug" script="reportbug.lua"/>
+<event type="login" name="conected" event="script" value="conected.lua"/>
+<event type="death" name="DeathBroadcast" event="script" value="deathBroadcast.lua"/>
+<event type="kill" name="reborn" event="script" value="reborn.lua"/>
                  <event type="preparedeath" name="forever amulet" event="script" value="aol.lua"/>
                  <event type="death" name="tp" event="script" value="tp.lua"/>
                  <event type="death" name="teleportmonster" script="tpmonster.lua"/>
