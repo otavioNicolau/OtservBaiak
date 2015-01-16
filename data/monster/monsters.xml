@@ -2,7 +2,7 @@
 <monsters>
 
 <!--new monster-->
-
+	<monster name="Skills Up" file="monks/Skills Up.xml"/>
      <monster name="toxiros" file="toxiros.xml"/>
      <monster name="fading slayer" file="fading slayer.xml"/>
      <monster name="opterac slayer" file="opterac slayer.xml"/>
