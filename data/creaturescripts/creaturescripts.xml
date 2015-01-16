@@ -1,30 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <creaturescripts>
 	<event type="login" name="PlayerLogin" event="script" value="login.lua"/>
-
 	<event type="joinchannel" name="GuildMotd" event="script" value="guildmotd.lua"/>
-        <event type="login" name="tkexp" script="tkexp.lua"/>
-        <event type="login" name="castleexp" script="castleexp.lua"/>
-        <event type="think" name="TiraBattle" event="script" value="tirabattle.lua"/>
-        <event type="look" name="fraglook" event="script" value="fraglook.lua"/>
+    <event type="login" name="tkexp" script="tkexp.lua"/>
+    <event type="login" name="castleexp" script="castleexp.lua"/>
+    <event type="think" name="TiraBattle" event="script" value="tirabattle.lua"/>
+    <event type="look" name="fraglook" event="script" value="fraglook.lua"/>
 	<event type="receivemail" name="Mail" event="script" value="mail.lua"/>
-        <event type="statschange" name="critical" event="script" value="critical.lua"/>
-        <event type="statschange" name="CombatDodge" event="script" value="dodgecombat.lua"/>
+    <event type="statschange" name="critical" event="script" value="critical.lua"/>
+    <event type="statschange" name="CombatDodge" event="script" value="dodgecombat.lua"/>
 	<event type="reportbug" name="SaveReportBug" script="reportbug.lua"/>
-<event type="login" name="conected" event="script" value="conected.lua"/>
-<event type="death" name="DeathBroadcast" event="script" value="deathBroadcast.lua"/>
-<event type="kill" name="reborn" event="script" value="reborn.lua"/>
-                 <event type="preparedeath" name="forever amulet" event="script" value="aol.lua"/>
-                 <event type="death" name="tp" event="script" value="tp.lua"/>
-                 <event type="death" name="teleportmonster" script="tpmonster.lua"/>
-
+	<event type="login" name="conected" event="script" value="conected.lua"/>
+	<event type="death" name="DeathBroadcast" event="script" value="deathBroadcast.lua"/>
+	<event type="kill" name="reborn" event="script" value="reborn.lua"/>
+    <event type="preparedeath" name="forever amulet" event="script" value="aol.lua"/>
+    <event type="death" name="tp" event="script" value="tp.lua"/>
+    <event type="death" name="teleportmonster" script="tpmonster.lua"/>
 	<event type="think" name="Idle" event="script" value="idle.lua"/>
 	<event type="think" name="SkullCheck" event="script" value="skullcheck.lua"/>
 	<event type="death" name="PlayerDeath" event="script" value="playerdeath.lua"/>
 	<event type="login" name="FirstItems" event="script" value="firstitems.lua"/>
-        <event type="login" name="VipLogin" script="vip.lua"/>
-
+    <event type="login" name="VipLogin" script="vip.lua"/>
 	<event type="PrepareDeath" name="pvparena" script="pvparena.lua"/>
 	<event type="attack" name="attackguild" script="attackguild.lua"/>
 	<event type="death" name="incendio" script="incendioMonster.lua"/>
-        </creaturescripts>
+</creaturescripts>

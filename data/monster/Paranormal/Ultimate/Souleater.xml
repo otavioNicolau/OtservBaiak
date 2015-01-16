@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<monster name="Souleater of Vip" nameDescription="a Souleater" race="venom" experience="4500000" speed="620" manacost="0">
+<monster name="Souleater of Ultimate" nameDescription="a Souleater" race="venom" experience="3500000" speed="620" manacost="0">
 <health now="360000" max="360000"/>
 <look type="355" corpse="6068"/>
 <targetchange interval="5000" chance="12"/>

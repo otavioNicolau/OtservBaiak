@@ -99,7 +99,7 @@
 		<voice sentence="MUAHAHAHAHAHAHAHA! Noob...."/>
 	</voices>
 	<loot>
-		<item id="8298" chance="500"/> -- Demonrage Sword
+		<item id="8298" chance="1000"/> -- Demonrage Sword
 		<item id="8299" chance="500"/> -- Demonrage Sword
 	</loot>
 </monster>
