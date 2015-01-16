@@ -233,12 +233,12 @@ enableCast = true
 	-- Rates
 	-- NOTE: experienceStages configuration is located in data/XML/stages.xml.
 	-- rateExperienceFromPlayers 0 to disable.
-	experienceStages = "no"
-	rateExperience = 5000
+	experienceStages = "yes"
+	rateExperience = 500
 	rateExperienceFromPlayers = 5
 	rateSkill = 100
 	rateMagic = 150
-	rateLoot = 10
+	rateLoot = 5
 	rateSpawn = 1
 
 	-- Monster rates

@@ -1,22 +1,8 @@
 <?xml version="1.0"?>
 <monsters>
 
-
-<!-- Castle Monsters -->
-<monster name="baiak pancada" file="baiak pancada.xml"/>
-        <monster name="Protect Castle" file="castle/protectcastle.xml"/>
-        <monster name="Castle Demon" file="castle/Castle Demon.xml"/>
-        <monster name="Dragon Lord Castle" file="castle/Dragon Lord Castle.xml"/>
-        <monster name="Grim Reaper Caslte" file="castle/Grim Reaper Caslte.xml"/>
-        <monster name="Frost Dragon Castle" file="castle/Frost Dragon Castle.xml"/>
-        <monster name="Hydra Castle" file="castle/Hydra Castle.xml"/>
-        <monster name="Medusa Castle" file="castle/Medusa Castle.xml"/>
-        <monster name="Warlock Castle" file="castle/Warlock Castle.xml"/>
-
-
 <!--new monster-->
 
-<monster name="hellspawn vip" file="hellspawn vip.xml"/>
      <monster name="toxiros" file="toxiros.xml"/>
      <monster name="fading slayer" file="fading slayer.xml"/>
      <monster name="opterac slayer" file="opterac slayer.xml"/>
@@ -32,22 +18,10 @@
      <monster name="belfegor" file="belfegor.xml"/>
      <monster name="hydrophaurus" file="hydrophaurus.xml"/>
 
-    <!-- forgado -->
-	<monster name="warlock supervip" file="warlock supervip.xml"/>
-	<monster name="grim reaper supervip" file="grim reaper supervip.xml"/>
-	<monster name="morgaroth supervip" file="morgaroth supervip.xml"/>
-	<monster name="ghazbaran supervip" file="ghazbaran supervip.xml"/>
-	<monster name="yakotep supervip" file="yakotep supervip.xml"/>
-	<monster name="infernalist supervip" file="infernalist supervip.xml"/>
-	<monster name="hydra supervip" file="hydra supervip.xml"/>
-	<monster name="behemoth supervip" file="behemoth supervip.xml"/>	
+
 
 	<!--8.54-->
-<monster name="barbarian fucked" file="fucked.xml"/>
-    <monster name="daemon" file="daemon.xml"/>
-    <monster name="frost dragon supervip" file="frost dragon supervip.xml"/>
-    <monster name="demon supervip" file="demon supervip.xml"/>
-    <monster name="medusa supervip" file="medusa supervip.xml"/>
+    	<monster name="daemon" file="daemon.xml"/>
         <monster name="Draken Spellweaver" file="8.54/Draken Spellweaver.xml"/>
         <monster name="Draken Warmaster" file="8.54/Draken Warmaster.xml"/>
         <monster name="Gnarlhound" file="8.54/Gnarlhound.xml"/>
@@ -93,10 +67,10 @@
 	<monster name="Triple Medusa" file="Alissow/Triple Medusa.xml"/>
 	
 	<!--8.4-->
-        <monster name="ise" file="8.4/ise.xml"/>
-        <monster name="Freezer" file="8.4/Freezer.xml"/>
-        <monster name="Baby Hades" file="8.4/Baby Hades.xml"/>
-        <monster name="Acid Blob" file="8.4/acid blob.xml"/>
+    <monster name="ise" file="8.4/ise.xml"/>
+    <monster name="Freezer" file="8.4/Freezer.xml"/>
+    <monster name="Baby Hades" file="8.4/Baby Hades.xml"/>
+    <monster name="Acid Blob" file="8.4/acid blob.xml"/>
 	<monster name="Crazed Beggar" file="8.4/Crazed Beggar.xml"/>
 	<monster name="Medusa" file="Medusa.xml"/>
 	<monster name="Damaged worker golem" file="8.4/damaged worker golem.xml"/>
@@ -145,21 +119,13 @@
 	<monster name="Tibia Bug" file="10th anniversary/tibia bug.xml" />
 	<monster name="Undead Minion" file="10th anniversary/undead minion.xml"/>
 
-       <!-- Blood Castle -->
-       <monster name="Guarda do Portao" file="Blood Castle/Guarda do Portao.xml"/>
-       <monster name="Arcanjo" file="Blood Castle/Arcanjo.xml"/>
+
 	
 	<!-- Amazons -->
 	<monster name="Amazon" file="amazons/amazon.xml"/>
 	<monster name="Valkyrie" file="amazons/valkyrie.xml"/>
 	<monster name="Xenia" file="amazons/xenia.xml"/>
 
-        <!-- Master Vip -->
-        <monster name="Master Hydra" file="vips/master hydra.xml"/>
-	<monster name="Master Grim Reaper" file="vips/master grim reaper.xml"/>
-	<monster name="Master Frost Dragon" file="vips/master frost dragon.xml"/>
-<monster name="Master Warlock" file="masters/Master Warlock.xml"/>
-	<monster name="Master Demon" file="vips/master demon.xml"/>
 	
 	<!-- Annelids -->
 	<monster name="Carrion Worm" file="annelids/carrion worm.xml"/>
@@ -314,8 +280,6 @@
 	<monster name="Ungreez" file="demons/Ungreez.xml"/>
 	<monster name="Dark Torturer" file="demons/dark torturer.xml"/>
 	<monster name="Demon" file="demons/demon.xml"/>
-        <monster name="Lord of Demon vip3" file="demons/lord of demon vip3.xml"/>
-        <monster name="Lord of Demon" file="demons/lord of demon.xml"/>
 	<monster name="Destroyer" file="demons/destroyer.xml"/>
 	<monster name="Diabolic Imp" file="demons/diabolic imp.xml"/>
 	<monster name="Fire Devil" file="demons/fire devil.xml"/>
@@ -539,10 +503,6 @@
 	<monster name="The Imperor" file="Poi Bosses/The Imperor.xml" />
 	<monster name="Massacre" file="Poi Bosses/Massacre.xml" />
 
-                  <!--Quest-->
-                  <monster name="Guardian of The Sea" file="Quest/Guardian of The Sea.xml"/>
-                  <monster name="Quara Abominator" file="Quest/Quara Abominator.xml"/>
-                  <monster name="Spirit of Jack" file="Quest/Spirit of Jack.xml"/>
 	
 	<!-- Pyro-elementals -->
 	<monster name="Fire Overlord" file="pyro-elementals/Fire Overlord.xml"/>
@@ -608,7 +568,7 @@
 	<!-- The Ruthless Seven Minions -->
 	<monster name="Annihilon" file="The ruthless seven minions/Annihilon.xml"/>
 	<monster name="Hellgorak" file="The ruthless seven minions/Hellgorak.xml"/>
-<monster name="rift lord" file="The ruthless seven minions/rift lord.xml"/>
+	<monster name="rift lord" file="The ruthless seven minions/rift lord.xml"/>
 	<monster name="Latrivan" file="The ruthless seven minions/Latrivan.xml"/>
 	<monster name="Madareth" file="The ruthless seven minions/Madareth.xml"/>
 	<monster name="Zugurosh" file="The ruthless seven minions/Zugurosh.xml"/>
@@ -619,15 +579,17 @@
 	<monster name="Thornback Tortoise" file="tortoises/thornback tortoise.xml"/>
 	<monster name="Tortoise" file="tortoises/tortoise.xml"/>
 	
+
+
 	<!-- Traps -->
-        <monster name="Deathslicer" file="Traps/deathslicer.xml"/>
-        <monster name="Battle" file="Traps/battle.xml"/>
+    <monster name="Deathslicer" file="Traps/deathslicer.xml"/>
+    <monster name="Battle" file="Traps/battle.xml"/>
 	<monster name="Flamethrower" file="Traps/flamethrower.xml"/>
 	<monster name="Protect Statue" file="Traps/statue.xml"/>
 	<monster name="Castle Gates" file="Traps/castle gates.xml"/>
-        <monster name="Gates One" file="Traps/gates2.xml"/>
-        <monster name="Gates Two" file="Traps/gates1.xml"/>
-        <monster name="Castle" file="Traps/porta.xml"/>
+    <monster name="Gates One" file="Traps/gates2.xml"/>
+    <monster name="Gates Two" file="Traps/gates1.xml"/>
+    <monster name="Castle" file="Traps/porta.xml"/>
 	<monster name="Protect Cube" file="Traps/protectcub.xml"/>
 	<monster name="Magicthrower" file="Traps/magicthrower.xml"/>
 	<monster name="Plaguethrower" file="Traps/plaguethrower.xml"/>
@@ -662,62 +624,90 @@
 	<monster name="Sir valorcrest" file="undead humanoids/sir valorcrest.xml"/>
 	<monster name="Zevelon Duskbringer" file="Undead Humanoids/Zevelon Duskbringer.xml"/>
 
-	<!-- Vip monsters by baiak (Baiak) -->
-	<monster name="demon vip" file="vip/demon vip.xml"/>
-	<monster name="hydra vip" file="vip/hydra vip.xml"/>	
-	<monster name="grim reaper vip" file="vip/grim reaper vip.xml"/>	
-	<monster name="frost dragon vip" file="vip/frost dragon vip.xml"/>
-	<monster name="warlock vip" file="vip/warlock vip.xml"/>
-	<monster name="medusa vip" file="vip/medusa vip.xml"/>
-	<monster name="bossing of baiak" file="vip/bossing of baiak.xml"/>
-	<monster name="ferumbras vip" file="vip/ferumbras vip.xml"/>	
 
-                  <!-- Vips monsters II by Bryaan -->
-	<monster name="demon vip II" file="vips/demon vip ii.xml"/>
-	<monster name="hydra vip II" file="vips/hydra vip ii.xml"/>
-        <monster name="master vip frost dragon" file="vips/master vip frost dragon.xml"/>	
-	<monster name="grim reaper vip II" file="vips/grim reaper vip ii.xml"/>	
-	<monster name="frost dragon vip II" file="vips/frost dragon vip ii.xml"/>
-	<monster name="medusa vip II" file="vips/medusa vip ii.xml"/>	
-                  <monster name="dragon lord vip II" file="vips/dragon lord vip ii.xml"/>	
 
-	<!-- Custom  monsters by EldinWorld (a.k.a Eldin) -->
-	<monster name="Trainedr" file="Custom monsters by eldin/trainer.xml"/>
-	<monster name="Forest Dragon" file="Custom monsters by eldin/forest dragon.xml"/>
-	<monster name="Knight" file="Custom monsters by eldin/knight.xml"/>
-	<monster name="Paladin" file="Custom monsters by eldin/paladin.xml"/>
-	<monster name="Druid" file="Custom monsters by eldin/druid.xml"/>
-	<monster name="Sorcerer" file="Custom monsters by eldin/sorcerer.xml"/>
-	<monster name="Guard" file="Custom monsters by eldin/guard.xml"/>
-	<monster name="Mercenary" file="Custom monsters by eldin/mercenary.xml"/>
-	<monster name="Thief" file="Custom monsters by eldin/thief.xml"/>
-	<monster name="Pyramo" file="Custom monsters by eldin/pyramo.xml"/>
-	<monster name="Lazarus" file="Custom monsters by eldin/lazarus.xml"/>
-	<monster name="Zathroth" file="Custom monsters by eldin/zathroth.xml"/>
-	<monster name="Goshnar" file="Custom monsters by eldin/goshnar.xml"/>
-	<monster name="Durin" file="Custom monsters by eldin/durin.xml"/>
-	<monster name="Demora" file="Custom monsters by eldin/demora.xml"/>
-	<monster name="Orc Champion" file="Custom monsters by eldin/orc champion.xml"/>
-	<monster name="Lumenia" file="Custom monsters by eldin/lumenia.xml"/>
-	<monster name="Dracula" file="Custom monsters by eldin/dracula.xml"/>
-	<monster name="Alezzo" file="Custom monsters by eldin/alezzo.xml"/>
-	<monster name="Prince Almirith" file="Custom monsters by eldin/prince almirith.xml"/>
-	<monster name="Elf Warlord" file="Custom monsters by eldin/elf warlord.xml"/>
-	<monster name="Random Noob" file="Custom monsters by eldin/Random Noob.xml"/>
-    <monster name="Magebomb" file="Custom monsters by eldin/Magebomb.xml"/>
-<monster name="diseased fred" file="outlaws/bandit.xml"/>
+	<!-- MOSTRONS EDITADOS -->
 
-<!-- nando -->
-<monster name="Demon vip3" file="nando/Demon vip3.xml"/>
-<monster name="Apocalypse vip3" file="nando/apocalypse vip3.xml"/>
-<monster name="frost dragon vip3" file="nando/frost dragon vip3.xml"/>
-<monster name="ghoul vip3" file="nando/ghoul vip3.xml"/>
-<monster name="dragon vip3" file="nando/dragon vip3.xml"/>
-<monster name="massacre vip3" file="nando/massacre vip3.xml"/>
-<monster name="ghazbaran vip3" file="nando/ghazbaran vip3.xml"/>
-<monster name="morgaroth vip3" file="nando/morgaroth vip3.xml"/>
-<monster name="abominator vip3" file="nando/abominator vip3.xml"/>
-<monster name="ferumbras vip3" file="nando/ferumbras vip3.xml"/>
-<monster name="dragon lord vip3" file="nando/dragon lord vip3.xml"/>
+
+    <!--Quest-->
+    <monster name="Guardian of The Sea" file="Quest/Guardian of The Sea.xml"/>
+    <monster name="Quara Abominator" file="Quest/Quara Abominator.xml"/>
+    <monster name="Spirit of Jack" file="Quest/Spirit of Jack.xml"/>
+
+
+		<!-- VIP  -->
+	<monster name="demon of vip" file="Paranormal/vip/demon.xml"/>
+	<monster name="warlock of vip" file="Paranormal/vip/warlock.xml"/>
+	<monster name="medusa of vip" file="Paranormal/vip/medusa.xml"/>
+	<monster name="hydra of vip" file="Paranormal/vip/hydra.xml"/>
+	<monster name="frost dragon of vip" file="Paranormal/vip/frost dragon.xml"/>
+	<monster name="grim reaper of vip" file="Paranormal/vip/grim reaper.xml"/>
+	<monster name="orshabaal of vip" file="Paranormal/vip/orshabaal.xml"/>
+	<monster name="ferumbras of vip" file="Paranormal/vip/ferumbras.xml"/>
+	<monster name="hellspawn of vip" file="Paranormal/vip/hellspawn.xml"/> <!-- BOOS -->
+	<monster name="Vampire Bride of vip" file="Paranormal/vip/vampire Bride.xml"/> <!-- BOOS -->
+	<monster name="Souleater of vip" file="Paranormal/vip/souleater.xml"/> <!-- BOOS -->
+
+		<!-- STRONG  -->
+	<monster name="demon of strong" file="Paranormal/strong/demon.xml"/>
+	<monster name="warlock of strong" file="Paranormal/strong/warlock.xml"/>
+ 	<monster name="medusa of strong" file="Paranormal/strong/medusa.xml"/>
+	<monster name="hydra of strong" file="Paranormal/strong/hydra.xml"/>
+	<monster name="frost dragon of strong" file="Paranormal/strong/frost dragon.xml"/>
+	<monster name="grim reaper of strong" file="Paranormal/strong/grim reaper.xml"/>
+	<monster name="orshabaal of strong" file="Paranormal/strong/orshabaal.xml"/>
+	<monster name="ferumbras of strong" file="Paranormal/strong/ferumbras.xml"/>
+	<monster name="hellspawn of strong" file="Paranormal/strong/hellspawn.xml"/> <!-- BOOS -->
+
+
+		<!-- GREAT  -->
+	<monster name="demon of great" file="Paranormal/great/demon.xml"/>
+	<monster name="warlock of great" file="Paranormal/great/warlock.xml"/>
+	<monster name="medusa of great" file="Paranormal/great/medusa.xml"/>
+	<monster name="hydra of great" file="Paranormal/great/hydra.xml"/>
+	<monster name="frost dragon of great" file="Paranormal/great/frost dragon.xml"/>
+	<monster name="grim reaper of great" file="Paranormal/great/grim reaper.xml"/>
+	<monster name="orshabaal of great" file="Paranormal/great/orshabaal.xml"/>
+	<monster name="ferumbras of great" file="Paranormal/great/ferumbras.xml"/>
+	
+	<monster name="hellspawn of great" file="Paranormal/great/hellspawn.xml"/><!-- BOOS -->
+	<monster name="Vampire Bride of great" file="Paranormal/great/vampire Bride.xml"/><!-- BOOS -->
+
+
+		<!-- ULTIMATE  -->
+	<monster name="demon of ultimate" file="Paranormal/ultimate/demon.xml"/>
+	<monster name="warlock of ultimate" file="Paranormal/ultimate/warlock.xml"/>
+	<monster name="medusa of ultimate" file="Paranormal/ultimate/medusa.xml"/>
+	<monster name="hydra of ultimate" file="Paranormal/ultimate/hydra.xml"/>
+	<monster name="frost dragon of ultimate" file="Paranormal/ultimate/frost dragon.xml"/>
+	<monster name="grim reaper of ultimate" file="Paranormal/ultimate/grim reaper.xml"/>
+	<monster name="orshabaal of ultimate" file="Paranormal/ultimate/orshabaal.xml"/>
+	<monster name="ferumbras of ultimate" file="Paranormal/ultimate/ferumbras.xml"/>
+	
+	<monster name="hellspawn of ultimate" file="Paranormal/ultimate/hellspawn.xml"/><!-- BOOS -->
+	<monster name="Vampire Bride of ultimate" file="Paranormal/ultimate/vampire Bride.xml"/><!-- BOOS -->
+
+
+
+
+
+    <!-- Blood Castle -->
+    <monster name="Guarda do Portao" file="Blood Castle/Guarda do Portao.xml"/>
+    <monster name="Arcanjo" file="Blood Castle/Arcanjo.xml"/>
+
+
+	<!-- Castle Monsters -->
+	<monster name="baiak pancada" file="baiak pancada.xml"/>
+    <monster name="Protect Castle" file="castle/protectcastle.xml"/>
+    <monster name="Castle Demon" file="castle/Castle Demon.xml"/>
+    <monster name="Dragon Lord Castle" file="castle/Dragon Lord Castle.xml"/>
+    <monster name="Grim Reaper Caslte" file="castle/Grim Reaper Caslte.xml"/>
+    <monster name="Frost Dragon Castle" file="castle/Frost Dragon Castle.xml"/>
+    <monster name="Hydra Castle" file="castle/Hydra Castle.xml"/>
+    <monster name="Medusa Castle" file="castle/Medusa Castle.xml"/>
+    <monster name="Warlock Castle" file="castle/Warlock Castle.xml"/>
+
+
+
 </monsters>
 
