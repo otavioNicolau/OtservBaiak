@@ -88,7 +88,6 @@
   	<talkaction words="!vipdays;!buyvip3;/checkvip;/addvip;/delvip" script="systemvip.lua"/>
 
     <!-- Guild War System -->
-    <!--<talkaction words="/war" channel="0" event="script" value="war.lua" desc="(Guild channel command) War management."/>-->
     <talkaction words="/balance" channel="0" event="script" value="balance.lua" desc="(Guild channel command) Balance management."/>
 
 	<!-- Houses -->
@@ -113,11 +112,7 @@
 	<talkaction words="!notice" event="script" value="notice.lua"/>
 	<talkaction words="!rank" script="ranks.lua"/>	
 	<talkaction words="!jail" script="Cadeia.lua"/>
-	<!--<talkaction words="!unjail" script="Cadeia.lua"/>
-		<talkaction words="/jail" script="Cadeia.lua"/>
 
-
--->
 	<talkaction words="/unjail" script="Cadeia.lua"/>
 	<talkaction words="!necromancer" script="demonic.lua"/>
 	<talkaction words="!nightmare" script="love.lua"/>

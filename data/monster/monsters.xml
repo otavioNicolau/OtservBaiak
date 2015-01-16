@@ -686,6 +686,7 @@
 	
 	<monster name="hellspawn of ultimate" file="Paranormal/ultimate/hellspawn.xml"/><!-- BOOS -->
 	<monster name="Vampire Bride of ultimate" file="Paranormal/ultimate/vampire Bride.xml"/><!-- BOOS -->
+	<monster name="Souleater of ultimate" file="Paranormal/ultimate/souleater.xml"/> <!-- BOOS -->
 
 
 
