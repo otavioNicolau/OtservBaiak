@@ -7791,13 +7791,30 @@
     <monster name="Demon Vip" x="1" y="-1" z="7" spawntime="30"/>
     <monster name="Demon Vip" x="0" y="1" z="7" spawntime="30"/>
   </spawn>
+  <spawn centerx="148" centery="72" centerz="7" radius="5">
+    <monster name="Behemoth" x="-2" y="0" z="7" spawntime="60"/>
+    <monster name="Ferumbras" x="0" y="0" z="7" spawntime="60"/>
+    <monster name="Hellspawn" x="2" y="0" z="7" spawntime="60"/>
+    <monster name="Demon" x="4" y="0" z="7" spawntime="60"/>
+  </spawn>
+  <spawn centerx="156" centery="72" centerz="7" radius="5">
+    <monster name="Warlock" x="-2" y="0" z="7" spawntime="60"/>
+    <monster name="Frost Dragon" x="0" y="0" z="7" spawntime="60"/>
+    <monster name="Fury" x="2" y="0" z="7" spawntime="60"/>
+    <monster name="Plaguesmith" x="4" y="0" z="7" spawntime="60"/>
+  </spawn>
+  <spawn centerx="164" centery="72" centerz="7" radius="5">
+    <monster name="Demon" x="4" y="-2" z="7" spawntime="60"/>
+    <monster name="Medusa" x="-2" y="0" z="7" spawntime="60"/>
+    <monster name="Frost Dragon" x="0" y="0" z="7" spawntime="60"/>
+    <monster name="Nightmare" x="2" y="0" z="7" spawntime="60"/>
+    <monster name="Hydra" x="4" y="0" z="7" spawntime="60"/>
+  </spawn>
   <spawn centerx="172" centery="72" centerz="7" radius="5">
-    <monster name="Demon" x="-4" y="-2" z="7" spawntime="60"/>
     <monster name="Demon" x="-2" y="-2" z="7" spawntime="60"/>
     <monster name="Grim Reaper" x="0" y="-2" z="7" spawntime="60"/>
     <monster name="Hellgorak" x="2" y="-2" z="7" spawntime="60"/>
     <monster name="Frost Dragon" x="4" y="-2" z="7" spawntime="60"/>
-    <monster name="Hydra" x="-4" y="0" z="7" spawntime="60"/>
     <monster name="Hydra" x="-2" y="0" z="7" spawntime="60"/>
     <monster name="Demon" x="0" y="0" z="7" spawntime="60"/>
     <monster name="Diabolic Imp" x="2" y="0" z="7" spawntime="60"/>
