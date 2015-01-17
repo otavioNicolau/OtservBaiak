@@ -3,17 +3,17 @@
 	<!-- Decaying tiles -->
 	<movevent type="StepIn" itemid="293" event="script" value="decay.lua"/>
 	<movevent type="StepIn" itemid="461" event="script" value="decay.lua"/>      
-        <movevent type="StepIn" actionid="9998" event="script" value="castlewar2.lua"/>
-        <movevent type="StepIn" actionid="9997" event="script" value="guild.lua"/>
-        <movevent type="StepIn" actionid="9995" event="script" value="level.lua"/> 
+    <movevent type="StepIn" actionid="9998" event="script" value="castlewar2.lua"/>
+    <movevent type="StepIn" actionid="9997" event="script" value="guild.lua"/>
+    <movevent type="StepIn" actionid="9995" event="script" value="level.lua"/> 
 
     <movevent type="StepIn" actionid="7779" event="script" value="que rox.lua"/>
-        <movevent type="StepIn" actionid="4726;9371" event="script" value="BloodMovement.lua"/>
-        <movevent type="StepIn" actionid="63200" event="script" value="CTFMax.lua"/>
-        <movevent type="StepIn" actionid="47521" event="script" value="CTFTeleport.lua"/>
-        <movevent type="StepIn" actionid="13500" event="script" value="epicvip.lua"/>
-        <movevent type="StepIn" actionid="45000" event="script" value="BattleMovements.lua"/>
-        <movevent type="StepIn" actionid="5540" event="script" value="citywarMovements.lua"/>
+    <movevent type="StepIn" actionid="4726;9371" event="script" value="BloodMovement.lua"/>
+    <movevent type="StepIn" actionid="63200" event="script" value="CTFMax.lua"/>
+    <movevent type="StepIn" actionid="47521" event="script" value="CTFTeleport.lua"/>
+    <movevent type="StepIn" actionid="13500" event="script" value="epicvip.lua"/>
+    <movevent type="StepIn" actionid="45000" event="script" value="BattleMovements.lua"/>
+    <movevent type="StepIn" actionid="5540" event="script" value="citywarMovements.lua"/>
 
 	<!-- Swimming -->
 	<movevent type="StepIn" itemid="4828-4831" event="script" value="swimming.lua"/>
@@ -352,13 +352,13 @@
 	<movevent type="DeEquip" itemid="7889" slot="necklace" event="function" value="onDeEquipItem"/>
 	<movevent type="Equip" itemid="7890" slot="necklace" event="function" value="onEquipItem">
 		<vocation id="1"/>
-                                   	<vocation id="5" showInDescription="0"/>
+       	<vocation id="5" showInDescription="0"/>
 		<vocation id="2"/>
-                                 	<vocation id="6" showInDescription="0"/>
-                                   <vocation id="4"/>
-                                   <vocation id="3"/>
-                                   <vocation id="7" showInDescription="0"/>
-                                   <vocation id="8" showInDescription="0"/>
+     	<vocation id="6" showInDescription="0"/>
+        <vocation id="4"/>
+        <vocation id="3"/>
+        <vocation id="7" showInDescription="0"/>
+        <vocation id="8" showInDescription="0"/>
 	</movevent>
 	<movevent type="DeEquip" itemid="7890" slot="necklace" event="function" value="onDeEquipItem"/>
 	<movevent type="Equip" fromid="10018" toid="10021" slot="necklace" level="80" event="function" value="onEquipItem"/>
@@ -396,10 +396,10 @@
 	<movevent type="DeEquip" itemid="2215" slot="ring" event="function" value="onDeEquipItem"/>
 	<movevent type="Equip" itemid="2214" slot="ring" event="function" value="onEquipItem"/>
 	<movevent type="Equip" itemid="2216" slot="ring" event="function" value="onEquipItem"/>
-                  <movevent type="Equip" itemid="12618" event="function" value="OnEquipItem"/>
-                  <movevent type="DeEquip" itemid="12618" event="function" value="OnDeEquipItem"/>
-                  <movevent type="Equip" itemid="3972" event="function" value="OnEquipItem"/>
-                  <movevent type="DeEquip" itemid="3972" event="function" value="OnDeEquipItem"/>
+    <movevent type="Equip" itemid="12618" event="function" value="OnEquipItem"/>
+    <movevent type="DeEquip" itemid="12618" event="function" value="OnDeEquipItem"/>
+    <movevent type="Equip" itemid="3972" event="function" value="OnEquipItem"/>
+    <movevent type="DeEquip" itemid="3972" event="function" value="OnDeEquipItem"/>
 	<movevent type="DeEquip" itemid="2216" slot="ring" event="function" value="onDeEquipItem"/>
 	<movevent type="Equip" itemid="6300" slot="ring" event="function" value="onEquipItem"/>
 	<movevent type="Equip" itemid="6301" slot="ring" event="function" value="onEquipItem"/>
@@ -441,8 +441,8 @@
 	<movevent type="Equip" itemid="7903" slot="head" event="function" value="onEquipItem">
 		<vocation id="1"/>
 		<vocation id="2"/>
-                <vocation id="5"/>
-                <vocation id="6"/>
+      	<vocation id="5"/>
+      	<vocation id="6"/>
 	</movevent>
 	<movevent type="DeEquip" itemid="7903" slot="head" event="function" value="onDeEquipItem"/>
 	<movevent type="Equip" itemid="8820" slot="head" event="function" value="onEquipItem">
@@ -530,8 +530,8 @@
 	<movevent type="Equip" itemid="7898" slot="armor" level="50" event="function" value="onEquipItem">
 		<vocation id="1"/>
 		<vocation id="2"/>
-                <vocation id="5"/>
-                <vocation id="6"/>
+     	<vocation id="5"/>
+     	<vocation id="6"/>
 	</movevent>
 	<movevent type="DeEquip" itemid="7898" slot="armor" event="function" value="onDeEquipItem"/>
 	<movevent type="Equip" itemid="7899" slot="armor" level="50" event="function" value="onEquipItem">
