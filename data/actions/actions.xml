@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <actions>
 
-	<!-- vip  940, 941, 943-->
-
 	<!-- strong pra ultimate -->
 	<action itemid="8298" script="vipitem/update1.lua" />
 	<!-- strong para geath -->
@@ -10,7 +8,6 @@
 	<!-- great para ultimate -->
 	<action itemid="8299" script="vipitem/update2.lua" />
 	
-
 
 	<!-- Quests -->
 	<action actionid="2000" script="quests/system.lua"/>
