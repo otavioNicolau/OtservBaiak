@@ -45,7 +45,7 @@ registerCreatureEvent(cid, "CombatDodge")
 registerCreatureEvent(cid, "Idle")
 registerCreatureEvent(cid, "DeathBroadcast")
 registerCreatureEvent(cid, "conected")
-
+registerCreatureEvent(cid, "Effect")
 registerCreatureEvent(cid, "attackguild")	
 registerCreatureEvent(cid, "advance")
 registerCreatureEvent(cid, "FimVip")

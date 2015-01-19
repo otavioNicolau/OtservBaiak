@@ -6,6 +6,7 @@
     <event type="login" name="castleexp" script="castleexp.lua"/>
     <event type="think" name="TiraBattle" event="script" value="tirabattle.lua"/>
     <event type="look" name="fraglook" event="script" value="fraglook.lua"/>
+<event type="login" name="Effect" event="script" value="effect.lua"/>
 	<event type="receivemail" name="Mail" event="script" value="mail.lua"/>
     <event type="statschange" name="critical" event="script" value="critical.lua"/>
     <event type="statschange" name="CombatDodge" event="script" value="dodgecombat.lua"/>
