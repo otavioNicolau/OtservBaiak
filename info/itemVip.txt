@@ -1,0 +1,33 @@
+    VIP SYSTEM
+
+O BAIAK PARANORMAL TEM UM SISTEMA DE VIP TOTALMENTE REFORMULADO!   	
+
+- ITEM SYSTEM POR CATEGORIA:
+
+    Existe três categorias de item vip: STRONG , GREAT E ULTIMATE.
+    STRONG: level 1,
+    GREAT:  level 500,
+    ULTIMATE: Level 750+
+
+
+- COMO MUDAR DE CATEGORIA?
+    No Jogo Existe três pedras magica muito rara, cada uma é protegida por um guardião,
+    Eles são extremamente forte, para obter as pedras é necessário derrota-lo pôs eles a protegem
+    por toda a sua vida. Essa pedra é necessária para mudar a categoria de seu item vip.
+
+
+- PEDRA MAGICA:
+
+   O Player ao estar apto com todos os requerimentos necessários, 
+   ele poderá usa a pedra especifica no item, para aprimorar a categoria do mesmo.
+
+
+- TROCA DE ITENS
+
+   TODOS OS ITENS VIP PODEM SER TROCADO POR OUTRO DO MESMO TIPO E DA MESMA CATEGORIA. 
+   APENAS FALE O COMANDO: /TYPE 
+   EX: /sword, /armor e etc...
+
+
+
+     Att ADM PARANORMAL
