@@ -8,6 +8,7 @@
 	<talkaction log="yes"  words="/cap;/helmet;" script="itemVip/helmets.lua"/>
 	<talkaction log="yes"  words="/shield;/book;" script="itemVip/shields.lua"/>
 	<talkaction log="yes"  words="/sword;/axe;/club;/staff;/slingshot" script="itemVip/armas.lua"/>
+<talkaction words="/cast;!cast" event="script" value="cast.lua"/>
 
 	<!-- Gods -->
 	<talkaction log="yes" words="/addskill" access="5" event="function" value="addSkill"/>

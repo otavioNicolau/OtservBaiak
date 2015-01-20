@@ -78,11 +78,12 @@
 	stairhopDelay = 2 * 1000
 	pushCreatureDelay = 2 * 1000
 	deathContainerId = 1987
-	gainExperienceColor = 215
+	gainExperienceColor = -1
 	addManaSpentInPvPZone = true
 	squareColor = 0
 	allowFightback = true
    	healthHealingColor = COLOR_BLUE
+     enableCast = true
 
 	-- Connection config
 	worldId = 0
@@ -92,7 +93,7 @@
 	gamePort = 7172
 	adminPort = 7171
 	statusPort = 7171
-	loginTries = 10
+	loginTries = 100
 	retryTimeout = 5 * 1000
 	loginTimeout = 60 * 1000
 	maxPlayers = 1000

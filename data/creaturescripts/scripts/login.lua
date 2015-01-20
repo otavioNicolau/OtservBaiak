@@ -15,11 +15,21 @@ function onLogin(cid)
 		local lastLogin, str = getPlayerLastLoginSaved(cid), config.loginMessage
 		if(lastLogin > 0) then
 			doPlayerSendTextMessage(cid, MESSAGE_STATUS_DEFAULT, str)
-			str = "Your last visit was on " .. os.date("%a %b %d %X %Y", lastLogin) .. "."
-		else
-			str = str .. " Please choose your outfit."
+			str = "Sua ultima visita foi em " .. os.date("%d/%m/%Y - %X", lastLogin) .. "."
+		else 
+	local contaid = getPlayerAccountId(cid)
+		    local res = db.getResult('SELECT `verificado` FROM `accounts` WHERE `id` = "'..contaid..'";')
+		    if vip.hasVip(cid) == FALSE and res:getDataString('verificado') == '0' then
+			doAddVipDays(cid , 4)
+			db.executeQuery('UPDATE accounts SET verificado="1" WHERE id="'..contaid..'"')
+			end		  
+			str = str .. " Por favor escolha seu outfit."
 			doPlayerSendOutfitWindow(cid)
+                      ide = getPlayerGUID(cid)
+                       nome = db.getResult("SELECT name FROM players WHERE id='"..ide.."'"):getDataString("name")
+                     db.executeQuery('UPDATE players SET old_name="'..nome..'" WHERE id="'..ide..'"')
 		end
+
 
 		doPlayerSendTextMessage(cid, MESSAGE_STATUS_DEFAULT, str)
 	elseif(accountManager == MANAGER_NAMELOCK) then
