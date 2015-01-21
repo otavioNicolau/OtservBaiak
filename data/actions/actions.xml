@@ -1,6 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <actions>
 
+    <!-- bomberman -->
+
+<action uniqueid="11111" event="script" value="bomberman.lua" />
+<action uniqueid="3019" event="script" value="House teleport scroll.lua" />
+
+<!-- Fontain healing -->
+     <action itemid="6390" event="script" value="fountain.lua"/>
+
+     <!-- Rune shop -->
+	<action uniqueid="7000" script="Shop system/runes.lua" />
+	<action uniqueid="7001" script="Shop system/runes.lua" />
+	<action uniqueid="7002" script="Shop system/runes.lua" />
+	<action uniqueid="7003" script="Shop system/runes.lua" />
+	<action uniqueid="7004" script="Shop system/runes.lua" />
+	<action uniqueid="7005" script="Shop system/runes.lua" />
+	<action uniqueid="7006" script="Shop system/runes.lua" />
+	<action uniqueid="7007" script="Shop system/runes.lua" />
+	<action uniqueid="7008" script="Shop system/aol.lua" />
+
 	<!-- strong pra ultimate -->
 	<action itemid="8298" script="vipitem/update1.lua" />
 	<!-- strong para geath -->

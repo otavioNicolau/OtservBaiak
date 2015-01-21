@@ -59,10 +59,11 @@ registerCreatureEvent(cid, "Effect")
 registerCreatureEvent(cid, "attackguild")	
 registerCreatureEvent(cid, "advance")
 registerCreatureEvent(cid, "FimVip")
-
+registerCreatureEvent(cid, "AdvanceSave")
+registerCreatureEvent(cid, "Advance")
 registerCreatureEvent(cid, "forever amulet")
 registerCreatureEvent(cid, "SkullCheck")
-	registerCreatureEvent(cid, "ReportBug")
+registerCreatureEvent(cid, "ReportBug")
 
 registerCreatureEvent(cid, VipReceive)
 registerCreatureEvent(cid, "PlayerKill")
