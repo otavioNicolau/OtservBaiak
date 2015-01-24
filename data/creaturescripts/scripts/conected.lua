@@ -15,12 +15,11 @@ doPlayerSendTextMessage(cid,MESSAGE_STATUS_CONSOLE_RED, "Suas Informacoes:" ..
 			    "\nLevel: " .. getPlayerLevel(cid) ..
 			    "\nMagic Level: "..getPlayerMagLevel(cid)..
 			    "\nVocation: " .. getVocationInfo(getPlayerVocation(cid)).name ..")")
-	    doPlayerSendTextMessage(cid, MESSAGE_STATUS_CONSOLE_BLUE, "You have " .. getPlayerMoney(cid) .. " gold in your backpack.")
-doPlayerSendTextMessage(cid, MESSAGE_STATUS_CONSOLE_ORANGE, "Your account balance is " .. getPlayerBalance(cid) .. ".")
-doCreatureAddHealth(cid,1000000)
-doPlayerAddMana(cid,1000000)
+	    doPlayerSendTextMessage(cid, MESSAGE_STATUS_CONSOLE_BLUE, "voce tem " .. getPlayerMoney(cid) .. " gold(s) na sua backpack.")
+doPlayerSendTextMessage(cid, MESSAGE_STATUS_CONSOLE_ORANGE, "Seu balance e de " .. getPlayerBalance(cid) .. ".")
+doCreatureAddHealth(cid,10000)
+doPlayerAddMana(cid,10000)
 doPlayerSendTextMessage(cid, 27, getPlayerName(cid) .. " completou " .. #feitas .. "/" .. #quests .. " quests.")
-doBroadcastMessage(getPlayerName(cid) .. " [" .. getPlayerLevel(cid) .. "]: ENTREI!", MESSAGE_INFO_DESCR)
 file = io.open('info/noticias.txt','r')
 notice = file:read(-1)
 doPlayerPopupFYI(cid,notice)

@@ -35,15 +35,24 @@
 	</wand>
 	<wand id="7735" range="10" lvl="8" mana="35" enabled="1" exhaustion="0" script="roxstaff.lua">
 		<vocation id="1"/>
-                <vocation id="2"/>
+        <vocation id="2"/>
 		<vocation id="5"/>
 		<vocation id="6"/>
+		<vocation id="9"/>
+        <vocation id="10"/>
+		<vocation id="13"/>
+		<vocation id="14"/>
         </wand>
+
 	<wand id="7414" range="10" lvl="8" mana="25" enabled="1" exhaustion="0" script="hyperstaff.lua">
 		<vocation id="1"/>
-                <vocation id="2"/>
+        <vocation id="2"/>
 		<vocation id="5"/>
 		<vocation id="6"/>
+		<vocation id="9"/>
+        <vocation id="10"/>
+		<vocation id="13"/>
+		<vocation id="14"/>
 	</wand>
 	<wand id="2437" level="1" mana="1" min="100" max="150" type="holy" event="function" value="default"> <!-- staff Al Vocation -->
 		<vocation id="2"/>
@@ -54,6 +63,14 @@
 		<vocation id="6"/>
 		<vocation id="7"/>
 		<vocation id="8"/>
+		<vocation id="9"/>
+		<vocation id="10"/>
+		<vocation id="11"/>
+		<vocation id="12"/>
+		<vocation id="13"/>
+		<vocation id="14"/>
+		<vocation id="15"/>
+		<vocation id="16"/>
 	</wand>
 
 	<!-- Wands -->
