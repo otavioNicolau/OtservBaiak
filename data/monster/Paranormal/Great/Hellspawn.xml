@@ -80,4 +80,7 @@
 	<loot>
 		 <item id="8298" chance="800"/> -- Demonrage Sword
 	</loot>
+<script>
+<event name="teleportmonster"/>
+</script>
 </monster>

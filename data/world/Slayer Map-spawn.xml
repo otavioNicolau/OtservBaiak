@@ -3329,11 +3329,11 @@
     <monster name="Apocalypse" x="4" y="3" z="5" spawntime="60"/>
   </spawn>
   <spawn centerx="1312" centery="20" centerz="5" radius="5"/>
-  <spawn centerx="128" centery="47" centerz="5" radius="5">
-    <npc name="Rashid" x="1" y="0" z="5" spawntime="60"/>
+  <spawn centerx="123" centery="48" centerz="5" radius="1">
+    <npc name="Paladin Seller" x="0" y="0" z="5" spawntime="10"/>
   </spawn>
-  <spawn centerx="120" centery="48" centerz="5" radius="1">
-    <npc name="Perac" x="0" y="0" z="5" spawntime="60"/>
+  <spawn centerx="133" centery="51" centerz="5" radius="2">
+    <npc name="Obi" x="-1" y="1" z="5" spawntime="60"/>
   </spawn>
   <spawn centerx="1050" centery="51" centerz="5" radius="30">
     <monster name="Dragon Lord" x="24" y="-18" z="5" spawntime="30"/>
@@ -3351,8 +3351,8 @@
     <monster name="Dragon" x="28" y="26" z="5" spawntime="30"/>
     <monster name="Dragon" x="5" y="27" z="5" spawntime="30"/>
   </spawn>
-  <spawn centerx="121" centery="57" centerz="5" radius="5">
-    <npc name="Mad" x="1" y="0" z="5" spawntime="60"/>
+  <spawn centerx="123" centery="55" centerz="5" radius="1">
+    <npc name="Food Seller" x="0" y="0" z="5" spawntime="10"/>
   </spawn>
   <spawn centerx="1051" centery="57" centerz="5" radius="5"/>
   <spawn centerx="61" centery="59" centerz="5" radius="5">
@@ -4411,8 +4411,8 @@
     <monster name="Dragon" x="-5" y="27" z="6" spawntime="60"/>
     <monster name="Dragon" x="-13" y="29" z="6" spawntime="60"/>
   </spawn>
-  <spawn centerx="130" centery="47" centerz="6" radius="1">
-    <npc name="Dark Rodo" x="-1" y="0" z="6" spawntime="60"/>
+  <spawn centerx="123" centery="48" centerz="6" radius="1">
+    <npc name="Aol Seller" x="0" y="0" z="6" spawntime="10"/>
   </spawn>
   <spawn centerx="1182" centery="48" centerz="6" radius="5">
     <monster name="Nightmare Scion" x="0" y="-1" z="6" spawntime="60"/>
@@ -7580,9 +7580,6 @@
   </spawn>
   <spawn centerx="495" centery="48" centerz="7" radius="10"/>
   <spawn centerx="917" centery="48" centerz="7" radius="5"/>
-  <spawn centerx="133" centery="49" centerz="7" radius="1">
-    <npc name="Dufi" x="0" y="-1" z="7" spawntime="18"/>
-  </spawn>
   <spawn centerx="731" centery="49" centerz="7" radius="2"/>
   <spawn centerx="739" centery="49" centerz="7" radius="2"/>
   <spawn centerx="748" centery="49" centerz="7" radius="2">
@@ -7629,7 +7626,6 @@
     <monster name="Grim Reaper of Strong" x="1" y="3" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="942" centery="51" centerz="7" radius="2"/>
-  <spawn centerx="124" centery="52" centerz="7" radius="1"/>
   <spawn centerx="343" centery="52" centerz="7" radius="9">
     <monster name="Medusa of Strong" x="-8" y="-7" z="7" spawntime="60"/>
     <monster name="Medusa of Strong" x="-8" y="5" z="7" spawntime="60"/>
@@ -7661,6 +7657,9 @@
     <monster name="Medusa of Strong" x="1" y="-1" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="711" centery="54" centerz="7" radius="2"/>
+  <spawn centerx="123" centery="55" centerz="7" radius="1">
+    <npc name="loot buyer" x="0" y="-1" z="7" spawntime="10"/>
+  </spawn>
   <spawn centerx="141" centery="55" centerz="7" radius="1">
     <npc name="seller rox" x="0" y="0" z="7" spawntime="18"/>
   </spawn>
@@ -7705,9 +7704,6 @@
     <monster name="Yakotep" x="4" y="28" z="7" spawntime="60"/>
     <monster name="Yakotep" x="22" y="29" z="7" spawntime="60"/>
     <monster name="Yakotep" x="-27" y="30" z="7" spawntime="60"/>
-  </spawn>
-  <spawn centerx="129" centery="57" centerz="7" radius="5">
-    <npc name="Haroun" x="-4" y="1" z="7" spawntime="18"/>
   </spawn>
   <spawn centerx="103" centery="58" centerz="7" radius="3">
     <monster name="Dragon" x="1" y="2" z="7" spawntime="60"/>
@@ -8311,8 +8307,13 @@
     <monster name="Grim Reaper of Strong" x="-1" y="0" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="1584" centery="105" centerz="7" radius="5">
-    <monster name="Demon Vip" x="2" y="3" z="7" spawntime="18"/>
-    <monster name="Demon Vip" x="2" y="5" z="7" spawntime="18"/>
+    <monster name="Minishabaal" x="-4" y="-4" z="7" spawntime="60"/>
+    <monster name="The Obliverator" x="-1" y="-4" z="7" spawntime="60"/>
+    <monster name="The Obliverator" x="-2" y="-1" z="7" spawntime="60"/>
+    <monster name="Minishabaal" x="0" y="-1" z="7" spawntime="60"/>
+    <monster name="Minishabaal" x="2" y="3" z="7" spawntime="60"/>
+    <monster name="The Obliverator" x="4" y="3" z="7" spawntime="60"/>
+    <monster name="Minishabaal" x="2" y="5" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="223" centery="106" centerz="7" radius="5">
     <monster name="Undead Gladiator" x="-4" y="-4" z="7" spawntime="60"/>
@@ -8341,9 +8342,12 @@
     <monster name="Yakotep" x="-12" y="11" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="1575" centery="107" centerz="7" radius="5">
-    <monster name="Demon Vip" x="1" y="-3" z="7" spawntime="18"/>
-    <monster name="Demon Vip" x="0" y="2" z="7" spawntime="18"/>
-    <monster name="Demon Vip" x="-4" y="3" z="7" spawntime="18"/>
+    <monster name="Minishabaal" x="1" y="-3" z="7" spawntime="60"/>
+    <monster name="The Obliverator" x="2" y="-1" z="7" spawntime="60"/>
+    <monster name="Minishabaal" x="0" y="2" z="7" spawntime="60"/>
+    <monster name="The Obliverator" x="-4" y="3" z="7" spawntime="60"/>
+    <monster name="The Obliverator" x="-1" y="3" z="7" spawntime="60"/>
+    <monster name="Minishabaal" x="2" y="3" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="430" centery="109" centerz="7" radius="4">
     <monster name="Frost Dragon" x="-3" y="0" z="7" spawntime="60"/>
@@ -8374,7 +8378,12 @@
   <spawn centerx="282" centery="112" centerz="7" radius="1">
     <monster name="Dragon" x="0" y="0" z="7" spawntime="60"/>
   </spawn>
-  <spawn centerx="1585" centery="112" centerz="7" radius="5"/>
+  <spawn centerx="1585" centery="112" centerz="7" radius="5">
+    <monster name="The Obliverator" x="5" y="-1" z="7" spawntime="60"/>
+    <monster name="The Obliverator" x="5" y="0" z="7" spawntime="60"/>
+    <monster name="Minishabaal" x="-1" y="2" z="7" spawntime="60"/>
+    <monster name="The Obliverator" x="0" y="2" z="7" spawntime="60"/>
+  </spawn>
   <spawn centerx="456" centery="113" centerz="7" radius="4">
     <monster name="Frost Dragon" x="0" y="-2" z="7" spawntime="60"/>
     <monster name="Frost Dragon" x="-1" y="2" z="7" spawntime="60"/>
@@ -8389,8 +8398,8 @@
   </spawn>
   <spawn centerx="802" centery="115" centerz="7" radius="5"/>
   <spawn centerx="1570" centery="116" centerz="7" radius="5">
-    <monster name="Demon Vip" x="-2" y="0" z="7" spawntime="18"/>
-    <monster name="Demon Vip" x="-2" y="1" z="7" spawntime="60"/>
+    <monster name="The Obliverator" x="-3" y="1" z="7" spawntime="60"/>
+    <monster name="The Obliverator" x="3" y="5" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="1442" centery="117" centerz="7" radius="1">
     <monster name="Lost Soul" x="0" y="0" z="7" spawntime="41"/>
@@ -8414,11 +8423,12 @@
     <monster name="Frost Dragon" x="-2" y="3" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="1579" centery="119" centerz="7" radius="5">
-    <monster name="Demon Vip" x="2" y="-1" z="7" spawntime="18"/>
-    <monster name="Demon Vip" x="-4" y="3" z="7" spawntime="18"/>
-    <monster name="Demon Vip" x="-4" y="4" z="7" spawntime="60"/>
-    <monster name="Demon Vip" x="-3" y="4" z="7" spawntime="60"/>
-    <monster name="Demon Vip" x="0" y="4" z="7" spawntime="18"/>
+    <monster name="Minishabaal" x="2" y="-1" z="7" spawntime="60"/>
+    <monster name="The Obliverator" x="3" y="1" z="7" spawntime="60"/>
+    <monster name="Minishabaal" x="-4" y="3" z="7" spawntime="60"/>
+    <monster name="Minishabaal" x="-2" y="3" z="7" spawntime="60"/>
+    <monster name="The Obliverator" x="-1" y="4" z="7" spawntime="60"/>
+    <monster name="The Obliverator" x="2" y="4" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="432" centery="120" centerz="7" radius="3">
     <monster name="Frost Dragon" x="2" y="-1" z="7" spawntime="60"/>
@@ -8441,7 +8451,13 @@
     <monster name="Fury" x="4" y="5" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="1567" centery="123" centerz="7" radius="5">
-    <monster name="Demon Vip" x="-5" y="-1" z="7" spawntime="18"/>
+    <monster name="The Obliverator" x="-5" y="-3" z="7" spawntime="60"/>
+    <monster name="Minishabaal" x="-5" y="-1" z="7" spawntime="60"/>
+    <monster name="Minishabaal" x="-4" y="-1" z="7" spawntime="60"/>
+    <monster name="Minishabaal" x="-4" y="0" z="7" spawntime="60"/>
+    <monster name="Minishabaal" x="-2" y="1" z="7" spawntime="60"/>
+    <monster name="The Obliverator" x="-4" y="2" z="7" spawntime="60"/>
+    <monster name="The Obliverator" x="1" y="4" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="1444" centery="125" centerz="7" radius="1">
     <monster name="Demon Vip" x="1" y="-1" z="7" spawntime="30"/>
@@ -8487,20 +8503,30 @@
     <monster name="Fury" x="2" y="2" z="7" spawntime="18"/>
   </spawn>
   <spawn centerx="1579" centery="132" centerz="7" radius="5">
-    <monster name="Demon Vip" x="-4" y="-2" z="7" spawntime="18"/>
-    <monster name="Demon Vip" x="3" y="-1" z="7" spawntime="60"/>
-    <monster name="Demon Vip" x="4" y="-1" z="7" spawntime="18"/>
-    <monster name="Demon Vip" x="-4" y="0" z="7" spawntime="18"/>
-    <monster name="Demon Vip" x="3" y="0" z="7" spawntime="60"/>
+    <monster name="Minishabaal" x="-4" y="-2" z="7" spawntime="60"/>
+    <monster name="The Obliverator" x="-1" y="-1" z="7" spawntime="60"/>
+    <monster name="Minishabaal" x="3" y="-1" z="7" spawntime="60"/>
+    <monster name="The Obliverator" x="4" y="-1" z="7" spawntime="60"/>
+    <monster name="Minishabaal" x="-4" y="0" z="7" spawntime="60"/>
+    <monster name="The Obliverator" x="3" y="0" z="7" spawntime="60"/>
+    <monster name="The Obliverator" x="-4" y="1" z="7" spawntime="60"/>
+    <monster name="Minishabaal" x="-2" y="1" z="7" spawntime="60"/>
+    <monster name="The Obliverator" x="-2" y="3" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="1562" centery="134" centerz="7" radius="5">
-    <monster name="Demon Vip" x="-5" y="-4" z="7" spawntime="18"/>
-    <monster name="Demon Vip" x="-5" y="-3" z="7" spawntime="18"/>
-    <monster name="Zoralurk" x="0" y="-3" z="7" spawntime="40"/>
-    <monster name="Demon Vip" x="5" y="4" z="7" spawntime="18"/>
-    <monster name="Demon Vip" x="-1" y="5" z="7" spawntime="18"/>
+    <monster name="The Obliverator" x="-5" y="-4" z="7" spawntime="60"/>
+    <monster name="Minishabaal" x="-5" y="-3" z="7" spawntime="60"/>
+    <monster name="Minishabaal" x="0" y="-3" z="7" spawntime="60"/>
+    <monster name="The Obliverator" x="0" y="-1" z="7" spawntime="60"/>
+    <monster name="The Obliverator" x="5" y="1" z="7" spawntime="60"/>
+    <monster name="Minishabaal" x="5" y="4" z="7" spawntime="60"/>
+    <monster name="Minishabaal" x="-1" y="5" z="7" spawntime="60"/>
   </spawn>
-  <spawn centerx="1571" centery="134" centerz="7" radius="5"/>
+  <spawn centerx="1571" centery="134" centerz="7" radius="5">
+    <monster name="Minishabaal" x="-2" y="-4" z="7" spawntime="60"/>
+    <monster name="The Obliverator" x="-2" y="-3" z="7" spawntime="60"/>
+    <monster name="The Obliverator" x="-1" y="2" z="7" spawntime="60"/>
+  </spawn>
   <spawn centerx="125" centery="136" centerz="7" radius="4">
     <monster name="Dragon" x="2" y="2" z="7" spawntime="18"/>
   </spawn>
@@ -9311,72 +9337,100 @@
     <monster name="Demon" x="2" y="2" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="1224" centery="729" centerz="7" radius="100">
-    <monster name="Hellspawn of Strong" x="-5" y="-27" z="7" spawntime="60"/>
-    <monster name="Hellspawn of Strong" x="-31" y="-22" z="7" spawntime="60"/>
-    <monster name="Hellspawn of Strong" x="-31" y="-21" z="7" spawntime="60"/>
-    <monster name="Hellspawn of Strong" x="-3" y="-21" z="7" spawntime="60"/>
-    <monster name="Hellspawn of Strong" x="-5" y="-20" z="7" spawntime="60"/>
-    <monster name="Hellspawn of Strong" x="-35" y="-17" z="7" spawntime="60"/>
-    <monster name="Hellspawn of Strong" x="-2" y="-17" z="7" spawntime="60"/>
-    <monster name="Hellspawn of Strong" x="-27" y="-16" z="7" spawntime="60"/>
-    <monster name="Hellspawn of Strong" x="-11" y="-16" z="7" spawntime="60"/>
-    <monster name="Hellspawn of Strong" x="-4" y="-16" z="7" spawntime="60"/>
-    <monster name="Hellspawn of Strong" x="-2" y="-15" z="7" spawntime="60"/>
-    <monster name="Hellspawn of Strong" x="19" y="-15" z="7" spawntime="60"/>
-    <monster name="Hellspawn of Strong" x="-2" y="-14" z="7" spawntime="60"/>
-    <monster name="Hellspawn of Strong" x="8" y="-13" z="7" spawntime="60"/>
-    <monster name="Hellspawn of Strong" x="-28" y="-12" z="7" spawntime="60"/>
-    <monster name="Hellspawn of Strong" x="10" y="-12" z="7" spawntime="60"/>
-    <monster name="Hellspawn of Strong" x="13" y="-12" z="7" spawntime="60"/>
-    <monster name="Hellspawn of Strong" x="14" y="-12" z="7" spawntime="60"/>
-    <monster name="Hellspawn of Strong" x="15" y="-11" z="7" spawntime="60"/>
-    <monster name="Hellspawn of Strong" x="-7" y="-10" z="7" spawntime="60"/>
-    <monster name="Hellspawn of Strong" x="-23" y="-9" z="7" spawntime="60"/>
-    <monster name="Hellspawn of Strong" x="-22" y="-9" z="7" spawntime="60"/>
-    <monster name="Hellspawn of Strong" x="-10" y="-8" z="7" spawntime="60"/>
-    <monster name="Hellspawn of Strong" x="-12" y="-6" z="7" spawntime="60"/>
-    <monster name="Hellspawn of Strong" x="-12" y="-5" z="7" spawntime="60"/>
-    <monster name="Hellspawn of Strong" x="-11" y="-3" z="7" spawntime="60"/>
-    <monster name="Hellspawn of Strong" x="26" y="-3" z="7" spawntime="60"/>
+    <monster name="Hellfire Fighter" x="-5" y="-26" z="7" spawntime="60"/>
+    <monster name="Hellfire Fighter" x="-2" y="-24" z="7" spawntime="60"/>
+    <monster name="Hellhound" x="18" y="-24" z="7" spawntime="60"/>
+    <monster name="Hellgorak" x="-32" y="-22" z="7" spawntime="60"/>
+    <monster name="Hellfire Fighter" x="-6" y="-22" z="7" spawntime="60"/>
+    <monster name="Abominator" x="-35" y="-21" z="7" spawntime="60"/>
+    <monster name="Hellfire Fighter" x="-32" y="-21" z="7" spawntime="60"/>
+    <monster name="Hellhound" x="-4" y="-21" z="7" spawntime="60"/>
+    <monster name="Abominator" x="-2" y="-21" z="7" spawntime="60"/>
+    <monster name="Hellhound" x="-26" y="-18" z="7" spawntime="60"/>
+    <monster name="Hellfire Fighter" x="-5" y="-18" z="7" spawntime="60"/>
+    <monster name="Hellhound" x="-38" y="-17" z="7" spawntime="60"/>
+    <monster name="Hellhound" x="2" y="-17" z="7" spawntime="60"/>
+    <monster name="Hellfire Fighter" x="-33" y="-16" z="7" spawntime="60"/>
+    <monster name="Hellfire Fighter" x="-26" y="-16" z="7" spawntime="60"/>
+    <monster name="Hellgorak" x="-6" y="-15" z="7" spawntime="60"/>
+    <monster name="Hellhound" x="-3" y="-15" z="7" spawntime="60"/>
+    <monster name="Hellhound" x="18" y="-15" z="7" spawntime="60"/>
+    <monster name="Hellfire Fighter" x="0" y="-14" z="7" spawntime="60"/>
+    <monster name="Hellhound" x="2" y="-14" z="7" spawntime="60"/>
+    <monster name="Hellhound" x="11" y="-14" z="7" spawntime="60"/>
+    <monster name="Abominator" x="17" y="-14" z="7" spawntime="60"/>
+    <monster name="Hellfire Fighter" x="-27" y="-13" z="7" spawntime="60"/>
+    <monster name="Hellfire Fighter" x="21" y="-13" z="7" spawntime="60"/>
+    <monster name="Hellhound" x="-7" y="-12" z="7" spawntime="60"/>
+    <monster name="Hellfire Fighter" x="7" y="-12" z="7" spawntime="60"/>
+    <monster name="Hellgorak" x="-28" y="-11" z="7" spawntime="60"/>
+    <monster name="Hellgorak" x="12" y="-11" z="7" spawntime="60"/>
+    <monster name="Hellhound" x="-21" y="-10" z="7" spawntime="60"/>
+    <monster name="Hellfire Fighter" x="-5" y="-10" z="7" spawntime="60"/>
+    <monster name="Hellhound" x="15" y="-10" z="7" spawntime="60"/>
+    <monster name="Hellhound" x="-26" y="-9" z="7" spawntime="60"/>
+    <monster name="Abominator" x="-18" y="-7" z="7" spawntime="60"/>
+    <monster name="Hellfire Fighter" x="-21" y="-6" z="7" spawntime="60"/>
+    <monster name="Hellhound" x="-13" y="-6" z="7" spawntime="60"/>
+    <monster name="Hellfire Fighter" x="-11" y="-5" z="7" spawntime="60"/>
+    <monster name="Hellfire Fighter" x="13" y="-5" z="7" spawntime="60"/>
+    <monster name="Hellhound" x="-10" y="-4" z="7" spawntime="60"/>
     <monster name="Hero" x="35" y="-3" z="7" spawntime="60"/>
-    <monster name="Hellspawn of Strong" x="-12" y="-2" z="7" spawntime="60"/>
-    <monster name="Hellspawn of Strong" x="30" y="-2" z="7" spawntime="60"/>
-    <monster name="Hellspawn of Strong" x="-12" y="-1" z="7" spawntime="60"/>
-    <monster name="Hellspawn of Strong" x="16" y="-1" z="7" spawntime="60"/>
-    <monster name="Hellspawn of Strong" x="16" y="0" z="7" spawntime="60"/>
-    <monster name="Hellspawn of Strong" x="26" y="0" z="7" spawntime="60"/>
-    <monster name="Hellspawn of Strong" x="20" y="2" z="7" spawntime="60"/>
-    <monster name="Hellspawn of Strong" x="34" y="2" z="7" spawntime="60"/>
-    <monster name="Hellspawn of Strong" x="-14" y="4" z="7" spawntime="60"/>
-    <monster name="Hellspawn of Strong" x="16" y="5" z="7" spawntime="60"/>
-    <monster name="Hellspawn of Strong" x="31" y="5" z="7" spawntime="60"/>
-    <monster name="Hellspawn of Strong" x="17" y="7" z="7" spawntime="60"/>
-    <monster name="Hellspawn of Strong" x="-18" y="8" z="7" spawntime="60"/>
-    <monster name="Hellspawn of Strong" x="-11" y="10" z="7" spawntime="60"/>
-    <monster name="Hellspawn of Strong" x="-22" y="12" z="7" spawntime="60"/>
-    <monster name="Hellspawn of Strong" x="-21" y="12" z="7" spawntime="60"/>
-    <monster name="Hellspawn of Strong" x="-9" y="12" z="7" spawntime="60"/>
-    <monster name="Hellspawn of Strong" x="-7" y="12" z="7" spawntime="60"/>
-    <monster name="Hellspawn of Strong" x="-17" y="13" z="7" spawntime="60"/>
-    <monster name="Hellspawn of Strong" x="8" y="13" z="7" spawntime="60"/>
-    <monster name="Hellspawn of Strong" x="-31" y="14" z="7" spawntime="60"/>
-    <monster name="Hellspawn of Strong" x="-22" y="14" z="7" spawntime="60"/>
-    <monster name="Hellspawn of Strong" x="-27" y="15" z="7" spawntime="60"/>
-    <monster name="Hellspawn of Strong" x="-1" y="15" z="7" spawntime="60"/>
-    <monster name="Hellspawn of Strong" x="0" y="15" z="7" spawntime="60"/>
-    <monster name="Hellspawn of Strong" x="9" y="15" z="7" spawntime="60"/>
-    <monster name="Hellspawn of Strong" x="-35" y="16" z="7" spawntime="60"/>
-    <monster name="Hellspawn of Strong" x="-27" y="16" z="7" spawntime="60"/>
-    <monster name="Hellspawn of Strong" x="9" y="16" z="7" spawntime="60"/>
-    <monster name="Hellspawn of Strong" x="13" y="16" z="7" spawntime="60"/>
-    <monster name="Hellspawn of Strong" x="20" y="16" z="7" spawntime="60"/>
-    <monster name="Hellspawn of Strong" x="20" y="18" z="7" spawntime="60"/>
-    <monster name="Hellspawn of Strong" x="-29" y="19" z="7" spawntime="60"/>
-    <monster name="Hellspawn of Strong" x="9" y="19" z="7" spawntime="60"/>
-    <monster name="Hellspawn of Strong" x="-36" y="20" z="7" spawntime="60"/>
-    <monster name="Hellspawn of Strong" x="17" y="21" z="7" spawntime="60"/>
-    <monster name="Hellspawn of Strong" x="23" y="21" z="7" spawntime="60"/>
-    <monster name="Hellspawn of Strong" x="17" y="22" z="7" spawntime="60"/>
+    <monster name="Hellgorak" x="-13" y="-1" z="7" spawntime="60"/>
+    <monster name="Hellfire Fighter" x="21" y="-1" z="7" spawntime="60"/>
+    <monster name="Hellhound" x="-15" y="0" z="7" spawntime="60"/>
+    <monster name="Hellfire Fighter" x="-12" y="0" z="7" spawntime="60"/>
+    <monster name="Hellfire Fighter" x="34" y="0" z="7" spawntime="60"/>
+    <monster name="Hellhound" x="17" y="1" z="7" spawntime="60"/>
+    <monster name="Hellhound" x="24" y="1" z="7" spawntime="60"/>
+    <monster name="Hellgorak" x="19" y="2" z="7" spawntime="60"/>
+    <monster name="Abominator" x="27" y="3" z="7" spawntime="60"/>
+    <monster name="Hellfire Fighter" x="21" y="4" z="7" spawntime="60"/>
+    <monster name="Hellfire Fighter" x="33" y="4" z="7" spawntime="60"/>
+    <monster name="Abominator" x="16" y="5" z="7" spawntime="60"/>
+    <monster name="Hellfire Fighter" x="11" y="8" z="7" spawntime="60"/>
+    <monster name="Hellhound" x="17" y="8" z="7" spawntime="60"/>
+    <monster name="Hellgorak" x="17" y="9" z="7" spawntime="60"/>
+    <monster name="Hellfire Fighter" x="-18" y="11" z="7" spawntime="60"/>
+    <monster name="Hellhound" x="-12" y="11" z="7" spawntime="60"/>
+    <monster name="Abominator" x="-29" y="12" z="7" spawntime="60"/>
+    <monster name="Hellfire Fighter" x="-9" y="12" z="7" spawntime="60"/>
+    <monster name="Abominator" x="-8" y="12" z="7" spawntime="60"/>
+    <monster name="Hellhound" x="-3" y="12" z="7" spawntime="60"/>
+    <monster name="Hellfire Fighter" x="-2" y="12" z="7" spawntime="60"/>
+    <monster name="Hellfire Fighter" x="2" y="12" z="7" spawntime="60"/>
+    <monster name="Hellfire Fighter" x="-32" y="13" z="7" spawntime="60"/>
+    <monster name="Hellfire Fighter" x="-28" y="13" z="7" spawntime="60"/>
+    <monster name="Hellhound" x="-20" y="13" z="7" spawntime="60"/>
+    <monster name="Hellhound" x="12" y="13" z="7" spawntime="60"/>
+    <monster name="Hellgorak" x="13" y="13" z="7" spawntime="60"/>
+    <monster name="The Obliverator" x="28" y="13" z="7" spawntime="60"/>
+    <monster name="Hellgorak" x="-3" y="14" z="7" spawntime="60"/>
+    <monster name="Hellhound" x="4" y="14" z="7" spawntime="60"/>
+    <monster name="Hellhound" x="-29" y="15" z="7" spawntime="60"/>
+    <monster name="Hellfire Fighter" x="10" y="15" z="7" spawntime="60"/>
+    <monster name="Hellhound" x="-34" y="16" z="7" spawntime="60"/>
+    <monster name="Hellfire Fighter" x="-8" y="16" z="7" spawntime="60"/>
+    <monster name="Hellfire Fighter" x="17" y="16" z="7" spawntime="60"/>
+    <monster name="Hellfire Fighter" x="-20" y="17" z="7" spawntime="60"/>
+    <monster name="Hellfire Fighter" x="-15" y="17" z="7" spawntime="60"/>
+    <monster name="Hellfire Fighter" x="1" y="17" z="7" spawntime="60"/>
+    <monster name="Hellfire Fighter" x="-36" y="18" z="7" spawntime="60"/>
+    <monster name="Hellhound" x="7" y="18" z="7" spawntime="60"/>
+    <monster name="The Obliverator" x="18" y="18" z="7" spawntime="60"/>
+    <monster name="Hellhound" x="-30" y="19" z="7" spawntime="60"/>
+    <monster name="Hellfire Fighter" x="-26" y="19" z="7" spawntime="60"/>
+    <monster name="Hellfire Fighter" x="12" y="19" z="7" spawntime="60"/>
+    <monster name="Hellfire Fighter" x="16" y="20" z="7" spawntime="60"/>
+    <monster name="The Obliverator" x="33" y="20" z="7" spawntime="60"/>
+    <monster name="Hellhound" x="-35" y="21" z="7" spawntime="60"/>
+    <monster name="The Obliverator" x="24" y="22" z="7" spawntime="60"/>
+    <monster name="Hellspawn of Strong" x="27" y="24" z="7" spawntime="60"/>
+    <monster name="The Obliverator" x="23" y="25" z="7" spawntime="60"/>
+    <monster name="The Obliverator" x="32" y="26" z="7" spawntime="60"/>
+    <monster name="The Obliverator" x="18" y="29" z="7" spawntime="60"/>
+    <monster name="The Obliverator" x="29" y="30" z="7" spawntime="60"/>
+    <monster name="The Obliverator" x="23" y="31" z="7" spawntime="60"/>
     <monster name="hydra of Strong" x="-25" y="100" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="276" centery="733" centerz="7" radius="5">
@@ -12817,45 +12871,44 @@
     <monster name="Cyclops" x="0" y="1" z="8" spawntime="20"/>
   </spawn>
   <spawn centerx="181" centery="45" centerz="8" radius="50">
-    <monster name="Skills Up" x="-15" y="-6" z="8" spawntime="60"/>
-    <monster name="Skills Up" x="-13" y="-6" z="8" spawntime="60"/>
-    <monster name="Skills Up" x="-11" y="-6" z="8" spawntime="60"/>
-    <monster name="Skills Up" x="-9" y="-6" z="8" spawntime="60"/>
-    <monster name="Skills Up" x="-7" y="-6" z="8" spawntime="60"/>
-    <monster name="Skills Up" x="-5" y="-6" z="8" spawntime="60"/>
+    <monster name="Trainer Slayer" x="-15" y="-6" z="8" spawntime="10"/>
+    <monster name="Trainer Slayer" x="-13" y="-6" z="8" spawntime="10"/>
+    <monster name="Trainer Slayer" x="-11" y="-6" z="8" spawntime="10"/>
+    <monster name="Trainer Slayer" x="-9" y="-6" z="8" spawntime="10"/>
+    <monster name="Trainer Slayer" x="-7" y="-6" z="8" spawntime="10"/>
+    <monster name="Trainer Slayer" x="-5" y="-6" z="8" spawntime="10"/>
     <monster name="Skills Up" x="-3" y="-6" z="8" spawntime="60"/>
-    <monster name="Skills Up" x="-1" y="-6" z="8" spawntime="60"/>
-    <monster name="Skills Up" x="1" y="-6" z="8" spawntime="60"/>
-    <monster name="Skills Up" x="3" y="-6" z="8" spawntime="60"/>
-    <monster name="Skills Up" x="5" y="-6" z="8" spawntime="60"/>
-    <monster name="Skills Up" x="7" y="-6" z="8" spawntime="60"/>
-    <monster name="Skills Up" x="9" y="-6" z="8" spawntime="60"/>
-    <monster name="Skills Up" x="11" y="-6" z="8" spawntime="60"/>
-    <monster name="Skills Up" x="13" y="-6" z="8" spawntime="60"/>
-    <monster name="Skills Up" x="15" y="-6" z="8" spawntime="60"/>
-    <monster name="Skills Up" x="17" y="-6" z="8" spawntime="60"/>
-    <monster name="Skills Up" x="19" y="-6" z="8" spawntime="60"/>
+    <monster name="Trainer Slayer" x="-1" y="-6" z="8" spawntime="10"/>
+    <monster name="Trainer Slayer" x="1" y="-6" z="8" spawntime="10"/>
+    <monster name="Trainer Slayer" x="3" y="-6" z="8" spawntime="10"/>
+    <monster name="Trainer Slayer" x="5" y="-6" z="8" spawntime="10"/>
+    <monster name="Trainer Slayer" x="7" y="-6" z="8" spawntime="10"/>
+    <monster name="Trainer Slayer" x="9" y="-6" z="8" spawntime="10"/>
+    <monster name="Trainer Slayer" x="11" y="-6" z="8" spawntime="10"/>
+    <monster name="Trainer Slayer" x="13" y="-6" z="8" spawntime="10"/>
+    <monster name="Trainer Slayer" x="15" y="-6" z="8" spawntime="10"/>
+    <monster name="Trainer Slayer" x="17" y="-6" z="8" spawntime="10"/>
+    <monster name="Trainer Slayer" x="19" y="-6" z="8" spawntime="10"/>
     <npc name="Donald" x="-10" y="0" z="8" spawntime="60"/>
     <npc name="Donald" x="0" y="0" z="8" spawntime="60"/>
     <npc name="Donald" x="10" y="0" z="8" spawntime="60"/>
     <monster name="Cyclops" x="-42" y="1" z="8" spawntime="20"/>
-    <monster name="Skills Up" x="-11" y="6" z="8" spawntime="60"/>
-    <monster name="Skills Up" x="-9" y="6" z="8" spawntime="60"/>
-    <monster name="Skills Up" x="-7" y="6" z="8" spawntime="60"/>
-    <monster name="Skills Up" x="-5" y="6" z="8" spawntime="60"/>
-    <monster name="Skills Up" x="-3" y="6" z="8" spawntime="60"/>
-    <monster name="Skills Up" x="-1" y="6" z="8" spawntime="60"/>
-    <monster name="Skills Up" x="1" y="6" z="8" spawntime="60"/>
-    <monster name="Skills Up" x="3" y="6" z="8" spawntime="60"/>
-    <monster name="Skills Up" x="5" y="6" z="8" spawntime="60"/>
-    <monster name="Skills Up" x="7" y="6" z="8" spawntime="60"/>
-    <monster name="Skills Up" x="9" y="6" z="8" spawntime="60"/>
-    <monster name="Skills Up" x="11" y="6" z="8" spawntime="60"/>
-    <monster name="Skills Up" x="13" y="6" z="8" spawntime="60"/>
-    <monster name="Skills Up" x="15" y="6" z="8" spawntime="60"/>
-    <monster name="Skills Up" x="17" y="6" z="8" spawntime="60"/>
-    <monster name="Skills Up" x="19" y="6" z="8" spawntime="60"/>
-    <monster name="Rotworm" x="-50" y="7" z="8" spawntime="20"/>
+    <monster name="Trainer Slayer" x="-11" y="6" z="8" spawntime="10"/>
+    <monster name="Trainer Slayer" x="-9" y="6" z="8" spawntime="10"/>
+    <monster name="Trainer Slayer" x="-7" y="6" z="8" spawntime="10"/>
+    <monster name="Trainer Slayer" x="-5" y="6" z="8" spawntime="10"/>
+    <monster name="Trainer Slayer" x="-3" y="6" z="8" spawntime="10"/>
+    <monster name="Trainer Slayer" x="-1" y="6" z="8" spawntime="10"/>
+    <monster name="Trainer Slayer" x="1" y="6" z="8" spawntime="10"/>
+    <monster name="Trainer Slayer" x="3" y="6" z="8" spawntime="10"/>
+    <monster name="Trainer Slayer" x="5" y="6" z="8" spawntime="10"/>
+    <monster name="Trainer Slayer" x="7" y="6" z="8" spawntime="10"/>
+    <monster name="Trainer Slayer" x="9" y="6" z="8" spawntime="10"/>
+    <monster name="Trainer Slayer" x="11" y="6" z="8" spawntime="10"/>
+    <monster name="Trainer Slayer" x="13" y="6" z="8" spawntime="10"/>
+    <monster name="Trainer Slayer" x="15" y="6" z="8" spawntime="10"/>
+    <monster name="Trainer Slayer" x="17" y="6" z="8" spawntime="10"/>
+    <monster name="Trainer Slayer" x="19" y="6" z="8" spawntime="10"/>
     <monster name="Rotworm" x="-36" y="8" z="8" spawntime="20"/>
     <monster name="Rotworm" x="-4" y="8" z="8" spawntime="40"/>
     <monster name="Rotworm" x="-27" y="9" z="8" spawntime="10"/>
@@ -12894,6 +12947,7 @@
     <monster name="Rotworm" x="-37" y="31" z="8" spawntime="20"/>
     <monster name="Rotworm" x="-17" y="31" z="8" spawntime="20"/>
     <monster name="Rotworm" x="-43" y="32" z="8" spawntime="20"/>
+    <monster name="Demon" x="-17" y="50" z="8" spawntime="30"/>
   </spawn>
   <spawn centerx="140" centery="47" centerz="8" radius="1"/>
   <spawn centerx="460" centery="51" centerz="8" radius="4"/>
@@ -12921,15 +12975,6 @@
     <monster name="Frost Dragon of Strong" x="-21" y="26" z="8" spawntime="60"/>
     <monster name="Frost Dragon of Strong" x="-11" y="27" z="8" spawntime="60"/>
     <monster name="Frost Dragon of Strong" x="-3" y="30" z="8" spawntime="60"/>
-  </spawn>
-  <spawn centerx="126" centery="57" centerz="8" radius="5">
-    <monster name="Rotworm" x="-5" y="-4" z="8" spawntime="20"/>
-    <monster name="Rotworm" x="2" y="-4" z="8" spawntime="20"/>
-    <monster name="Rotworm" x="-2" y="-1" z="8" spawntime="20"/>
-    <monster name="Rotworm Queen" x="1" y="0" z="8" spawntime="40"/>
-    <monster name="Rotworm" x="4" y="0" z="8" spawntime="40"/>
-    <monster name="Rotworm" x="4" y="2" z="8" spawntime="20"/>
-    <monster name="Rotworm" x="-3" y="4" z="8" spawntime="20"/>
   </spawn>
   <spawn centerx="150" centery="57" centerz="8" radius="5"/>
   <spawn centerx="110" centery="62" centerz="8" radius="1">
@@ -13071,6 +13116,7 @@
   <spawn centerx="120" centery="95" centerz="8" radius="3">
     <monster name="Cyclops" x="-1" y="-3" z="8" spawntime="18"/>
   </spawn>
+  <spawn centerx="164" centery="95" centerz="8" radius="1"/>
   <spawn centerx="275" centery="95" centerz="8" radius="1">
     <monster name="Demodras" x="1" y="-1" z="8" spawntime="60"/>
   </spawn>
@@ -13138,6 +13184,9 @@
     <monster name="Warlock of Strong" x="8" y="28" z="8" spawntime="60"/>
     <monster name="Warlock of Strong" x="20" y="29" z="8" spawntime="60"/>
   </spawn>
+  <spawn centerx="170" centery="99" centerz="8" radius="1">
+    <monster name="Demon" x="0" y="-1" z="8" spawntime="30"/>
+  </spawn>
   <spawn centerx="692" centery="100" centerz="8" radius="5">
     <monster name="Medusa of Strong" x="-3" y="-2" z="8" spawntime="60"/>
     <monster name="Medusa of Strong" x="1" y="1" z="8" spawntime="60"/>
@@ -13201,6 +13250,9 @@
   <spawn centerx="250" centery="104" centerz="8" radius="1">
     <monster name="Demodras" x="1" y="0" z="8" spawntime="60"/>
   </spawn>
+  <spawn centerx="165" centery="106" centerz="8" radius="1">
+    <monster name="Fire Devil" x="0" y="0" z="8" spawntime="30"/>
+  </spawn>
   <spawn centerx="339" centery="106" centerz="8" radius="1"/>
   <spawn centerx="648" centery="106" centerz="8" radius="5">
     <monster name="Medusa of Strong" x="-1" y="-1" z="8" spawntime="60"/>
@@ -13209,6 +13261,9 @@
   <spawn centerx="699" centery="106" centerz="8" radius="5"/>
   <spawn centerx="307" centery="108" centerz="8" radius="1">
     <monster name="Demodras" x="0" y="0" z="8" spawntime="30"/>
+  </spawn>
+  <spawn centerx="171" centery="109" centerz="8" radius="5">
+    <monster name="Demon" x="1" y="0" z="8" spawntime="30"/>
   </spawn>
   <spawn centerx="271" centery="110" centerz="8" radius="1">
     <monster name="Demodras" x="1" y="0" z="8" spawntime="60"/>
@@ -13229,6 +13284,9 @@
   <spawn centerx="111" centery="111" centerz="8" radius="3">
     <monster name="Cyclops" x="-2" y="1" z="8" spawntime="18"/>
     <monster name="Cyclops" x="2" y="1" z="8" spawntime="18"/>
+  </spawn>
+  <spawn centerx="185" centery="112" centerz="8" radius="1">
+    <monster name="Demon" x="0" y="0" z="8" spawntime="30"/>
   </spawn>
   <spawn centerx="676" centery="112" centerz="8" radius="5"/>
   <spawn centerx="852" centery="112" centerz="8" radius="5">
@@ -13256,6 +13314,10 @@
   <spawn centerx="322" centery="116" centerz="8" radius="1">
     <monster name="Demodras" x="0" y="1" z="8" spawntime="60"/>
   </spawn>
+  <spawn centerx="181" centery="117" centerz="8" radius="3">
+    <monster name="The Obliverator" x="-2" y="0" z="8" spawntime="10"/>
+    <monster name="infernal" x="2" y="0" z="8" spawntime="10"/>
+  </spawn>
   <spawn centerx="692" centery="118" centerz="8" radius="5">
     <monster name="Medusa of Strong" x="2" y="1" z="8" spawntime="60"/>
     <monster name="Medusa of Strong" x="-1" y="3" z="8" spawntime="60"/>
@@ -13267,6 +13329,9 @@
   <spawn centerx="660" centery="121" centerz="8" radius="5">
     <monster name="Medusa of Strong" x="2" y="-4" z="8" spawntime="60"/>
     <monster name="Medusa of Strong" x="-1" y="4" z="8" spawntime="60"/>
+  </spawn>
+  <spawn centerx="194" centery="123" centerz="8" radius="5">
+    <monster name="Demon" x="1" y="-3" z="8" spawntime="10"/>
   </spawn>
   <spawn centerx="676" centery="123" centerz="8" radius="5">
     <monster name="Medusa of Strong" x="1" y="-5" z="8" spawntime="60"/>
@@ -13282,6 +13347,10 @@
     <monster name="Zombie" x="2" y="2" z="8" spawntime="18"/>
     <monster name="Zombie" x="-5" y="5" z="8" spawntime="18"/>
   </spawn>
+  <spawn centerx="170" centery="127" centerz="8" radius="5">
+    <monster name="Demon" x="-4" y="-4" z="8" spawntime="30"/>
+    <monster name="Demon" x="5" y="5" z="8" spawntime="30"/>
+  </spawn>
   <spawn centerx="300" centery="129" centerz="8" radius="1">
     <monster name="Demodras" x="0" y="0" z="8" spawntime="30"/>
   </spawn>
@@ -13290,6 +13359,9 @@
     <monster name="Medusa of Strong" x="-5" y="0" z="8" spawntime="60"/>
     <monster name="Medusa of Strong" x="-1" y="0" z="8" spawntime="60"/>
     <monster name="Medusa of Strong" x="3" y="0" z="8" spawntime="60"/>
+  </spawn>
+  <spawn centerx="185" centery="131" centerz="8" radius="5">
+    <monster name="Demon" x="3" y="1" z="8" spawntime="30"/>
   </spawn>
   <spawn centerx="692" centery="133" centerz="8" radius="5">
     <monster name="Medusa of Strong" x="-3" y="3" z="8" spawntime="60"/>
@@ -13348,6 +13420,14 @@
   <spawn centerx="305" centery="139" centerz="8" radius="1">
     <monster name="Demodras" x="0" y="0" z="8" spawntime="30"/>
   </spawn>
+  <spawn centerx="174" centery="140" centerz="8" radius="5">
+    <monster name="Demon" x="0" y="1" z="8" spawntime="10"/>
+  </spawn>
+  <spawn centerx="200" centery="140" centerz="8" radius="5">
+    <monster name="Demon" x="3" y="-3" z="8" spawntime="10"/>
+    <monster name="Demon" x="4" y="3" z="8" spawntime="10"/>
+    <monster name="Demon" x="-4" y="5" z="8" spawntime="10"/>
+  </spawn>
   <spawn centerx="335" centery="140" centerz="8" radius="1">
     <monster name="Demodras" x="-1" y="0" z="8" spawntime="60"/>
   </spawn>
@@ -13357,8 +13437,15 @@
   <spawn centerx="244" centery="142" centerz="8" radius="1">
     <monster name="Demodras" x="0" y="-1" z="8" spawntime="60"/>
   </spawn>
+  <spawn centerx="164" centery="145" centerz="8" radius="5">
+    <monster name="Demon" x="1" y="-1" z="8" spawntime="10"/>
+  </spawn>
   <spawn centerx="289" centery="146" centerz="8" radius="1">
     <monster name="Demodras" x="0" y="0" z="8" spawntime="30"/>
+  </spawn>
+  <spawn centerx="179" centery="148" centerz="8" radius="5">
+    <monster name="Demon" x="5" y="-2" z="8" spawntime="10"/>
+    <monster name="Behemoth" x="-4" y="4" z="8" spawntime="30"/>
   </spawn>
   <spawn centerx="348" centery="148" centerz="8" radius="1">
     <monster name="Demodras" x="1" y="1" z="8" spawntime="60"/>

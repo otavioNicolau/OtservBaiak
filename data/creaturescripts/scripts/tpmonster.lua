@@ -3,7 +3,7 @@ message = "Congrulations. Teleport close in 1 minute",
 timeToRemove = 60, -- seconds
 teleportId = 1387,
 bosses = {
-["Magician"] = { x = 459, y = 594, z = 7 },
+["Hellspawn Of Strong"] = { x = 1249, y = 745, z = 7 },
 
 }
 }

@@ -5,7 +5,7 @@
   <house name="Great Street I" houseid="25" entryx="157" entryy="29" entryz="7" rent="0" townid="1" size="18"/>
   <house name="Great Street II" houseid="26" entryx="163" entryy="31" entryz="7" rent="0" townid="1" size="28"/>
   <house name="Condominio Europa II" houseid="35" entryx="144" entryy="41" entryz="6" rent="0" townid="1" size="10"/>
-  <house name="Condominio Europa III" houseid="36" entryx="145" entryy="48" entryz="6" rent="0" townid="1" size="21"/>
+  <house name="Condominio Europa III" houseid="36" entryx="145" entryy="48" entryz="6" rent="0" townid="1" size="27"/>
   <house name="Upper Street I" houseid="37" entryx="165" entryy="25" entryz="6" rent="0" townid="1" size="32"/>
   <house name="Upper Street II" houseid="38" entryx="165" entryy="28" entryz="6" rent="0" townid="1" size="10"/>
   <house name="Upper Street III" houseid="39" entryx="165" entryy="30" entryz="6" rent="0" townid="1" size="13"/>

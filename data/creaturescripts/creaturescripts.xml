@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <creaturescripts>
 	<event type="login" name="PlayerLogin" event="script" value="login.lua"/>
+<event type="death" name="teleportmonster" script="tpmonster.lua"/>
 <event type="advance" name="AdvanceSave" event="script" value="advancesave.lua"/>
 <event type="advance" name="Advance" event="script" value="Advance.lua"/>
 	<event type="joinchannel" name="GuildMotd" event="script" value="guildmotd.lua"/>
