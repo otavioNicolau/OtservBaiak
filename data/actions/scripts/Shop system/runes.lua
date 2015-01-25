@@ -1,4 +1,4 @@
-local money = 300
+local money = 150
 local lever = {
 [7000] = {1,2268},
 [7001] = {1,2278},
@@ -13,11 +13,13 @@ local lever = {
 }
 function onUse(cid,item,fromPosition,itemEx,toPosition)
     if getPlayerMoney(cid) <= money then
-    return doPlayerSendTextMessage(cid,MESSAGE_INFO_DESCR, "voce nao tem grana suficiente para comprar esse item")
+    return doPlayerSendTextMessage(cid,MESSAGE_INFO_DESCR, "voce tem que ter 150Gps para comprar esse item.")
     end
     	doPlayerRemoveMoney(cid, money)		
        	doPlayerAddItem(cid,lever[item.actionid][2])
+doSendMagicEffect(fromPosition, CONST_ME_GIFT_WRAPS)
+doSendAnimatedText(fromPosition, "Comprado", TEXTCOLOR_RED)
        	doPlayerSendTextMessage(cid,22,"voce comprou um(a) " .. getItemNameById(lever[item.actionid][2]))
-       	doSendMagicEffect(getCreaturePosition(cid), math.random(28,30))
+       	doSendMagicEffect(getCreaturePosition(cid), math.random(28))
     return true
 end

@@ -34,37 +34,39 @@
 	<action uniqueid="6021" script="Shop system/Donation.lua" />
 	<action uniqueid="6022" script="Shop system/Donation.lua" />
 	<action uniqueid="6023" script="Shop system/Donation.lua" />
-	<action uniqueid="6024" script="Shop system/Donation.lua" />
-	<action uniqueid="6025" script="Shop system/Donation.lua" />
-	<action uniqueid="6026" script="Shop system/Donation.lua" />
-	<action uniqueid="6027" script="Shop system/Donation.lua" />
-	<action uniqueid="6028" script="Shop system/Donation.lua" />
-	<action uniqueid="6029" script="Shop system/Donation.lua" />
-	<action uniqueid="6030" script="Shop system/Donation.lua" />
-	<action uniqueid="6031" script="Shop system/Donation.lua" />
-	<action uniqueid="6032" script="Shop system/Donation.lua" />
-	<action uniqueid="6033" script="Shop system/Donation.lua" />
-	<action uniqueid="6034" script="Shop system/Donation.lua" />
-	<action uniqueid="6035" script="Shop system/Donation.lua" />
-	<action uniqueid="6036" script="Shop system/Donation.lua" />
-	<action uniqueid="6037" script="Shop system/Donation.lua" />
-	<action uniqueid="6038" script="Shop system/Donation.lua" />
-	<action uniqueid="6039" script="Shop system/Donation.lua" />
-	<action uniqueid="6040" script="Shop system/Donation.lua" />
-	<action uniqueid="6041" script="Shop system/Donation.lua" />
-	<action uniqueid="6042" script="Shop system/Donation.lua" />
-	<action uniqueid="6043" script="Shop system/Donation.lua" />
-	<action uniqueid="6044" script="Shop system/Donation.lua" />
-	<action uniqueid="6045" script="Shop system/Donation.lua" />
-	<action uniqueid="6046" script="Shop system/Donation.lua" />
-	<action uniqueid="6047" script="Shop system/Donation.lua" />
-	<action uniqueid="6048" script="Shop system/Donation.lua" />
-	<action uniqueid="6049" script="Shop system/Donation.lua" />
-	<action uniqueid="6050" script="Shop system/Donation.lua" />
-	<action uniqueid="6051" script="Shop system/Donation.lua" />
-	<action uniqueid="6052" script="Shop system/Donation.lua" />
-	<action uniqueid="6053" script="Shop system/Donation.lua" />
-     <action uniqueid="6054" script="Shop system/Donation.lua"/>
+	<action uniqueid="6024" script="Shop system/items.lua" />
+	<action uniqueid="6025" script="Shop system/items.lua" />
+	<action uniqueid="6026" script="Shop system/items.lua" />
+	<action uniqueid="6027" script="Shop system/items.lua" />
+	<action uniqueid="6028" script="Shop system/items.lua" />
+	<action uniqueid="6029" script="Shop system/items.lua" />
+	<action uniqueid="6030" script="Shop system/items.lua" />
+	<action uniqueid="6031" script="Shop system/items.lua" />
+	<action uniqueid="6032" script="Shop system/mega set.lua" />
+	<action uniqueid="6033" script="Shop system/mega set.lua" />
+	<action uniqueid="6034" script="Shop system/mega set.lua" />
+	<action uniqueid="6035" script="Shop system/mega set.lua" />
+	<action uniqueid="6036" script="Shop system/mega set.lua" />
+	<action uniqueid="6037" script="Shop system/items.lua" />
+	<action uniqueid="6038" script="Shop system/items.lua" />
+	<action uniqueid="6039" script="Shop system/items.lua" />
+	<action uniqueid="6040" script="Shop system/items.lua" />
+	<action uniqueid="6041" script="Shop system/items.lua" />
+	<action uniqueid="6042" script="Shop system/items.lua" />
+	<action uniqueid="6043" script="Shop system/items.lua" />
+	<action uniqueid="6044" script="Shop system/items.lua" />
+	<action uniqueid="6045" script="Shop system/items.lua" />
+	<action uniqueid="6046" script="Shop system/items.lua" />
+	<action uniqueid="6047" script="Shop system/items.lua" />
+	<action uniqueid="6048" script="Shop system/items.lua" />
+	<action uniqueid="6049" script="Shop system/items.lua" />
+	<action uniqueid="6050" script="Shop system/items.lua" />
+	<action uniqueid="6051" script="Shop system/items.lua" />
+	<action uniqueid="6052" script="Shop system/items.lua" />
+	<action uniqueid="6053" script="Shop system/items.lua" />
+     <action uniqueid="6054" script="Shop system/items.lua"/>
+
+
 <!-- Rune shop -->
 	<action uniqueid="7000" script="Shop system/runes.lua" />
 	<action uniqueid="7001" script="Shop system/runes.lua" />
@@ -74,7 +76,6 @@
 	<action uniqueid="7005" script="Shop system/runes.lua" />
 	<action uniqueid="7006" script="Shop system/runes.lua" />
 	<action uniqueid="7007" script="Shop system/runes.lua" />
-	<action uniqueid="7008" script="Shop system/runes.lua" />
 	<action uniqueid="7008" script="Shop system/aol.lua" />
 
 	<!-- strong pra ultimate -->
@@ -83,6 +84,12 @@
 	<action itemid="8310" script="vipitem/update1.lua" />
 	<!-- great para ultimate -->
 	<action itemid="8299" script="vipitem/update2.lua" />
+	<action itemid="5157" script="xvx/pedemanga.lua" />
+	<action itemid="4006" script="xvx/laranjeira.lua" />
+	<action itemid="5096" script="xvx/coqueiro.lua" />
+	<action itemid="5094" script="xvx/bananeira2.lua" />
+	<action itemid="5095" script="xvx/bananeira.lua" />
+      <action uniqueid="8735" script="piratedoor.lua" />
 	
 
 	<!-- Quests -->

@@ -12952,6 +12952,9 @@
   <spawn centerx="140" centery="47" centerz="8" radius="1"/>
   <spawn centerx="460" centery="51" centerz="8" radius="4"/>
   <spawn centerx="469" centery="51" centerz="8" radius="4"/>
+  <spawn centerx="124" centery="54" centerz="8" radius="2">
+    <npc name="Updade Seller" x="0" y="0" z="8" spawntime="60"/>
+  </spawn>
   <spawn centerx="797" centery="55" centerz="8" radius="30">
     <monster name="Frost Dragon of Strong" x="-10" y="-18" z="8" spawntime="60"/>
     <monster name="Frost Dragon of Strong" x="-6" y="-9" z="8" spawntime="60"/>
@@ -12977,6 +12980,7 @@
     <monster name="Frost Dragon of Strong" x="-3" y="30" z="8" spawntime="60"/>
   </spawn>
   <spawn centerx="150" centery="57" centerz="8" radius="5"/>
+  <spawn centerx="122" centery="59" centerz="8" radius="2"/>
   <spawn centerx="110" centery="62" centerz="8" radius="1">
     <monster name="Poison spider" x="-1" y="-1" z="8" spawntime="20"/>
   </spawn>
