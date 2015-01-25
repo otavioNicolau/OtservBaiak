@@ -1,14 +1,14 @@
 --Script made by Pitufo/Haifurer, edited by figaro!
 local config = {
-    [0] = { "Fist skill UP", 30}, -- 30 = variable[2]  -- Animation effect
-    [1] = { "Club skill UP", 30}, -- 30 = variable[2]  -- Animation effect
-    [2] = { "Sword skill UP", 30}, -- 30 = variable[2]  -- Animation effect
-    [3] = { "Axe skill UP", 30}, -- 30 = variable[2]  -- Animation effect
-    [4] = { "Distance skill UP", 30}, -- 30 = variable[2]  -- Animation effect
-    [5] = { "Shield skill UP", 30}, -- 30 = variable[2]  -- Animation effect
-    [6] = { "Fishing skill UP", 30}, -- 30 = variable[2]  -- Animation effect
-    [7] = { "Magic level UP", 30}, -- 30 = variable[2]  -- Animation effect
-    [8] = { "Level UP", 30} -- 30 = variable[2]  -- Animation effect
+    [0] = { "Fist skill UP", 30}, -- 31 = variable[2]  -- Animation effect
+    [1] = { "Club skill UP", 30}, -- 31 = variable[2]  -- Animation effect
+    [2] = { "Sword skill UP", 30}, -- 31 = variable[2]  -- Animation effect
+    [3] = { "Axe skill UP", 30}, -- 31 = variable[2]  -- Animation effect
+    [4] = { "Distance skill UP", 30}, -- 31 = variable[2]  -- Animation effect
+    [5] = { "Shield skill UP", 30}, -- 31 = variable[2]  -- Animation effect
+    [6] = { "Fishing skill UP", 30}, -- 31 = variable[2]  -- Animation effect
+    [7] = { "Magic level UP", 30}, -- 31 = variable[2]  -- Animation effect
+    [8] = { "Level UP", 30} -- 31 = variable[2]  -- Animation effect
 }
 
 

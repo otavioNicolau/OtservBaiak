@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <creaturescripts>
+
+<event type="kill" name="exp" event="script" value="exp.lua"/>
+	<event type="kill" name="BountyHunter" script="kill.lua"/>
+	<event type="kill" name="FragsWarning" event="script" value="frags2.lua"/>
 	<event type="login" name="PlayerLogin" event="script" value="login.lua"/>
 <event type="advance" name="AdvanceSave" event="script" value="advancesave.lua"/>
 	<event type="advance" name="AdvanceTp" event="script" value="advancetp.lua"/>
