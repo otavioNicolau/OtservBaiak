@@ -12,7 +12,7 @@ local config = {
         ["Anqui"] = { x = 150, y = 44, z = 7 },
         ["Quests"] = { x = 145, y = 44, z = 7 },
         ["Treiners"] = { x = 148, y = 44, z = 7 },
-
+["Templo."] = { x = 172, y = 61, z = 6 },
     }
 }
 

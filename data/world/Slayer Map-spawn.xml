@@ -4373,22 +4373,6 @@
   <spawn centerx="1131" centery="43" centerz="6" radius="10">
     <monster name="Orshabaal" x="-4" y="4" z="6" spawntime="60"/>
   </spawn>
-  <spawn centerx="149" centery="44" centerz="6" radius="5">
-    <monster name="Trainer Slayer" x="-1" y="1" z="6" spawntime="60"/>
-    <monster name="Trainer Slayer" x="1" y="1" z="6" spawntime="60"/>
-    <monster name="Trainer Slayer" x="3" y="1" z="6" spawntime="60"/>
-    <monster name="Trainer Slayer" x="5" y="1" z="6" spawntime="60"/>
-  </spawn>
-  <spawn centerx="153" centery="44" centerz="6" radius="5">
-    <monster name="Trainer Slayer" x="3" y="1" z="6" spawntime="60"/>
-    <monster name="Trainer Slayer" x="5" y="1" z="6" spawntime="60"/>
-  </spawn>
-  <spawn centerx="157" centery="44" centerz="6" radius="1"/>
-  <spawn centerx="163" centery="44" centerz="6" radius="5">
-    <monster name="Trainer Slayer" x="-2" y="0" z="6" spawntime="60"/>
-    <monster name="Trainer Slayer" x="1" y="1" z="6" spawntime="60"/>
-  </spawn>
-  <spawn centerx="161" centery="45" centerz="6" radius="1"/>
   <spawn centerx="1210" centery="45" centerz="6" radius="5">
     <monster name="Nightmare Scion" x="2" y="-2" z="6" spawntime="60"/>
     <monster name="Nightmare Scion" x="-3" y="2" z="6" spawntime="60"/>
@@ -4413,6 +4397,24 @@
   </spawn>
   <spawn centerx="123" centery="48" centerz="6" radius="1">
     <npc name="Aol Seller" x="0" y="0" z="6" spawntime="10"/>
+  </spawn>
+  <spawn centerx="156" centery="48" centerz="6" radius="9">
+    <monster name="Trainer Slayer" x="4" y="-4" z="6" spawntime="60"/>
+    <monster name="Trainer Slayer" x="7" y="-4" z="6" spawntime="60"/>
+    <monster name="Trainer Slayer" x="-8" y="-3" z="6" spawntime="60"/>
+    <monster name="Trainer Slayer" x="-6" y="-3" z="6" spawntime="60"/>
+    <monster name="Trainer Slayer" x="-4" y="-3" z="6" spawntime="60"/>
+    <monster name="Trainer Slayer" x="-2" y="-3" z="6" spawntime="60"/>
+    <monster name="Trainer Slayer" x="0" y="-3" z="6" spawntime="60"/>
+    <monster name="Trainer Slayer" x="2" y="-3" z="6" spawntime="60"/>
+    <monster name="Trainer Slayer" x="5" y="-3" z="6" spawntime="60"/>
+    <monster name="Trainer Slayer" x="8" y="-3" z="6" spawntime="60"/>
+    <monster name="Trainer Slayer" x="-6" y="7" z="6" spawntime="60"/>
+    <monster name="Trainer Slayer" x="-4" y="7" z="6" spawntime="60"/>
+    <monster name="Trainer Slayer" x="-2" y="7" z="6" spawntime="60"/>
+    <monster name="Trainer Slayer" x="0" y="7" z="6" spawntime="60"/>
+    <monster name="Trainer Slayer" x="2" y="7" z="6" spawntime="60"/>
+    <monster name="Trainer Slayer" x="4" y="7" z="6" spawntime="60"/>
   </spawn>
   <spawn centerx="1182" centery="48" centerz="6" radius="5">
     <monster name="Nightmare Scion" x="0" y="-1" z="6" spawntime="60"/>
@@ -4523,17 +4525,6 @@
     <monster name="Orshabaal" x="-3" y="2" z="6" spawntime="60"/>
   </spawn>
   <spawn centerx="1298" centery="53" centerz="6" radius="5"/>
-  <spawn centerx="159" centery="54" centerz="6" radius="1">
-    <monster name="Trainer Slayer" x="-1" y="1" z="6" spawntime="60"/>
-    <monster name="Trainer Slayer" x="1" y="1" z="6" spawntime="60"/>
-  </spawn>
-  <spawn centerx="151" centery="55" centerz="6" radius="5">
-    <monster name="Trainer Slayer" x="-1" y="0" z="6" spawntime="60"/>
-    <monster name="Trainer Slayer" x="1" y="0" z="6" spawntime="60"/>
-    <monster name="Trainer Slayer" x="3" y="0" z="6" spawntime="60"/>
-    <monster name="Trainer Slayer" x="5" y="0" z="6" spawntime="60"/>
-  </spawn>
-  <spawn centerx="155" centery="55" centerz="6" radius="5"/>
   <spawn centerx="1198" centery="55" centerz="6" radius="5">
     <monster name="Nightmare Scion" x="4" y="-3" z="6" spawntime="60"/>
     <monster name="Nightmare Scion" x="-3" y="0" z="6" spawntime="60"/>
@@ -12952,9 +12943,6 @@
   <spawn centerx="140" centery="47" centerz="8" radius="1"/>
   <spawn centerx="460" centery="51" centerz="8" radius="4"/>
   <spawn centerx="469" centery="51" centerz="8" radius="4"/>
-  <spawn centerx="124" centery="54" centerz="8" radius="2">
-    <npc name="Updade Seller" x="0" y="0" z="8" spawntime="60"/>
-  </spawn>
   <spawn centerx="797" centery="55" centerz="8" radius="30">
     <monster name="Frost Dragon of Strong" x="-10" y="-18" z="8" spawntime="60"/>
     <monster name="Frost Dragon of Strong" x="-6" y="-9" z="8" spawntime="60"/>
